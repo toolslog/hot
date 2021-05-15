@@ -18,4 +18,4 @@ jobs:
           # 注意替换为你的 GitHub 源仓库地址
           github-repo: "git@github.com:toolslog/hot.git"
           # 注意替换为你的 Gitee 目标仓库地址
-          gitee-repo: "git@github.com:x-dr/hot.git"
+          gitee-repo: "git@gitee.com:goindex/hot.git"
