@@ -1,4 +1,4 @@
-name: Sync Repository Action
+name: Sync Repository gitee
 on:
   push:
   #schedule:
