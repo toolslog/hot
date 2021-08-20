@@ -12,7 +12,7 @@ jobs:
     - name: sync github repository
       uses: x-dr/SRA@v1
       env:
-          # 在 Settings->Secrets 配置 GITEE_KEY
+          # 在 Settings->Secrets配置 GITEE_KEY
           SSH_KEY: ${{ secrets.GITEE }}
       with:
           # 注意替换为你的 GitHub 源仓库地址
