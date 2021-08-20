@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: sync github repository
-      uses: x-dr/SRA@v1
+      uses: x-dr/SRA@v2
       env:
           # 在 Settings->Secrets配置 GITEE_KEY
           SSH_KEY: ${{ secrets.GITEE }}
