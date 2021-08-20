@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Sync to Gitee
-      uses: x-dr/sync-repo-to-gitee@master
+    - name: sync github repository
+      uses: x-dr/SRA@v1
       env:
           # 在 Settings->Secrets 配置 GITEE_KEY
           SSH_KEY: ${{ secrets.GITEE }}
