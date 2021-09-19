@@ -39,9 +39,9 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
-      - name: 'Create a Release'
-        uses: elgohr/Github-Release-Action@v3.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        with:
-          args: result
+#       - name: 'Create a Release'
+#         uses: elgohr/Github-Release-Action@v3.1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+#         with:
+#           args: result
