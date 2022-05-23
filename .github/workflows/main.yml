@@ -1,9 +1,9 @@
 name: 'GitHub Actions result'
 
 on:
-  # push:
-  #   branches: 
-  #     - master
+  push:
+    branches: 
+      - master
   schedule:
    - cron: '20 * * * *'
 jobs:
