@@ -1,10 +1,7 @@
 
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# @Time    : 19-7-19 下午4:10
-# @Author  : Hubery
-# @File    : run.py
-# @Software: PyCharm
+
 import json
 import os
 

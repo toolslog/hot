@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# @Time    : 19-7-4 下午5:55
-# @Author  : Hubery
-# @File    : helper.py
-# @Software: PyCharm
+
 
 import time
 import requests
@@ -48,6 +45,7 @@ def get_text(url, options={}):
         # print(res.status_code)
         if res.status_code == 200:
             print('抓取成功', url, res.status_code)
+            print(url)
             return res
     except ConnectionError:
         print('抓取失败', url)

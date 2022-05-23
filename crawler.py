@@ -1,31 +1,37 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# @Time    : 19-7-2 下午3:02
-# @Author  : Hubery
-# @File    : crawler.py
-# @Software: PyCharm
 
+import re
 from lxml import etree
 from helper import get_text
 
+def validate_title(title):
+    new_title=re.sub("#","", title)
+    return new_title
 
 def crawler_wei_bo():
     """
     爬取微博热榜
     :return:
     """
-    url = 'https://s.weibo.com/top/summary?cate=realtimehot'
+    url = 'https://weibo.com/ajax/statuses/hot_band'
     response_html = get_text(url)
-    content_list = []
-    if response_html:
-        tree = etree.HTML(response_html.text)
-        tr_list = tree.xpath('//table/tbody/tr')[1:]
-        for tr in tr_list:
-            # index = tr.xpath('./td[1]/text()')[0]
-            title = tr.xpath('./td[2]/a/text()')[0]
-            href = 'https://s.weibo.com%s' % tr.xpath('./td[2]/a/@href')[0]
-            content_list.append({'title': title, 'href': href})
-    return {'hot_name': '新浪微博', 'content': content_list}
+    RawData = response_html.json()
+    Result = RawData["data"]["band_list"]
+    Top = f'[置顶]{RawData["data"]["hotgov"]["name"]}'
+    Topurl=f'https://s.weibo.com/weibo?q=%23{validate_title(RawData["data"]["hotgov"]["name"])}%23'
+    Data = [{'title':Top,'href': Topurl}]
+    print(Topurl)
+
+
+    # Data.append({'title': f'{Result["note"]}', 'href': f'https://s.weibo.com/weibo?q=%23{Result["note"]}%23'})
+
+    for i in range(len(Result)):
+        # Result = RawData["data"]["band_list"][i]
+        Data.append({'title':f'{i+1}.{Result[i]["note"]}','href':f'https://s.weibo.com/weibo?q=%23{Result[i]["note"]}%23'})
+
+    # print(Data)
+    return {'hot_name': '新浪微博', 'content': Data}
 
 
 def crawler_zhi_hu():
@@ -186,7 +192,7 @@ def crawler_wang_yi():
 
 if __name__ == '__main__':
     print()
-    #wei_bo = crawler_wei_bo()
+    # wei_bo = crawler_wei_bo()
     # print(wei_bo)
     # zhi_hu = crawler_zhi_hu()
     # print(zhi_hu)

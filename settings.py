@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# @Time    : 19-7-19 下午4:09
-# @Author  : Hubery
-# @File    : settings.py
-# @Software: PyCharm
+
 
 import random
 
