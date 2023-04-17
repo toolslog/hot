@@ -160,8 +160,8 @@ def crawler_github():
         tree = etree.HTML(response_html.text)
         article_list = tree.xpath("//article[@class='Box-row']")
         for article in article_list:
-            title = article.xpath('string(./h1/a)').strip()
-            href = 'https://github.com/%s' % article.xpath('./h1/a/@href')[0]
+            title = article.xpath('string(./h2/a)').strip()
+            href = 'https://github.com/%s' % article.xpath('./h2/a/@href')[0]
             describe = article.xpath('string(./p)').strip()
             content_list.append({'title':'%s---%s' % (title, describe), 'href': href})
     return {'hot_name': 'GitHub', 'content': content_list}
