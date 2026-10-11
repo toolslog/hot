@@ -4,7 +4,7 @@
         "content": [
             {
                 "title": "内存越来越贵会不会拉高 Linux 的装机率？",
-                "href": "https://www.v2ex.com/t/1247772#reply68"
+                "href": "https://www.v2ex.com/t/1247772#reply69"
             },
             {
                 "title": "3 个月用了 287 亿的 token。。。",
@@ -32,7 +32,7 @@
             },
             {
                 "title": "发现了新的泡水好喝的东西",
-                "href": "https://www.v2ex.com/t/1247774#reply28"
+                "href": "https://www.v2ex.com/t/1247774#reply29"
             },
             {
                 "title": "求助，为什么新申请的招行 visa 信用卡死活绑不了 google play 的支付",
@@ -68,7 +68,7 @@
             },
             {
                 "title": "你们说 关于闲鱼上的东西 有没有这么一种可能",
-                "href": "https://www.v2ex.com/t/1247832#reply15"
+                "href": "https://www.v2ex.com/t/1247832#reply16"
             },
             {
                 "title": "又重置了？",
@@ -77,6 +77,10 @@
             {
                 "title": "llm 时代，架构师和普通大头兵的在专业上的区别在哪",
                 "href": "https://www.v2ex.com/t/1247878#reply12"
+            },
+            {
+                "title": "gpt 相比其他模型废话多好多，你们是怎么优化的",
+                "href": "https://www.v2ex.com/t/1247908#reply11"
             },
             {
                 "title": "[开源自荐] 微子：家里的电脑扫一次码，在外面接着用 AI 会话、VS Code、终端和远程桌面",
@@ -103,8 +107,12 @@
                 "href": "https://www.v2ex.com/t/1247836#reply7"
             },
             {
-                "title": "gpt 相比其他模型废话多好多，你们是怎么优化的",
-                "href": "https://www.v2ex.com/t/1247908#reply7"
+                "title": "ChatGPT 桌面版邀请",
+                "href": "https://www.v2ex.com/t/1247856#reply7"
+            },
+            {
+                "title": "分享下我的网络方案",
+                "href": "https://www.v2ex.com/t/1247874#reply7"
             },
             {
                 "title": "Node.js 到 Go：夸克资源搜索站(pansou.de)的架构重构实践",
@@ -119,10 +127,6 @@
                 "href": "https://www.v2ex.com/t/1247831#reply6"
             },
             {
-                "title": "分享下我的网络方案",
-                "href": "https://www.v2ex.com/t/1247874#reply6"
-            },
-            {
                 "title": "微软新开源 LiteBox library OS",
                 "href": "https://www.v2ex.com/t/1247760#reply5"
             },
@@ -133,14 +137,6 @@
             {
                 "title": "写了个不用虚拟网卡、直接对进程 Hook 转发的 Windows 游戏 TCP 加速小工具",
                 "href": "https://www.v2ex.com/t/1247785#reply5"
-            },
-            {
-                "title": "实测 GPT-6 Astra 踩坑：过度防御直接把代码写成了屎山",
-                "href": "https://www.v2ex.com/t/1247824#reply5"
-            },
-            {
-                "title": "ChatGPT 桌面版邀请",
-                "href": "https://www.v2ex.com/t/1247856#reply5"
             }
         ]
     },
