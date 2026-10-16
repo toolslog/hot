@@ -1,0 +1,807 @@
+[
+    {
+        "hot_name": "V2EX",
+        "content": [
+            {
+                "title": "国庆回去被说肥头大耳，下定决心减肥了",
+                "href": "https://www.v2ex.com/t/1249207#reply42"
+            },
+            {
+                "title": "iPhone Duo 是买港版还是买国行 你怎么看？",
+                "href": "https://www.v2ex.com/t/1249206#reply13"
+            },
+            {
+                "title": "社保贷",
+                "href": "https://www.v2ex.com/t/1249204#reply10"
+            },
+            {
+                "title": "睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？",
+                "href": "https://www.v2ex.com/t/1249215#reply10"
+            },
+            {
+                "title": "用 rea 重写一切，这次是 listary",
+                "href": "https://www.v2ex.com/t/1249200#reply8"
+            },
+            {
+                "title": "x 上的俄的鼠 yi 没人讨论？有没有了解多一些的大佬？",
+                "href": "https://www.v2ex.com/t/1249211#reply7"
+            },
+            {
+                "title": "都说福建人亲戚遍布海外，怎么我家一个都没有？",
+                "href": "https://www.v2ex.com/t/1249218#reply5"
+            },
+            {
+                "title": "各位大佬本人想在 tiktok 发视频，求推荐长期稳定的 vps，",
+                "href": "https://www.v2ex.com/t/1249212#reply4"
+            },
+            {
+                "title": "深圳美女最多的行业是哪个呢？",
+                "href": "https://www.v2ex.com/t/1249219#reply4"
+            },
+            {
+                "title": "OpenAI 这个 MFA 关闭是不是就不会收到短信验证码了",
+                "href": "https://www.v2ex.com/t/1249202#reply2"
+            },
+            {
+                "title": "滚动截屏 Chrome 插件，没一个好用的，自己用 AI 撸了个",
+                "href": "https://www.v2ex.com/t/1249217#reply2"
+            },
+            {
+                "title": "做了个开源 macOS 应用 Luti：让网页版 Claude / ChatGPT / Grok / Gemini / Muse 等通过 MCP 直接操作本地项目",
+                "href": "https://www.v2ex.com/t/1249199#reply1"
+            },
+            {
+                "title": "求推荐 2.5g 支持 PPPOE 硬件加速的光猫",
+                "href": "https://www.v2ex.com/t/1249201#reply1"
+            },
+            {
+                "title": "中午吃饭减肥控重的姿势",
+                "href": "https://www.v2ex.com/t/1249205#reply1"
+            },
+            {
+                "title": "买一手 mbp m5 pro 时间点问题 .",
+                "href": "https://www.v2ex.com/t/1249209#reply1"
+            },
+            {
+                "title": "开发了一个 macos 软件自在工具箱, 可以替代超级右键和 ishot 的功能, 集成 finder 右键功能, 各种截图包括长截图, 录频等, 开源出来, 大家一起使用, 欢迎提 bug",
+                "href": "https://www.v2ex.com/t/1249210#reply1"
+            },
+            {
+                "title": "想买个货车 上汽 吉利 五菱",
+                "href": "https://www.v2ex.com/t/1249214#reply1"
+            },
+            {
+                "title": "做了款肉鸽游戏背单词的 App",
+                "href": "https://www.v2ex.com/t/1249220#reply1"
+            },
+            {
+                "title": "推荐一个 MacOS 的小工具：语音搭子",
+                "href": "https://www.v2ex.com/t/1249216#reply0"
+            },
+            {
+                "title": "分享一个用 Rust 写的分布式缓存/存储项目 Curvine，内存占用极低，顺便聊聊大家在 AI/大数据场景下的缓存选型",
+                "href": "https://www.v2ex.com/t/1249221#reply0"
+            },
+            {
+                "title": "[抽奖🧧] 双 11 开始了，推荐下自己的微信返利机器人",
+                "href": "https://www.v2ex.com/t/1249225#reply0"
+            }
+        ]
+    },
+    {
+        "hot_name": "GitHub",
+        "content": [
+            {
+                "title": "morluto /\n\n      rea---Reverse engineer anything with agents, from app behavior down to native binaries.",
+                "href": "https://github.com//morluto/rea"
+            },
+            {
+                "title": "anthropics /\n\n      claude-plugins-official---Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+                "href": "https://github.com//anthropics/claude-plugins-official"
+            },
+            {
+                "title": "K-Dense-AI /\n\n      scientific-agent-skills---Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+                "href": "https://github.com//K-Dense-AI/scientific-agent-skills"
+            },
+            {
+                "title": "JuliusBrussee /\n\n      caveman---🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+                "href": "https://github.com//JuliusBrussee/caveman"
+            },
+            {
+                "title": "debpalash /\n\n      VoiceStudio---VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+                "href": "https://github.com//debpalash/VoiceStudio"
+            },
+            {
+                "title": "obra /\n\n      superpowers---An agentic skills framework & software development methodology that works.",
+                "href": "https://github.com//obra/superpowers"
+            },
+            {
+                "title": "ruvnet /\n\n      ruflo---🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+                "href": "https://github.com//ruvnet/ruflo"
+            },
+            {
+                "title": "mksglu /\n\n      context-mode---Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+                "href": "https://github.com//mksglu/context-mode"
+            },
+            {
+                "title": "NationalSecurityAgency /\n\n      ghidra---Ghidra is a software reverse engineering (SRE) framework",
+                "href": "https://github.com//NationalSecurityAgency/ghidra"
+            },
+            {
+                "title": "affaan-m /\n\n      ECC---The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                "href": "https://github.com//affaan-m/ECC"
+            },
+            {
+                "title": "lightseekorg /\n\n      tokenspeed---TokenSpeed is a speed-of-light LLM inference engine.",
+                "href": "https://github.com//lightseekorg/tokenspeed"
+            },
+            {
+                "title": "xerj-org /\n\n      xerj---XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+                "href": "https://github.com//xerj-org/xerj"
+            }
+        ]
+    },
+    {
+        "hot_name": "豆瓣",
+        "content": [
+            {
+                "title": "吃不重要，享受当业余大厨的成就感",
+                "href": "https://www.douban.com/group/topic/502474871/?_spm_id=MTMzNTQ0ODM1"
+            },
+            {
+                "title": "历时一年多的小院终于弄好了七七八八",
+                "href": "https://www.douban.com/group/topic/502466976/?_spm_id=NjYzMzY5NDg"
+            },
+            {
+                "title": "国庆去了一趟太阳超级好艺术氛围超浓的意呆利",
+                "href": "https://www.douban.com/group/topic/502500673/?_spm_id=MTU3NDk4MDI"
+            },
+            {
+                "title": "solotrip 香港",
+                "href": "https://www.douban.com/group/topic/502365684/?_spm_id=MjEzMDYzMzYz"
+            },
+            {
+                "title": "在南非做了半个月动物保护义工",
+                "href": "https://www.douban.com/group/topic/502527124/?_spm_id=MTczOTMzNzk0"
+            },
+            {
+                "title": "恐龙怎么叫",
+                "href": "https://www.douban.com/group/topic/502501957/?_spm_id=MjA3MTE5NzA3"
+            },
+            {
+                "title": "【钩针编织🍊】阳光好的时候就把自己放进去，像放一块陈皮~",
+                "href": "https://www.douban.com/group/topic/502476403/?_spm_id=MTI5NDUyMzMz"
+            },
+            {
+                "title": "人，你想看看我今天早餐是什么吗？",
+                "href": "https://www.douban.com/group/topic/502466287/?_spm_id=MzE4MzExNw"
+            },
+            {
+                "title": "合照做成了贴纸和冰箱贴，给朋友们的专属周边",
+                "href": "https://www.douban.com/group/topic/502466668/?_spm_id=NjI2MzIyODk"
+            },
+            {
+                "title": "低精力又有点爱干净懒人好物/经验分享",
+                "href": "https://www.douban.com/group/topic/502464361/?_spm_id=MjYyOTYzNTk0"
+            },
+            {
+                "title": "给大家分享一下我0基础自学木雕两年，下班后雕的小房子和小树，超治愈的",
+                "href": "https://www.douban.com/group/topic/502192216/?_spm_id=MjE0NTIxMTU5"
+            },
+            {
+                "title": "分享几个收集的随时随地都可以改善体态 养生方法",
+                "href": "https://www.douban.com/group/topic/502403714/?_spm_id=MTUzMzY3MDY3"
+            },
+            {
+                "title": "塔什干看展  |  Meseum of Applied Arts",
+                "href": "https://www.douban.com/group/topic/502303326/?_spm_id=MTMxMDA1NzMy"
+            },
+            {
+                "title": "也门的集市和市场(多图)",
+                "href": "https://www.douban.com/group/topic/502363169/?_spm_id=MzM3MjAwNg"
+            },
+            {
+                "title": "分享一套刚完工的马卡龙色的家",
+                "href": "https://www.douban.com/group/topic/502292444/?_spm_id=MjIxNjQwMzQz"
+            },
+            {
+                "title": "不要浪费这个季节的无患子哦",
+                "href": "https://www.douban.com/group/topic/502316551/?_spm_id=MTYyNDcxMzU5"
+            },
+            {
+                "title": "女生solo越南且首次出国大成功！（省流路线在评论区）",
+                "href": "https://www.douban.com/group/topic/502311525/?_spm_id=NTYwMDg0ODk"
+            },
+            {
+                "title": "今天学到的一些肿眼泡改善化法",
+                "href": "https://www.douban.com/group/topic/502350077/?_spm_id=MjU0NzE1MDk3"
+            },
+            {
+                "title": "被朋友封为最会买零食的人 安利一下最爱的一些零食",
+                "href": "https://www.douban.com/group/topic/502383677/?_spm_id=MTc3MTE1NzQ3"
+            },
+            {
+                "title": "我好像发现了一个很变态但巨好用的面试方式",
+                "href": "https://www.douban.com/group/topic/502413160/?_spm_id=MjI3OTMyNzQx"
+            },
+            {
+                "title": "大名鼎鼎的左宗棠鸡。。不单单是一道“伪中餐”。。。还记载着一个族群的生存史。。。。",
+                "href": "https://www.douban.com/group/topic/502230200/?_spm_id=MjA2ODMwNjQ3"
+            },
+            {
+                "title": "等车被大爷塞了一串葡萄",
+                "href": "https://www.douban.com/group/topic/502268869/?_spm_id=NzI1NzEyNDg"
+            },
+            {
+                "title": "科罗拉多国家纪念地",
+                "href": "https://www.douban.com/group/topic/502248135/?_spm_id=MTg5NzMwMjIz"
+            },
+            {
+                "title": "欣赏我的猫并夸奖她",
+                "href": "https://www.douban.com/group/topic/502293222/?_spm_id=MTU3MTk4NDA4"
+            },
+            {
+                "title": "177/62kg 高个子苹果型大骨架淡人的秋冬穿搭（佛系更新ing",
+                "href": "https://www.douban.com/group/topic/502173937/?_spm_id=MTk1NDU2MjM4"
+            },
+            {
+                "title": "一定要大量读书！敏感、拧巴、内耗，请狠狠读这6本书",
+                "href": "https://www.douban.com/group/topic/502136177/?_spm_id=MTc3NjY4MjE3"
+            },
+            {
+                "title": "123只猫猫头🐱",
+                "href": "https://www.douban.com/group/topic/502031311/?_spm_id=MTU1NjAwMzg"
+            },
+            {
+                "title": "寒露时节，山间桂花香",
+                "href": "https://www.douban.com/group/topic/502291014/?_spm_id=MjI0MjE5MA"
+            },
+            {
+                "title": "暑假在美打工三个月收入8W+",
+                "href": "https://www.douban.com/group/topic/502272406/?_spm_id=MjQzMDA0MzMw"
+            },
+            {
+                "title": "毛戈平化妆手法真牛！",
+                "href": "https://www.douban.com/group/topic/502110149/?_spm_id=MTgxMTk5NzQw"
+            }
+        ]
+    },
+    {
+        "hot_name": "贴吧",
+        "content": [
+            {
+                "title": "S16开赛!揭幕战欧洲拿首胜",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367276&topic_name=S16%E5%BC%80%E8%B5%9B%21%E6%8F%AD%E5%B9%95%E6%88%98%E6%AC%A7%E6%B4%B2%E6%8B%BF%E9%A6%96%E8%83%9C"
+            },
+            {
+                "title": "WE拿下BRO,进军德杯决赛",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367273&topic_name=WE%E6%8B%BF%E4%B8%8BBRO%2C%E8%BF%9B%E5%86%9B%E5%BE%B7%E6%9D%AF%E5%86%B3%E8%B5%9B"
+            },
+            {
+                "title": "Zuian三度遭拒签,赴美希望渺茫",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367274&topic_name=Zuian%E4%B8%89%E5%BA%A6%E9%81%AD%E6%8B%92%E7%AD%BE%2C%E8%B5%B4%E7%BE%8E%E5%B8%8C%E6%9C%9B%E6%B8%BA%E8%8C%AB"
+            },
+            {
+                "title": "豆包力压鲸鱼娘,荣获虎扑女神",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E"
+            },
+            {
+                "title": "绿龙地图辱华,马西西爆典补刀",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367230&topic_name=%E7%BB%BF%E9%BE%99%E5%9C%B0%E5%9B%BE%E8%BE%B1%E5%8D%8E%2C%E9%A9%AC%E8%A5%BF%E8%A5%BF%E7%88%86%E5%85%B8%E8%A1%A5%E5%88%80"
+            },
+            {
+                "title": "已恢复!DeepSeek发故障补偿",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF"
+            },
+            {
+                "title": "老干妈用AI一年狂赚54亿",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF"
+            },
+            {
+                "title": "Faker炒股,投钱就暴跌",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367218&topic_name=Faker%E7%82%92%E8%82%A1%2C%E6%8A%95%E9%92%B1%E5%B0%B1%E6%9A%B4%E8%B7%8C"
+            },
+            {
+                "title": "患者送1.9元汽水举报医生收礼",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367219&topic_name=%E6%82%A3%E8%80%85%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E6%94%B6%E7%A4%BC"
+            },
+            {
+                "title": "网传中国大学生黑市报价70万",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367189&topic_name=%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%BB%91%E5%B8%82%E6%8A%A5%E4%BB%B770%E4%B8%87"
+            },
+            {
+                "title": "瓦区偷家,LPL主场被抢走",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367190&topic_name=%E7%93%A6%E5%8C%BA%E5%81%B7%E5%AE%B6%2CLPL%E4%B8%BB%E5%9C%BA%E8%A2%AB%E6%8A%A2%E8%B5%B0"
+            },
+            {
+                "title": "女摊主遭顾客差评跳河身亡",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1"
+            },
+            {
+                "title": "终极预测,吧友押题考研数学",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367174&topic_name=%E7%BB%88%E6%9E%81%E9%A2%84%E6%B5%8B%2C%E5%90%A7%E5%8F%8B%E6%8A%BC%E9%A2%98%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6"
+            },
+            {
+                "title": "起点编辑羞辱读者没文化",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367175&topic_name=%E8%B5%B7%E7%82%B9%E7%BC%96%E8%BE%91%E7%BE%9E%E8%BE%B1%E8%AF%BB%E8%80%85%E6%B2%A1%E6%96%87%E5%8C%96"
+            },
+            {
+                "title": "31岁女子被撬窗掳走戒网瘾",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367057&topic_name=31%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%92%AC%E7%AA%97%E6%8E%B3%E8%B5%B0%E6%88%92%E7%BD%91%E7%98%BE"
+            },
+            {
+                "title": "韩援coser亲吻粉丝,阿宅馋哭",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367102&topic_name=%E9%9F%A9%E6%8F%B4coser%E4%BA%B2%E5%90%BB%E7%B2%89%E4%B8%9D%2C%E9%98%BF%E5%AE%85%E9%A6%8B%E5%93%AD"
+            },
+            {
+                "title": "番茄发癫,新人连载打白工",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367072&topic_name=%E7%95%AA%E8%8C%84%E5%8F%91%E7%99%AB%2C%E6%96%B0%E4%BA%BA%E8%BF%9E%E8%BD%BD%E6%89%93%E7%99%BD%E5%B7%A5"
+            },
+            {
+                "title": "JDG德杯暴毙,吧友清算GALA",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367070&topic_name=JDG%E5%BE%B7%E6%9D%AF%E6%9A%B4%E6%AF%99%2C%E5%90%A7%E5%8F%8B%E6%B8%85%E7%AE%97GALA"
+            },
+            {
+                "title": "蜘蛛侠送前妻出嫁,被嘲绿帽王",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366998&topic_name=%E8%9C%98%E8%9B%9B%E4%BE%A0%E9%80%81%E5%89%8D%E5%A6%BB%E5%87%BA%E5%AB%81%2C%E8%A2%AB%E5%98%B2%E7%BB%BF%E5%B8%BD%E7%8E%8B"
+            },
+            {
+                "title": "全韩班?LOL取消外援限制",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366995&topic_name=%E5%85%A8%E9%9F%A9%E7%8F%AD%3FLOL%E5%8F%96%E6%B6%88%E5%A4%96%E6%8F%B4%E9%99%90%E5%88%B6"
+            },
+            {
+                "title": "手残福音,吧友自制机娘贴纸",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367003&topic_name=%E6%89%8B%E6%AE%8B%E7%A6%8F%E9%9F%B3%2C%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E6%9C%BA%E5%A8%98%E8%B4%B4%E7%BA%B8"
+            },
+            {
+                "title": "马尔福性转出圈,演员绷不住了",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366962&topic_name=%E9%A9%AC%E5%B0%94%E7%A6%8F%E6%80%A7%E8%BD%AC%E5%87%BA%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86"
+            },
+            {
+                "title": "蜜蜂夺冠,载物狂揽34座MVP",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366968&topic_name=%E8%9C%9C%E8%9C%82%E5%A4%BA%E5%86%A0%2C%E8%BD%BD%E7%89%A9%E7%8B%82%E6%8F%BD34%E5%BA%A7MVP"
+            },
+            {
+                "title": "日议员偷拍中国游客,煽动网暴",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366959&topic_name=%E6%97%A5%E8%AE%AE%E5%91%98%E5%81%B7%E6%8B%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%2C%E7%85%BD%E5%8A%A8%E7%BD%91%E6%9A%B4"
+            },
+            {
+                "title": "岸本操刀火影新作,画风带劲",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366949&topic_name=%E5%B2%B8%E6%9C%AC%E6%93%8D%E5%88%80%E7%81%AB%E5%BD%B1%E6%96%B0%E4%BD%9C%2C%E7%94%BB%E9%A3%8E%E5%B8%A6%E5%8A%B2"
+            },
+            {
+                "title": "游戏成真,闲鱼惊现冒险者委托",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366934&topic_name=%E6%B8%B8%E6%88%8F%E6%88%90%E7%9C%9F%2C%E9%97%B2%E9%B1%BC%E6%83%8A%E7%8E%B0%E5%86%92%E9%99%A9%E8%80%85%E5%A7%94%E6%89%98"
+            },
+            {
+                "title": "少年被戒网瘾,归来毒杀父亲",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366948&topic_name=%E5%B0%91%E5%B9%B4%E8%A2%AB%E6%88%92%E7%BD%91%E7%98%BE%2C%E5%BD%92%E6%9D%A5%E6%AF%92%E6%9D%80%E7%88%B6%E4%BA%B2"
+            },
+            {
+                "title": "世纪和解!管泽元探班Bin哥",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366928&topic_name=%E4%B8%96%E7%BA%AA%E5%92%8C%E8%A7%A3%21%E7%AE%A1%E6%B3%BD%E5%85%83%E6%8E%A2%E7%8F%ADBin%E5%93%A5"
+            },
+            {
+                "title": "日人游新疆遭冷遇,吃饭被赶",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366939&topic_name=%E6%97%A5%E4%BA%BA%E6%B8%B8%E6%96%B0%E7%96%86%E9%81%AD%E5%86%B7%E9%81%87%2C%E5%90%83%E9%A5%AD%E8%A2%AB%E8%B5%B6"
+            },
+            {
+                "title": "写电竞文缺黑称,吧友抗吧取经",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366851&topic_name=%E5%86%99%E7%94%B5%E7%AB%9E%E6%96%87%E7%BC%BA%E9%BB%91%E7%A7%B0%2C%E5%90%A7%E5%8F%8B%E6%8A%97%E5%90%A7%E5%8F%96%E7%BB%8F"
+            }
+        ]
+    },
+    {
+        "hot_name": "云音乐飙升榜",
+        "content": [
+            {
+                "title": "全息恋人",
+                "href": "https://music.163.com/#/song?id=3432893870"
+            },
+            {
+                "title": "Just Give Me a Reason",
+                "href": "https://music.163.com/#/song?id=21373645"
+            },
+            {
+                "title": "我爱你",
+                "href": "https://music.163.com/#/song?id=191316"
+            },
+            {
+                "title": "Choro Das Aguas",
+                "href": "https://music.163.com/#/song?id=22357771"
+            },
+            {
+                "title": "偷心",
+                "href": "https://music.163.com/#/song?id=554322674"
+            },
+            {
+                "title": "一张相片",
+                "href": "https://music.163.com/#/song?id=3446754240"
+            },
+            {
+                "title": "与天齐",
+                "href": "https://music.163.com/#/song?id=3448117261"
+            },
+            {
+                "title": "升本后醒来",
+                "href": "https://music.163.com/#/song?id=3442747167"
+            },
+            {
+                "title": "你不要那样看着我的眼睛",
+                "href": "https://music.163.com/#/song?id=211520"
+            },
+            {
+                "title": "天龙八部之宿敌",
+                "href": "https://music.163.com/#/song?id=167691"
+            },
+            {
+                "title": "99",
+                "href": "https://music.163.com/#/song?id=2741144144"
+            },
+            {
+                "title": "浅粉红 baby pink",
+                "href": "https://music.163.com/#/song?id=3439425218"
+            },
+            {
+                "title": "Grey trails live on",
+                "href": "https://music.163.com/#/song?id=3443989683"
+            },
+            {
+                "title": "浅粉红 pale pink",
+                "href": "https://music.163.com/#/song?id=3439425217"
+            },
+            {
+                "title": "无情画",
+                "href": "https://music.163.com/#/song?id=1311347661"
+            },
+            {
+                "title": "我不难过",
+                "href": "https://music.163.com/#/song?id=287398"
+            },
+            {
+                "title": "表态 (Live)",
+                "href": "https://music.163.com/#/song?id=1363342573"
+            },
+            {
+                "title": "遗憾总是贯穿人生始终",
+                "href": "https://music.163.com/#/song?id=2666627127"
+            },
+            {
+                "title": "TAKE ME",
+                "href": "https://music.163.com/#/song?id=2678642318"
+            },
+            {
+                "title": "Nada",
+                "href": "https://music.163.com/#/song?id=3441536888"
+            },
+            {
+                "title": "不死鸟 (Live)",
+                "href": "https://music.163.com/#/song?id=3420692946"
+            },
+            {
+                "title": "雨终曲",
+                "href": "https://music.163.com/#/song?id=3439395749"
+            },
+            {
+                "title": "等你的季节",
+                "href": "https://music.163.com/#/song?id=101820"
+            },
+            {
+                "title": "背对背 (feat. scarletchoir)",
+                "href": "https://music.163.com/#/song?id=3339257959"
+            },
+            {
+                "title": "循环在",
+                "href": "https://music.163.com/#/song?id=3440164807"
+            },
+            {
+                "title": "Training Season",
+                "href": "https://music.163.com/#/song?id=2126654120"
+            },
+            {
+                "title": "我们的爱",
+                "href": "https://music.163.com/#/song?id=3440196341"
+            },
+            {
+                "title": "时过境迁",
+                "href": "https://music.163.com/#/song?id=2078101758"
+            },
+            {
+                "title": "除你外",
+                "href": "https://music.163.com/#/song?id=2130373924"
+            },
+            {
+                "title": "花祀时",
+                "href": "https://music.163.com/#/song?id=3447439452"
+            },
+            {
+                "title": "You Are All I Need",
+                "href": "https://music.163.com/#/song?id=27562048"
+            },
+            {
+                "title": "そばにいるね",
+                "href": "https://music.163.com/#/song?id=555142"
+            },
+            {
+                "title": "遇见你",
+                "href": "https://music.163.com/#/song?id=2081283223"
+            },
+            {
+                "title": "Whatever Happens",
+                "href": "https://music.163.com/#/song?id=27536479"
+            },
+            {
+                "title": "过来人",
+                "href": "https://music.163.com/#/song?id=3447962179"
+            },
+            {
+                "title": "Tom's Diner (7\" Version)",
+                "href": "https://music.163.com/#/song?id=21697011"
+            },
+            {
+                "title": "G.T.R.",
+                "href": "https://music.163.com/#/song?id=3439387316"
+            },
+            {
+                "title": "互删 (我走以后)",
+                "href": "https://music.163.com/#/song?id=3427967344"
+            },
+            {
+                "title": "Attachments",
+                "href": "https://music.163.com/#/song?id=1890859794"
+            },
+            {
+                "title": "那个有故事的人",
+                "href": "https://music.163.com/#/song?id=3371801760"
+            },
+            {
+                "title": "故里逢春",
+                "href": "https://music.163.com/#/song?id=1457113272"
+            },
+            {
+                "title": "Deeper",
+                "href": "https://music.163.com/#/song?id=3440165206"
+            },
+            {
+                "title": "사랑을 했다 (LOVE SCENARIO)",
+                "href": "https://music.163.com/#/song?id=533017594"
+            },
+            {
+                "title": "Moonlight",
+                "href": "https://music.163.com/#/song?id=2161867474"
+            },
+            {
+                "title": "焦灼",
+                "href": "https://music.163.com/#/song?id=3445972111"
+            },
+            {
+                "title": "Abracadabra",
+                "href": "https://music.163.com/#/song?id=5365723"
+            },
+            {
+                "title": "离歌",
+                "href": "https://music.163.com/#/song?id=387764"
+            },
+            {
+                "title": "Another Day Of Sun (From \"La La Land\" Soundtrack)",
+                "href": "https://music.163.com/#/song?id=445867332"
+            },
+            {
+                "title": "Brown Eyes",
+                "href": "https://music.163.com/#/song?id=2417211"
+            },
+            {
+                "title": "旅行中忘记",
+                "href": "https://music.163.com/#/song?id=29751570"
+            },
+            {
+                "title": "失物招领",
+                "href": "https://music.163.com/#/song?id=3426600808"
+            },
+            {
+                "title": "刻在我心底的名字",
+                "href": "https://music.163.com/#/song?id=3447017233"
+            },
+            {
+                "title": "原来你什么都不要",
+                "href": "https://music.163.com/#/song?id=287575"
+            },
+            {
+                "title": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
+                "href": "https://music.163.com/#/song?id=1334399088"
+            },
+            {
+                "title": "I Hate U I Love U (feat. Olivia O'Brien)",
+                "href": "https://music.163.com/#/song?id=1428038045"
+            },
+            {
+                "title": "Duvet (Acoustic)",
+                "href": "https://music.163.com/#/song?id=3956943"
+            },
+            {
+                "title": "你被影子甩了",
+                "href": "https://music.163.com/#/song?id=3447016346"
+            },
+            {
+                "title": "Wonderful U",
+                "href": "https://music.163.com/#/song?id=1935254869"
+            },
+            {
+                "title": "MORNING DEW (DONK)",
+                "href": "https://music.163.com/#/song?id=3401632008"
+            },
+            {
+                "title": "出什么风头 (feat. 周柏豪)",
+                "href": "https://music.163.com/#/song?id=3447527200"
+            },
+            {
+                "title": "渡月橋 ～君 想ふ～",
+                "href": "https://music.163.com/#/song?id=471763630"
+            },
+            {
+                "title": "有你爱就明媚",
+                "href": "https://music.163.com/#/song?id=3445595679"
+            },
+            {
+                "title": "You Are Not Alone",
+                "href": "https://music.163.com/#/song?id=1698448"
+            },
+            {
+                "title": "Tonight (Best You Ever Had) (Clean Version)",
+                "href": "https://music.163.com/#/song?id=1299056558"
+            },
+            {
+                "title": "共生关系",
+                "href": "https://music.163.com/#/song?id=3447131145"
+            },
+            {
+                "title": "Les Champs-Elysées",
+                "href": "https://music.163.com/#/song?id=18578046"
+            },
+            {
+                "title": "바빠 (Bad Boy)",
+                "href": "https://music.163.com/#/song?id=26512614"
+            },
+            {
+                "title": "We Belong Together",
+                "href": "https://music.163.com/#/song?id=21234462"
+            },
+            {
+                "title": "If I Ain’t Got You",
+                "href": "https://music.163.com/#/song?id=2704586112"
+            },
+            {
+                "title": "一边倒",
+                "href": "https://music.163.com/#/song?id=3440165177"
+            },
+            {
+                "title": "渴",
+                "href": "https://music.163.com/#/song?id=28283344"
+            },
+            {
+                "title": "Animals",
+                "href": "https://music.163.com/#/song?id=29019224"
+            },
+            {
+                "title": "Keep Real",
+                "href": "https://music.163.com/#/song?id=3398318025"
+            },
+            {
+                "title": "Self Redemption（自我救赎）",
+                "href": "https://music.163.com/#/song?id=3408667718"
+            },
+            {
+                "title": "Rain",
+                "href": "https://music.163.com/#/song?id=16439086"
+            },
+            {
+                "title": "Gimme More",
+                "href": "https://music.163.com/#/song?id=20515890"
+            },
+            {
+                "title": "Slow Motion",
+                "href": "https://music.163.com/#/song?id=2639113260"
+            },
+            {
+                "title": "Show Me (Original Mix)",
+                "href": "https://music.163.com/#/song?id=39224559"
+            },
+            {
+                "title": "至少还有你Remix",
+                "href": "https://music.163.com/#/song?id=1311442666"
+            },
+            {
+                "title": "时过境迁",
+                "href": "https://music.163.com/#/song?id=3447077863"
+            },
+            {
+                "title": "Everytime We Touch (Yanou's Candlelight Mix)",
+                "href": "https://music.163.com/#/song?id=27970315"
+            },
+            {
+                "title": "Y (Please Tell Me Why)",
+                "href": "https://music.163.com/#/song?id=22840069"
+            },
+            {
+                "title": "Prima Oară",
+                "href": "https://music.163.com/#/song?id=1852788314"
+            },
+            {
+                "title": "Everytime",
+                "href": "https://music.163.com/#/song?id=404184562"
+            },
+            {
+                "title": "Keep Your Head Up Princess",
+                "href": "https://music.163.com/#/song?id=1887203178"
+            },
+            {
+                "title": "다시 너를",
+                "href": "https://music.163.com/#/song?id=409941242"
+            },
+            {
+                "title": "20 Min*liluzivert采样*BGM x jerseyclub* beat",
+                "href": "https://music.163.com/#/song?id=3441284304"
+            },
+            {
+                "title": "Dirty Bird",
+                "href": "https://music.163.com/#/song?id=3447297548"
+            },
+            {
+                "title": "i will feel alive",
+                "href": "https://music.163.com/#/song?id=3384272710"
+            },
+            {
+                "title": "雪少年(山外山天外天)",
+                "href": "https://music.163.com/#/song?id=3441892927"
+            },
+            {
+                "title": "偷心",
+                "href": "https://music.163.com/#/song?id=34040657"
+            },
+            {
+                "title": "Through the Rain",
+                "href": "https://music.163.com/#/song?id=27118048"
+            },
+            {
+                "title": "Friday (Dopamine Re-Edit)",
+                "href": "https://music.163.com/#/song?id=1806127919"
+            },
+            {
+                "title": "追光者",
+                "href": "https://music.163.com/#/song?id=1413305687"
+            },
+            {
+                "title": "Everytime",
+                "href": "https://music.163.com/#/song?id=409931272"
+            },
+            {
+                "title": "就算我错漏百出",
+                "href": "https://music.163.com/#/song?id=3446298277"
+            },
+            {
+                "title": "Boyfriend (Acoustic Version)",
+                "href": "https://music.163.com/#/song?id=1892514091"
+            },
+            {
+                "title": "最闪的泪",
+                "href": "https://music.163.com/#/song?id=2671492328"
+            },
+            {
+                "title": "喜欢你",
+                "href": "https://music.163.com/#/song?id=5255657"
+            },
+            {
+                "title": "PUKE",
+                "href": "https://music.163.com/#/song?id=429794"
+            }
+        ]
+    },
+    {
+        "hot_name": "知乎热榜",
+        "content": []
+    },
+    {
+        "hot_name": "天涯",
+        "content": []
+    }
+]
