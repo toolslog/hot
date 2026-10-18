@@ -3,12 +3,140 @@
         "hot_name": "V2EX",
         "content": [
             {
+                "title": "最近这 codex 额度消耗快的离谱啊， 5x 套餐随便几个问题 10% 额度没了",
+                "href": "https://www.v2ex.com/t/1249696#reply16"
+            },
+            {
+                "title": "社保新规 11 月 1 日起施行，明确自愿放弃社保无效，企业需足额缴纳社保，影响几何",
+                "href": "https://www.v2ex.com/t/1249733#reply16"
+            },
+            {
+                "title": "总是在兴奋和悲观之间反复横跳，这个屌炸天的 REA（逆向一切），原理仅仅只是给大模型提供了更多的上下文",
+                "href": "https://www.v2ex.com/t/1249708#reply13"
+            },
+            {
+                "title": "发明这个闲鱼暗语中枢的人真是个天才",
+                "href": "https://www.v2ex.com/t/1249724#reply12"
+            },
+            {
+                "title": "AI 发现了我的睡不好的原因",
+                "href": "https://www.v2ex.com/t/1249712#reply10"
+            },
+            {
+                "title": "做了一个 X 的第三方客户端， Liquid Glass，全流程翻译",
+                "href": "https://www.v2ex.com/t/1249743#reply8"
+            },
+            {
                 "title": "一觉醒来， Tibo 已经在凌晨 5 点完成了 18 号的重置，没办法说快蹬了 😭",
-                "href": "https://www.v2ex.com/t/1249693#reply0"
+                "href": "https://www.v2ex.com/t/1249693#reply7"
+            },
+            {
+                "title": "难绷，你们选哪个语音？日式，印地，墨西哥？哈哈",
+                "href": "https://www.v2ex.com/t/1249721#reply7"
+            },
+            {
+                "title": "ios 上 claude 从 pro 升级 max，扣费了但是依旧还是 pro",
+                "href": "https://www.v2ex.com/t/1249713#reply6"
+            },
+            {
+                "title": "今年真的不一样了，同样的项目，去年 Trae 们还动不动给我写废了",
+                "href": "https://www.v2ex.com/t/1249701#reply5"
+            },
+            {
+                "title": "Gemini in Chrome 突然不可用，还有好的浏览器 AI 插件推荐吗？",
+                "href": "https://www.v2ex.com/t/1249715#reply5"
+            },
+            {
+                "title": "做了个资讯站点～～",
+                "href": "https://www.v2ex.com/t/1249723#reply5"
+            },
+            {
+                "title": "发现 Mac 睡眠时，扩展坞超级耗电",
+                "href": "https://www.v2ex.com/t/1249718#reply4"
+            },
+            {
+                "title": "Claude 的免费号哪里有能买的吗？",
+                "href": "https://www.v2ex.com/t/1249734#reply3"
+            },
+            {
+                "title": "codex 消耗太快了，这里 cc 被封，这里还有哪些好的编程工具替代不",
+                "href": "https://www.v2ex.com/t/1249737#reply3"
             },
             {
                 "title": "之前让 AI 智能体去服务器在线改 BUG，我动不动就 CPU 内存占满",
-                "href": "https://www.v2ex.com/t/1249694#reply0"
+                "href": "https://www.v2ex.com/t/1249694#reply2"
+            },
+            {
+                "title": "现在有了 AI，是不是自己也可以做个适合自己习惯的浏览器？",
+                "href": "https://www.v2ex.com/t/1249703#reply2"
+            },
+            {
+                "title": "游戏制作",
+                "href": "https://www.v2ex.com/t/1249731#reply2"
+            },
+            {
+                "title": "做了个外链整合站，给你的 bot 当外链库让它自动去发外链",
+                "href": "https://www.v2ex.com/t/1249698#reply1"
+            },
+            {
+                "title": "视频模型贵成这样，请问一般创作者是用哪个模型或者哪种创作方式制作的",
+                "href": "https://www.v2ex.com/t/1249705#reply1"
+            },
+            {
+                "title": "在 Davflare 里 Ctrl+V 截图，两秒拿 CDN 链",
+                "href": "https://www.v2ex.com/t/1249709#reply1"
+            },
+            {
+                "title": "开源浏览器控制插件 BeatBrowser：让 Codex、Claude Code 共用你已登录的 Chrome",
+                "href": "https://www.v2ex.com/t/1249726#reply1"
+            },
+            {
+                "title": "和 Claude 一起做了个 Claude 封号教程和案例库，整个站可以直接丢给 Codex",
+                "href": "https://www.v2ex.com/t/1249729#reply1"
+            },
+            {
+                "title": "英语不好的程序员爸爸，给上小学的孩子做了个英语 App（iOS / 安卓 / 鸿蒙）",
+                "href": "https://www.v2ex.com/t/1249744#reply1"
+            },
+            {
+                "title": "`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`",
+                "href": "https://www.v2ex.com/t/1249697#reply0"
+            },
+            {
+                "title": "「送 50 个 Pro 码」告别 Finder 抓狂折腾： macOS 键盘流双栏文件管理器 ATBCmder 更新（网盘支持 / 权限交互重构 / 全新 UI）",
+                "href": "https://www.v2ex.com/t/1249700#reply0"
+            },
+            {
+                "title": "我的 NanaAI 网站增加生视频功能",
+                "href": "https://www.v2ex.com/t/1249702#reply0"
+            },
+            {
+                "title": "请教一下， cherrystudio 为什么识别不出来中转站 opus5.5 的多模态能力",
+                "href": "https://www.v2ex.com/t/1249704#reply0"
+            },
+            {
+                "title": "抢到 2 台 iPhone Duo， 11 月 7 日发货，期待一下！",
+                "href": "https://www.v2ex.com/t/1249706#reply0"
+            },
+            {
+                "title": "给 GridCraft 做了一个免登录的浏览器托管入口，补了 XLSX/CSV 上手与兼容性说明",
+                "href": "https://www.v2ex.com/t/1249707#reply0"
+            },
+            {
+                "title": "用 vibe coding 搓了个小工具，处理 AI 生图前的图片上传要求",
+                "href": "https://www.v2ex.com/t/1249710#reply0"
+            },
+            {
+                "title": "我开发了一款表情包整合工具 APP",
+                "href": "https://www.v2ex.com/t/1249714#reply0"
+            },
+            {
+                "title": "最近 “参保直通车” 挺热闹的，顺便用学生崽的 Google agron 整个游戏",
+                "href": "https://www.v2ex.com/t/1249716#reply0"
+            },
+            {
+                "title": "做独立开发最烦二手营销号，我用 pgvector + 5 轴打分搭了个出海情报站（附 GitHub 每日归档）",
+                "href": "https://www.v2ex.com/t/1249717#reply0"
             }
         ]
     },
@@ -20,8 +148,24 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367538&topic_name=MVK%E5%8F%8C%E6%9D%80FUR%2C%E5%B7%B4%E8%A5%BF%E9%BB%91%E8%B1%B9%E5%87%BA%E5%B1%80"
             },
             {
+                "title": "CS老资历批社区,双标言论被扒",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367562&topic_name=CS%E8%80%81%E8%B5%84%E5%8E%86%E6%89%B9%E7%A4%BE%E5%8C%BA%2C%E5%8F%8C%E6%A0%87%E8%A8%80%E8%AE%BA%E8%A2%AB%E6%89%92"
+            },
+            {
+                "title": "钢笔入门到精通,吧友爆焚诀",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367576&topic_name=%E9%92%A2%E7%AC%94%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%2C%E5%90%A7%E5%8F%8B%E7%88%86%E7%84%9A%E8%AF%80"
+            },
+            {
                 "title": "BFX力克WE卫冕德杯冠军",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367482&topic_name=BFX%E5%8A%9B%E5%85%8BWE%E5%8D%AB%E5%86%95%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B"
+            },
+            {
+                "title": "洛手转投玩家AI创作遭吐槽",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367575&topic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD"
+            },
+            {
+                "title": "票房滑坡,影院爆改运动场自救",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367561&topic_name=%E7%A5%A8%E6%88%BF%E6%BB%91%E5%9D%A1%2C%E5%BD%B1%E9%99%A2%E7%88%86%E6%94%B9%E8%BF%90%E5%8A%A8%E5%9C%BA%E8%87%AA%E6%95%91"
             },
             {
                 "title": "设备中毒攻击校园网,吧友求助",
@@ -76,12 +220,12 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367429&topic_name=%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E4%B8%8A%E4%BB%BB%E4%BA%94%E5%A4%A9%E9%81%AD%E8%A7%A3%E9%9B%87"
             },
             {
-                "title": "KC零封MVK,赛点局偷家取胜",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367403&topic_name=KC%E9%9B%B6%E5%B0%81MVK%2C%E8%B5%9B%E7%82%B9%E5%B1%80%E5%81%B7%E5%AE%B6%E5%8F%96%E8%83%9C"
-            },
-            {
                 "title": "硬刚开屏广告博主遭全网封禁",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367357&topic_name=%E7%A1%AC%E5%88%9A%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E5%8D%9A%E4%B8%BB%E9%81%AD%E5%85%A8%E7%BD%91%E5%B0%81%E7%A6%81"
+            },
+            {
+                "title": "KC零封MVK,赛点局偷家取胜",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367403&topic_name=KC%E9%9B%B6%E5%B0%81MVK%2C%E8%B5%9B%E7%82%B9%E5%B1%80%E5%81%B7%E5%AE%B6%E5%8F%96%E8%83%9C"
             },
             {
                 "title": "列车车次大改,火车迷炸锅",
@@ -100,14 +244,6 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E"
             },
             {
-                "title": "绿龙地图辱华,马西西爆典补刀",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367230&topic_name=%E7%BB%BF%E9%BE%99%E5%9C%B0%E5%9B%BE%E8%BE%B1%E5%8D%8E%2C%E9%A9%AC%E8%A5%BF%E8%A5%BF%E7%88%86%E5%85%B8%E8%A1%A5%E5%88%80"
-            },
-            {
-                "title": "已恢复!DeepSeek发故障补偿",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF"
-            },
-            {
                 "title": "老干妈用AI一年狂赚54亿",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF"
             },
@@ -122,18 +258,6 @@
             {
                 "title": "网传中国大学生黑市报价70万",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367189&topic_name=%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%BB%91%E5%B8%82%E6%8A%A5%E4%BB%B770%E4%B8%87"
-            },
-            {
-                "title": "瓦区偷家,LPL主场被抢走",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367190&topic_name=%E7%93%A6%E5%8C%BA%E5%81%B7%E5%AE%B6%2CLPL%E4%B8%BB%E5%9C%BA%E8%A2%AB%E6%8A%A2%E8%B5%B0"
-            },
-            {
-                "title": "WE拿下BRO,进军德杯决赛",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367273&topic_name=WE%E6%8B%BF%E4%B8%8BBRO%2C%E8%BF%9B%E5%86%9B%E5%BE%B7%E6%9D%AF%E5%86%B3%E8%B5%9B"
-            },
-            {
-                "title": "女摊主遭顾客差评跳河身亡",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367193&topic_name=%E5%A5%B3%E6%91%8A%E4%B8%BB%E9%81%AD%E9%A1%BE%E5%AE%A2%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1"
             }
         ]
     },
@@ -375,10 +499,6 @@
                 "href": "https://music.163.com/#/song?id=3441361527"
             },
             {
-                "title": "TRUE LOVE",
-                "href": "https://music.163.com/#/song?id=3438129721"
-            },
-            {
                 "title": "无情画",
                 "href": "https://music.163.com/#/song?id=1311347661"
             },
@@ -471,10 +591,6 @@
                 "href": "https://music.163.com/#/song?id=287575"
             },
             {
-                "title": "You Are All I Need",
-                "href": "https://music.163.com/#/song?id=3445501726"
-            },
-            {
                 "title": "眼泪比爱深刻",
                 "href": "https://music.163.com/#/song?id=3443782110"
             },
@@ -517,10 +633,6 @@
             {
                 "title": "浅粉红 baby pink",
                 "href": "https://music.163.com/#/song?id=3439425218"
-            },
-            {
-                "title": "i hate u i love u",
-                "href": "https://music.163.com/#/song?id=3429804983"
             },
             {
                 "title": "Jhim Jhimaune Aankha",
@@ -591,10 +703,6 @@
                 "href": "https://music.163.com/#/song?id=3424555552"
             },
             {
-                "title": "Lost Control Deep House",
-                "href": "https://music.163.com/#/song?id=3423023201"
-            },
-            {
                 "title": "Housewife",
                 "href": "https://music.163.com/#/song?id=3449064757"
             },
@@ -625,10 +733,6 @@
             {
                 "title": "干杯 toast to",
                 "href": "https://music.163.com/#/song?id=3448672466"
-            },
-            {
-                "title": "WANNABE TEKK - Slowed",
-                "href": "https://music.163.com/#/song?id=3417961206"
             },
             {
                 "title": "幻想被爱是种病",
@@ -679,14 +783,6 @@
                 "href": "https://music.163.com/#/song?id=26598094"
             },
             {
-                "title": "星河转（乡野版）",
-                "href": "https://music.163.com/#/song?id=3449244135"
-            },
-            {
-                "title": "半永久",
-                "href": "https://music.163.com/#/song?id=3421801632"
-            },
-            {
                 "title": "请别惊扰我的爱人",
                 "href": "https://music.163.com/#/song?id=3439843023"
             },
@@ -721,6 +817,34 @@
             {
                 "title": "星星点灯",
                 "href": "https://music.163.com/#/song?id=190352"
+            },
+            {
+                "title": "我不难过",
+                "href": "https://music.163.com/#/song?id=3429085443"
+            },
+            {
+                "title": "雨晴I Wish（Feat.初音ミク,重音テト,音街ウナ）",
+                "href": "https://music.163.com/#/song?id=3446933619"
+            },
+            {
+                "title": "南屏晚钟 (Remastered)",
+                "href": "https://music.163.com/#/song?id=211637"
+            },
+            {
+                "title": "茉茉",
+                "href": "https://music.163.com/#/song?id=3448039922"
+            },
+            {
+                "title": "你还在不在",
+                "href": "https://music.163.com/#/song?id=254350"
+            },
+            {
+                "title": "旅行中忘记",
+                "href": "https://music.163.com/#/song?id=29751570"
+            },
+            {
+                "title": "写一万首情歌放我们的婚礼",
+                "href": "https://music.163.com/#/song?id=3379232535"
             }
         ]
     },
