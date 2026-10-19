@@ -1,215 +1,22 @@
 [
     {
-        "hot_name": "GitHub",
-        "content": [
-            {
-                "title": "MadsLorentzen /\n\n      ai-job-search---The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-                "href": "https://github.com//MadsLorentzen/ai-job-search"
-            },
-            {
-                "title": "anthropics /\n\n      claude-plugins-official---Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-                "href": "https://github.com//anthropics/claude-plugins-official"
-            },
-            {
-                "title": "anomalyco /\n\n      opencode---The open source coding agent.",
-                "href": "https://github.com//anomalyco/opencode"
-            },
-            {
-                "title": "cursor /\n\n      plugins---Cursor plugin specification and official plugins",
-                "href": "https://github.com//cursor/plugins"
-            },
-            {
-                "title": "ruvnet /\n\n      ruflo---🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-                "href": "https://github.com//ruvnet/ruflo"
-            },
-            {
-                "title": "akitaonrails /\n\n      ai-memory---Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-                "href": "https://github.com//akitaonrails/ai-memory"
-            },
-            {
-                "title": "stablyai /\n\n      orca---Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-                "href": "https://github.com//stablyai/orca"
-            },
-            {
-                "title": "HKUDS /\n\n      CLI-Anything---\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-                "href": "https://github.com//HKUDS/CLI-Anything"
-            },
-            {
-                "title": "debpalash /\n\n      VoiceStudio---VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-                "href": "https://github.com//debpalash/VoiceStudio"
-            },
-            {
-                "title": "android /\n\n      skills---",
-                "href": "https://github.com//android/skills"
-            },
-            {
-                "title": "mlabonne /\n\n      llm-course---Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-                "href": "https://github.com//mlabonne/llm-course"
-            },
-            {
-                "title": "Kruk2 /\n\n      jasna---Video restoration tool",
-                "href": "https://github.com//Kruk2/jasna"
-            },
-            {
-                "title": "Comfy-Org /\n\n      ComfyUI---The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-                "href": "https://github.com//Comfy-Org/ComfyUI"
-            }
-        ]
-    },
-    {
         "hot_name": "V2EX",
         "content": [
             {
-                "title": "今天开车被迫窝囊了一次",
-                "href": "https://www.v2ex.com/t/1249800#reply39"
+                "title": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+                "href": "https://www.v2ex.com/t/1249855#reply1"
             },
             {
-                "title": "发明这个闲鱼暗语中枢的人真是个天才",
-                "href": "https://www.v2ex.com/t/1249724#reply36"
+                "title": "劝退：这 3 种人，先别找我开免五",
+                "href": "https://www.v2ex.com/t/1249854#reply0"
             },
             {
-                "title": "AI 发现了我的睡不好的原因",
-                "href": "https://www.v2ex.com/t/1249712#reply29"
+                "title": "Huiai 代充 ChatGPT/Claude/可开票。",
+                "href": "https://www.v2ex.com/t/1249856#reply0"
             },
             {
-                "title": "最近这 codex 额度消耗快的离谱啊， 5x 套餐随便几个问题 10% 额度没了",
-                "href": "https://www.v2ex.com/t/1249696#reply27"
-            },
-            {
-                "title": "做了一个 X 的第三方客户端， Liquid Glass，全流程翻译",
-                "href": "https://www.v2ex.com/t/1249743#reply27"
-            },
-            {
-                "title": "上海海昌海洋公园一日游(虎鲸等多图警告)",
-                "href": "https://www.v2ex.com/t/1249772#reply24"
-            },
-            {
-                "title": "为什么作为日常聊天询问 感觉 gemini 比 gpt 好用",
-                "href": "https://www.v2ex.com/t/1249756#reply22"
-            },
-            {
-                "title": "Claude 过验证后丝滑升 5x",
-                "href": "https://www.v2ex.com/t/1249762#reply20"
-            },
-            {
-                "title": "总是在兴奋和悲观之间反复横跳，这个屌炸天的 REA（逆向一切），原理仅仅只是给大模型提供了更多的上下文",
-                "href": "https://www.v2ex.com/t/1249708#reply17"
-            },
-            {
-                "title": "找个喜欢自己的还是自己喜欢的人",
-                "href": "https://www.v2ex.com/t/1249814#reply16"
-            },
-            {
-                "title": "Gemini in Chrome 突然不可用，还有好的浏览器 AI 插件推荐吗？",
-                "href": "https://www.v2ex.com/t/1249715#reply15"
-            },
-            {
-                "title": "「送 50 个 Pro 码」告别 Finder 抓狂折腾： macOS 键盘流双栏文件管理器 ATBCmder 更新（网盘支持 / 权限交互重构 / 全新 UI）",
-                "href": "https://www.v2ex.com/t/1249700#reply14"
-            },
-            {
-                "title": "codex 消耗太快了，这里 cc 被封，这里还有哪些好的编程工具替代不",
-                "href": "https://www.v2ex.com/t/1249737#reply14"
-            },
-            {
-                "title": "也就是说，人情世故，才是下一个时代最终的素质了？",
-                "href": "https://www.v2ex.com/t/1249778#reply14"
-            },
-            {
-                "title": "以后对程序员的考核指标将变为单位时间内谁用最少的 token 完成目标",
-                "href": "https://www.v2ex.com/t/1249794#reply13"
-            },
-            {
-                "title": "发现 Mac 睡眠时，扩展坞超级耗电",
-                "href": "https://www.v2ex.com/t/1249718#reply12"
-            },
-            {
-                "title": "谁异地办理过港澳通行证一般要多少天",
-                "href": "https://www.v2ex.com/t/1249739#reply12"
-            },
-            {
-                "title": "16G 的 M1 的 mba，养老系统建议选择哪个？",
-                "href": "https://www.v2ex.com/t/1249776#reply12"
-            },
-            {
-                "title": "Claude 终于还是被封了，再也不跳了",
-                "href": "https://www.v2ex.com/t/1249830#reply11"
-            },
-            {
-                "title": "现在还有哪些机场支持 openwrt?",
-                "href": "https://www.v2ex.com/t/1249774#reply11"
-            },
-            {
-                "title": "Claude 的免费号哪里有能买的吗？",
-                "href": "https://www.v2ex.com/t/1249734#reply10"
-            },
-            {
-                "title": "英语不好的程序员爸爸，给上小学的孩子做了个英语 App（iOS / 安卓 / 鸿蒙）",
-                "href": "https://www.v2ex.com/t/1249744#reply10"
-            },
-            {
-                "title": "旧 iPhone 放屋里当备机是应该开机存放还是关机存放？",
-                "href": "https://www.v2ex.com/t/1249792#reply9"
-            },
-            {
-                "title": "Openai 的 Dot 功能有人用吗？",
-                "href": "https://www.v2ex.com/t/1249793#reply9"
-            },
-            {
-                "title": "ios 上 claude 从 pro 升级 max，扣费了但是依旧还是 pro",
-                "href": "https://www.v2ex.com/t/1249713#reply9"
-            },
-            {
-                "title": "做了个资讯站点～～",
-                "href": "https://www.v2ex.com/t/1249723#reply9"
-            },
-            {
-                "title": "有健身房次卡用户可以分享点经验吗？",
-                "href": "https://www.v2ex.com/t/1249764#reply9"
-            },
-            {
-                "title": "广西电信主动重拨分配异常 IP 无法上网",
-                "href": "https://www.v2ex.com/t/1249783#reply9"
-            },
-            {
-                "title": "在 Windows 电脑上，使用 TUI 方式蹬 token 的 V 友，你们有遇到 输入内容 被莫名其妙地加了回车横断吗？",
-                "href": "https://www.v2ex.com/t/1249798#reply8"
-            },
-            {
-                "title": "一觉醒来， Tibo 已经在凌晨 5 点完成了 18 号的重置，没办法说快蹬了 😭",
-                "href": "https://www.v2ex.com/t/1249693#reply7"
-            },
-            {
-                "title": "今年真的不一样了，同样的项目，去年 Trae 们还动不动给我写废了",
-                "href": "https://www.v2ex.com/t/1249701#reply7"
-            },
-            {
-                "title": "难绷，你们选哪个语音？日式，印地，墨西哥？哈哈",
-                "href": "https://www.v2ex.com/t/1249721#reply7"
-            },
-            {
-                "title": "让不同的 App 的音频走不同的音频通道，还真有解决方案",
-                "href": "https://www.v2ex.com/t/1249766#reply7"
-            },
-            {
-                "title": "分享一个米家的 Windows 桌面客户端",
-                "href": "https://www.v2ex.com/t/1249821#reply6"
-            },
-            {
-                "title": "游戏制作",
-                "href": "https://www.v2ex.com/t/1249731#reply6"
-            },
-            {
-                "title": "claude 真的和 chatgpt 的实际体验真的很大吗？",
-                "href": "https://www.v2ex.com/t/1249755#reply6"
-            },
-            {
-                "title": "直接远程让 Claude 来干活了，无 Claude 订阅，自制简易远程 Web 会话工具 cc-session",
-                "href": "https://www.v2ex.com/t/1249752#reply5"
-            },
-            {
-                "title": "codex 一下午跑了 1200 刀",
-                "href": "https://www.v2ex.com/t/1249787#reply5"
+                "title": "分享一个新开发的 PopClip 插件，一键搜索番号、演员、关键词、导演、片商等你想冲的一切",
+                "href": "https://www.v2ex.com/t/1249857#reply0"
             }
         ]
     },
@@ -335,6 +142,63 @@
             {
                 "title": "硬刚开屏广告博主遭全网封禁",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367357&topic_name=%E7%A1%AC%E5%88%9A%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E5%8D%9A%E4%B8%BB%E9%81%AD%E5%85%A8%E7%BD%91%E5%B0%81%E7%A6%81"
+            }
+        ]
+    },
+    {
+        "hot_name": "GitHub",
+        "content": [
+            {
+                "title": "MadsLorentzen /\n\n      ai-job-search---The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+                "href": "https://github.com//MadsLorentzen/ai-job-search"
+            },
+            {
+                "title": "anthropics /\n\n      claude-plugins-official---Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+                "href": "https://github.com//anthropics/claude-plugins-official"
+            },
+            {
+                "title": "anomalyco /\n\n      opencode---The open source coding agent.",
+                "href": "https://github.com//anomalyco/opencode"
+            },
+            {
+                "title": "cursor /\n\n      plugins---Cursor plugin specification and official plugins",
+                "href": "https://github.com//cursor/plugins"
+            },
+            {
+                "title": "ruvnet /\n\n      ruflo---🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+                "href": "https://github.com//ruvnet/ruflo"
+            },
+            {
+                "title": "akitaonrails /\n\n      ai-memory---Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+                "href": "https://github.com//akitaonrails/ai-memory"
+            },
+            {
+                "title": "stablyai /\n\n      orca---Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+                "href": "https://github.com//stablyai/orca"
+            },
+            {
+                "title": "HKUDS /\n\n      CLI-Anything---\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+                "href": "https://github.com//HKUDS/CLI-Anything"
+            },
+            {
+                "title": "debpalash /\n\n      VoiceStudio---VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+                "href": "https://github.com//debpalash/VoiceStudio"
+            },
+            {
+                "title": "android /\n\n      skills---",
+                "href": "https://github.com//android/skills"
+            },
+            {
+                "title": "mlabonne /\n\n      llm-course---Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+                "href": "https://github.com//mlabonne/llm-course"
+            },
+            {
+                "title": "Kruk2 /\n\n      jasna---Video restoration tool",
+                "href": "https://github.com//Kruk2/jasna"
+            },
+            {
+                "title": "Comfy-Org /\n\n      ComfyUI---The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+                "href": "https://github.com//Comfy-Org/ComfyUI"
             }
         ]
     },
@@ -465,7 +329,408 @@
     },
     {
         "hot_name": "云音乐飙升榜",
-        "content": []
+        "content": [
+            {
+                "title": "学功夫练武术",
+                "href": "https://music.163.com/#/song?id=3372052257"
+            },
+            {
+                "title": "天龙八部之宿敌",
+                "href": "https://music.163.com/#/song?id=167691"
+            },
+            {
+                "title": "背对背 (feat. scarletchoir)",
+                "href": "https://music.163.com/#/song?id=3339257959"
+            },
+            {
+                "title": "升本后醒来",
+                "href": "https://music.163.com/#/song?id=3442747167"
+            },
+            {
+                "title": "†TAKEDISKRUSH!†（嘉豪进行曲）",
+                "href": "https://music.163.com/#/song?id=2693246353"
+            },
+            {
+                "title": "我不难过",
+                "href": "https://music.163.com/#/song?id=287398"
+            },
+            {
+                "title": "《反乌托邦Pt.2》，但是反驳型人格",
+                "href": "https://music.163.com/#/song?id=3445438105"
+            },
+            {
+                "title": "99",
+                "href": "https://music.163.com/#/song?id=2741144144"
+            },
+            {
+                "title": "王子系变装",
+                "href": "https://music.163.com/#/song?id=3436976392"
+            },
+            {
+                "title": "某天也会成为过去",
+                "href": "https://music.163.com/#/song?id=3441953581"
+            },
+            {
+                "title": "偷心",
+                "href": "https://music.163.com/#/song?id=554322674"
+            },
+            {
+                "title": "故里逢春",
+                "href": "https://music.163.com/#/song?id=1457113272"
+            },
+            {
+                "title": "无情画",
+                "href": "https://music.163.com/#/song?id=1311347661"
+            },
+            {
+                "title": "Montagem Nada",
+                "href": "https://music.163.com/#/song?id=3440639527"
+            },
+            {
+                "title": "我好想你 (苏打绿版)",
+                "href": "https://music.163.com/#/song?id=2652647276"
+            },
+            {
+                "title": "HOVE（FUNK）",
+                "href": "https://music.163.com/#/song?id=3441291533"
+            },
+            {
+                "title": "光年之外",
+                "href": "https://music.163.com/#/song?id=449818741"
+            },
+            {
+                "title": "写不完的温柔",
+                "href": "https://music.163.com/#/song?id=234014"
+            },
+            {
+                "title": "脉搏",
+                "href": "https://music.163.com/#/song?id=3447072754"
+            },
+            {
+                "title": "未完结的爱",
+                "href": "https://music.163.com/#/song?id=2695903727"
+            },
+            {
+                "title": "眼泪成诗",
+                "href": "https://music.163.com/#/song?id=287173"
+            },
+            {
+                "title": "我爱你",
+                "href": "https://music.163.com/#/song?id=191316"
+            },
+            {
+                "title": "Rise Without A Sound",
+                "href": "https://music.163.com/#/song?id=3448583869"
+            },
+            {
+                "title": "Montagem Nada Funk",
+                "href": "https://music.163.com/#/song?id=3444402860"
+            },
+            {
+                "title": "渴",
+                "href": "https://music.163.com/#/song?id=28283344"
+            },
+            {
+                "title": "星河追梦",
+                "href": "https://music.163.com/#/song?id=3347218900"
+            },
+            {
+                "title": "Starboy",
+                "href": "https://music.163.com/#/song?id=431610014"
+            },
+            {
+                "title": "IF YOU",
+                "href": "https://music.163.com/#/song?id=32922450"
+            },
+            {
+                "title": "当冬夜渐暖",
+                "href": "https://music.163.com/#/song?id=286959"
+            },
+            {
+                "title": "趁早",
+                "href": "https://music.163.com/#/song?id=327367"
+            },
+            {
+                "title": "Patient Zero",
+                "href": "https://music.163.com/#/song?id=3449111055"
+            },
+            {
+                "title": "睡前别想太多",
+                "href": "https://music.163.com/#/song?id=3440961675"
+            },
+            {
+                "title": "莫伊拉",
+                "href": "https://music.163.com/#/song?id=3449321539"
+            },
+            {
+                "title": "下水道蚂蚁",
+                "href": "https://music.163.com/#/song?id=2720014148"
+            },
+            {
+                "title": "原来你什么都不要",
+                "href": "https://music.163.com/#/song?id=287575"
+            },
+            {
+                "title": "眼泪比爱深刻",
+                "href": "https://music.163.com/#/song?id=3443782110"
+            },
+            {
+                "title": "时过境迁",
+                "href": "https://music.163.com/#/song?id=2078101758"
+            },
+            {
+                "title": "Shootout（心绞痛）",
+                "href": "https://music.163.com/#/song?id=3338947206"
+            },
+            {
+                "title": "我想你要走了",
+                "href": "https://music.163.com/#/song?id=326702"
+            },
+            {
+                "title": "刻在我心底的名字",
+                "href": "https://music.163.com/#/song?id=1472921626"
+            },
+            {
+                "title": "两小无猜",
+                "href": "https://music.163.com/#/song?id=2600864145"
+            },
+            {
+                "title": "天还是阴",
+                "href": "https://music.163.com/#/song?id=3448658809"
+            },
+            {
+                "title": "我不难过",
+                "href": "https://music.163.com/#/song?id=32712816"
+            },
+            {
+                "title": "在痛苦彻底撕裂之前Pt.2",
+                "href": "https://music.163.com/#/song?id=3443085323"
+            },
+            {
+                "title": "Street Angel",
+                "href": "https://music.163.com/#/song?id=3360463255"
+            },
+            {
+                "title": "浅粉红 baby pink",
+                "href": "https://music.163.com/#/song?id=3439425218"
+            },
+            {
+                "title": "Jhim Jhimaune Aankha",
+                "href": "https://music.163.com/#/song?id=2652257620"
+            },
+            {
+                "title": "陷阱 (Live)",
+                "href": "https://music.163.com/#/song?id=2742480271"
+            },
+            {
+                "title": "How long love u",
+                "href": "https://music.163.com/#/song?id=3424289139"
+            },
+            {
+                "title": "不要死在那个夏天",
+                "href": "https://music.163.com/#/song?id=2697642019"
+            },
+            {
+                "title": "时过境迁",
+                "href": "https://music.163.com/#/song?id=3447077863"
+            },
+            {
+                "title": "西塘雨",
+                "href": "https://music.163.com/#/song?id=3447529094"
+            },
+            {
+                "title": "反季节眼泪",
+                "href": "https://music.163.com/#/song?id=3440639408"
+            },
+            {
+                "title": "展示中毒 (feat. Hatsune Miku)",
+                "href": "https://music.163.com/#/song?id=3437601567"
+            },
+            {
+                "title": "允许悲观的人存在",
+                "href": "https://music.163.com/#/song?id=3448553801"
+            },
+            {
+                "title": "等你靠近",
+                "href": "https://music.163.com/#/song?id=3448080658"
+            },
+            {
+                "title": "BLUFF",
+                "href": "https://music.163.com/#/song?id=3422799721"
+            },
+            {
+                "title": "GGEZ",
+                "href": "https://music.163.com/#/song?id=3425832887"
+            },
+            {
+                "title": "思念无声",
+                "href": "https://music.163.com/#/song?id=3423835216"
+            },
+            {
+                "title": "刻在我心底的名字",
+                "href": "https://music.163.com/#/song?id=3447017233"
+            },
+            {
+                "title": "想你的夜",
+                "href": "https://music.163.com/#/song?id=25639286"
+            },
+            {
+                "title": "Whatever Happens",
+                "href": "https://music.163.com/#/song?id=27536479"
+            },
+            {
+                "title": "FUNK MANDALA",
+                "href": "https://music.163.com/#/song?id=3424555552"
+            },
+            {
+                "title": "Housewife",
+                "href": "https://music.163.com/#/song?id=3449064757"
+            },
+            {
+                "title": "嘉豪",
+                "href": "https://music.163.com/#/song?id=3429756411"
+            },
+            {
+                "title": "We Belong Together",
+                "href": "https://music.163.com/#/song?id=21234462"
+            },
+            {
+                "title": "你不要那样看着我的眼睛",
+                "href": "https://music.163.com/#/song?id=211520"
+            },
+            {
+                "title": "父亲写的散文诗 (Live)",
+                "href": "https://music.163.com/#/song?id=3449282063"
+            },
+            {
+                "title": "Moments",
+                "href": "https://music.163.com/#/song?id=1422134833"
+            },
+            {
+                "title": "Noir Anoufie",
+                "href": "https://music.163.com/#/song?id=3439661800"
+            },
+            {
+                "title": "干杯 toast to",
+                "href": "https://music.163.com/#/song?id=3448672466"
+            },
+            {
+                "title": "幻想被爱是种病",
+                "href": "https://music.163.com/#/song?id=3440779551"
+            },
+            {
+                "title": "古怪梦",
+                "href": "https://music.163.com/#/song?id=3406950486"
+            },
+            {
+                "title": "何必相逢",
+                "href": "https://music.163.com/#/song?id=3448737289"
+            },
+            {
+                "title": "信仰の作り方",
+                "href": "https://music.163.com/#/song?id=3440905237"
+            },
+            {
+                "title": "我在这里等着你回来",
+                "href": "https://music.163.com/#/song?id=2681422035"
+            },
+            {
+                "title": "得吃小曲（寂寞的人伤心的歌 ）（X1.8变调版）",
+                "href": "https://music.163.com/#/song?id=3339930462"
+            },
+            {
+                "title": "Pureyes",
+                "href": "https://music.163.com/#/song?id=22778715"
+            },
+            {
+                "title": "Let it dance",
+                "href": "https://music.163.com/#/song?id=458927270"
+            },
+            {
+                "title": "Nothing's New",
+                "href": "https://music.163.com/#/song?id=3400337908"
+            },
+            {
+                "title": "地狱笑话",
+                "href": "https://music.163.com/#/song?id=3441851572"
+            },
+            {
+                "title": "MONTAGEM SIN NADA",
+                "href": "https://music.163.com/#/song?id=3437797626"
+            },
+            {
+                "title": "Baby I'm Sorry",
+                "href": "https://music.163.com/#/song?id=26598094"
+            },
+            {
+                "title": "请别惊扰我的爱人",
+                "href": "https://music.163.com/#/song?id=3439843023"
+            },
+            {
+                "title": "Wonderful U",
+                "href": "https://music.163.com/#/song?id=1935254869"
+            },
+            {
+                "title": "世界和你一样坏",
+                "href": "https://music.163.com/#/song?id=3444092572"
+            },
+            {
+                "title": "Lost Control",
+                "href": "https://music.163.com/#/song?id=3397456576"
+            },
+            {
+                "title": "Dirty Bird",
+                "href": "https://music.163.com/#/song?id=3447297548"
+            },
+            {
+                "title": "纸皇冠与小木剑",
+                "href": "https://music.163.com/#/song?id=3343165734"
+            },
+            {
+                "title": "宿命感",
+                "href": "https://music.163.com/#/song?id=3409374226"
+            },
+            {
+                "title": "我对你很差吗",
+                "href": "https://music.163.com/#/song?id=3440781479"
+            },
+            {
+                "title": "星星点灯",
+                "href": "https://music.163.com/#/song?id=190352"
+            },
+            {
+                "title": "我不难过",
+                "href": "https://music.163.com/#/song?id=3429085443"
+            },
+            {
+                "title": "雨晴I Wish（Feat.初音ミク,重音テト,音街ウナ）",
+                "href": "https://music.163.com/#/song?id=3446933619"
+            },
+            {
+                "title": "南屏晚钟 (Remastered)",
+                "href": "https://music.163.com/#/song?id=211637"
+            },
+            {
+                "title": "茉茉",
+                "href": "https://music.163.com/#/song?id=3448039922"
+            },
+            {
+                "title": "你还在不在",
+                "href": "https://music.163.com/#/song?id=254350"
+            },
+            {
+                "title": "旅行中忘记",
+                "href": "https://music.163.com/#/song?id=29751570"
+            },
+            {
+                "title": "写一万首情歌放我们的婚礼",
+                "href": "https://music.163.com/#/song?id=3379232535"
+            },
+            {
+                "title": "如果的事",
+                "href": "https://music.163.com/#/song?id=229372"
+            }
+        ]
     },
     {
         "hot_name": "知乎热榜",
