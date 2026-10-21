@@ -4,51 +4,55 @@
         "content": [
             {
                 "title": "前端这个行业真要完了",
-                "href": "https://www.v2ex.com/t/1250524#reply149"
+                "href": "https://www.v2ex.com/t/1250524#reply151"
             },
             {
                 "title": "为啥你们 Vibe 的网页 AI 味儿那么重?",
-                "href": "https://www.v2ex.com/t/1250676#reply112"
+                "href": "https://www.v2ex.com/t/1250676#reply124"
             },
             {
                 "title": "前端想学后端，但是看完这段代码就已经力竭了",
-                "href": "https://www.v2ex.com/t/1250533#reply110"
+                "href": "https://www.v2ex.com/t/1250533#reply114"
             },
             {
                 "title": "[图一乐] 给大家看看我的 Claude 账号到底有多硬",
-                "href": "https://www.v2ex.com/t/1250477#reply108"
+                "href": "https://www.v2ex.com/t/1250477#reply109"
             },
             {
                 "title": "有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。",
-                "href": "https://www.v2ex.com/t/1250519#reply103"
-            },
-            {
-                "title": "给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）",
-                "href": "https://www.v2ex.com/t/1250493#reply86"
-            },
-            {
-                "title": "感叹 Codex 的过度设计。",
-                "href": "https://www.v2ex.com/t/1250482#reply68"
+                "href": "https://www.v2ex.com/t/1250519#reply105"
             },
             {
                 "title": "PHP 最新零日漏洞怎么没人讨论",
-                "href": "https://www.v2ex.com/t/1250646#reply61"
+                "href": "https://www.v2ex.com/t/1250646#reply101"
+            },
+            {
+                "title": "给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）",
+                "href": "https://www.v2ex.com/t/1250493#reply87"
+            },
+            {
+                "title": "感叹 Codex 的过度设计。",
+                "href": "https://www.v2ex.com/t/1250482#reply70"
             },
             {
                 "title": "做了款苹果四端播放器 Vanto，支持杜比视界、空间音频，送 200 份永久版",
-                "href": "https://www.v2ex.com/t/1250565#reply58"
+                "href": "https://www.v2ex.com/t/1250565#reply64"
             },
             {
                 "title": "最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？",
-                "href": "https://www.v2ex.com/t/1250656#reply58"
+                "href": "https://www.v2ex.com/t/1250656#reply61"
             },
             {
                 "title": "cleanyourtv 很火，新增电视列表大部分是国产，苦广告久矣",
-                "href": "https://www.v2ex.com/t/1250476#reply56"
+                "href": "https://www.v2ex.com/t/1250476#reply58"
             },
             {
                 "title": "Linux 同好，一起移植 win 上的软件",
-                "href": "https://www.v2ex.com/t/1250480#reply55"
+                "href": "https://www.v2ex.com/t/1250480#reply58"
+            },
+            {
+                "title": "「MFlare」监控 Cloudflare 用量以及部署的 MacOS 菜单栏小工具（附兑换码）",
+                "href": "https://www.v2ex.com/t/1250641#reply52"
             },
             {
                 "title": "有了 AI 以后，职场环境似乎更加恶劣了。",
@@ -59,32 +63,28 @@
                 "href": "https://www.v2ex.com/t/1250587#reply49"
             },
             {
+                "title": "天塌了，公司就我一个技术，所有项目都跑在 php7 上，今晚我该咋办😨",
+                "href": "https://www.v2ex.com/t/1250659#reply49"
+            },
+            {
                 "title": "经济困难只排第三？",
-                "href": "https://www.v2ex.com/t/1250498#reply48"
+                "href": "https://www.v2ex.com/t/1250498#reply49"
+            },
+            {
+                "title": "中低端的个人开发者除了送外卖或者自媒体外还有什么出路？",
+                "href": "https://www.v2ex.com/t/1250603#reply46"
+            },
+            {
+                "title": "今天碰到的一个公共场合的小冲突，分享下",
+                "href": "https://www.v2ex.com/t/1250649#reply46"
             },
             {
                 "title": "有人租过共享菜园吗？",
                 "href": "https://www.v2ex.com/t/1250481#reply46"
             },
             {
-                "title": "中低端的个人开发者除了送外卖或者自媒体外还有什么出路？",
-                "href": "https://www.v2ex.com/t/1250603#reply45"
-            },
-            {
-                "title": "今天碰到的一个公共场合的小冲突，分享下",
-                "href": "https://www.v2ex.com/t/1250649#reply45"
-            },
-            {
-                "title": "「MFlare」监控 Cloudflare 用量以及部署的 MacOS 菜单栏小工具（附兑换码）",
-                "href": "https://www.v2ex.com/t/1250641#reply44"
-            },
-            {
                 "title": "我把我儿子的玩具做成了小游戏，开发了 2 天，审核了快一个月，终于上线了！",
-                "href": "https://www.v2ex.com/t/1250529#reply42"
-            },
-            {
-                "title": "天塌了，公司就我一个技术，所有项目都跑在 php7 上，今晚我该咋办😨",
-                "href": "https://www.v2ex.com/t/1250659#reply40"
+                "href": "https://www.v2ex.com/t/1250529#reply44"
             },
             {
                 "title": "[前端转全栈学 Java ，挑战 30 天独立做项目！望开发大佬指条明路]",
@@ -103,16 +103,24 @@
                 "href": "https://www.v2ex.com/t/1250485#reply37"
             },
             {
+                "title": "双 11 到了，拼多多靠谱不？价格比京东便宜不少",
+                "href": "https://www.v2ex.com/t/1250489#reply35"
+            },
+            {
                 "title": "如何回答女友的晚上吃啥？",
                 "href": "https://www.v2ex.com/t/1250681#reply34"
             },
             {
-                "title": "双 11 到了，拼多多靠谱不？价格比京东便宜不少",
-                "href": "https://www.v2ex.com/t/1250489#reply34"
+                "title": "美元汇率都 6.68 了",
+                "href": "https://www.v2ex.com/t/1250580#reply32"
             },
             {
-                "title": "美元汇率都 6.68 了",
-                "href": "https://www.v2ex.com/t/1250580#reply29"
+                "title": "大家如何看待 ai 文章(博客，公众号，推文帖子)",
+                "href": "https://www.v2ex.com/t/1250578#reply26"
+            },
+            {
+                "title": "有喜欢玩单片机或者想学习单片机的 V 友吗，做了一个单片机模拟网站",
+                "href": "https://www.v2ex.com/t/1250505#reply26"
             },
             {
                 "title": "刚 Tibo 说 codex 支持会话的永久缓存，有懂技术的解释下这可能吗",
@@ -123,16 +131,8 @@
                 "href": "https://www.v2ex.com/t/1250522#reply25"
             },
             {
-                "title": "有喜欢玩单片机或者想学习单片机的 V 友吗，做了一个单片机模拟网站",
-                "href": "https://www.v2ex.com/t/1250505#reply24"
-            },
-            {
-                "title": "大家如何看待 ai 文章(博客，公众号，推文帖子)",
-                "href": "https://www.v2ex.com/t/1250578#reply23"
-            },
-            {
                 "title": "全屋 wifi 路由器推荐",
-                "href": "https://www.v2ex.com/t/1250537#reply23"
+                "href": "https://www.v2ex.com/t/1250537#reply24"
             },
             {
                 "title": "同事恶心到我了，吐槽一下",
@@ -140,7 +140,7 @@
             },
             {
                 "title": "前后端其实只是一个阶段性的岗位",
-                "href": "https://www.v2ex.com/t/1250569#reply20"
+                "href": "https://www.v2ex.com/t/1250569#reply21"
             },
             {
                 "title": "最近从 Windows10 迁移到 Debian13，感觉直接起飞。",
@@ -148,7 +148,7 @@
             },
             {
                 "title": "大家用过 deepseek 的搜索服务吗？腾讯又来抄袭了",
-                "href": "https://www.v2ex.com/t/1250560#reply18"
+                "href": "https://www.v2ex.com/t/1250560#reply19"
             },
             {
                 "title": "deepseek 开源推理框架了",
@@ -164,12 +164,16 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367809&topic_name=%E8%A7%A3%E6%B0%94%21%E7%8E%8B%E5%85%AB%E5%93%A5%E6%89%8B%E6%92%95%E6%97%A0%E8%89%AF%E5%95%86%E5%AE%B6"
             },
             {
-                "title": "渣男1v4,美女同桌暗恋我",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367866&topic_name=%E6%B8%A3%E7%94%B71v4%2C%E7%BE%8E%E5%A5%B3%E5%90%8C%E6%A1%8C%E6%9A%97%E6%81%8B%E6%88%91"
+                "title": "泽连斯基松口:留75%领土换和平",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367925&topic_name=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%9D%BE%E5%8F%A3%3A%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8D%A2%E5%92%8C%E5%B9%B3"
             },
             {
                 "title": "吧主出征!为吧宠级表情包站台",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367857&topic_name=%E5%90%A7%E4%B8%BB%E5%87%BA%E5%BE%81%21%E4%B8%BA%E5%90%A7%E5%AE%A0%E7%BA%A7%E8%A1%A8%E6%83%85%E5%8C%85%E7%AB%99%E5%8F%B0"
+            },
+            {
+                "title": "霓虹12岁女生抢劫86岁店主",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB"
             },
             {
                 "title": "湿剃两年半,吧友盘点良心皂",
@@ -198,6 +202,10 @@
             {
                 "title": "声优土田大心衰去世,享年54岁",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367876&topic_name=%E5%A3%B0%E4%BC%98%E5%9C%9F%E7%94%B0%E5%A4%A7%E5%BF%83%E8%A1%B0%E5%8E%BB%E4%B8%96%2C%E4%BA%AB%E5%B9%B454%E5%B2%81"
+            },
+            {
+                "title": "渣男1v4,美女同桌暗恋我",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367866&topic_name=%E6%B8%A3%E7%94%B71v4%2C%E7%BE%8E%E5%A5%B3%E5%90%8C%E6%A1%8C%E6%9A%97%E6%81%8B%E6%88%91"
             },
             {
                 "title": "洛博闭馆,吧友玩梗传国玉玺",
@@ -264,30 +272,18 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367747&topic_name=%E9%9F%A9%E5%9B%A2H2H%E6%88%90%E5%91%98%E6%AF%8D%E4%BA%B2%E7%96%91%E6%94%AF%E6%8C%81%E5%B1%A0%E5%8D%8E"
             },
             {
-                "title": "夫妻在沙特寺庙造人被处决",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367691&topic_name=%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%B2%99%E7%89%B9%E5%AF%BA%E5%BA%99%E9%80%A0%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%86%B3"
-            },
-            {
                 "title": "加拿大军演误炸气井致大爆炸",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367634&topic_name=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%BC%94%E8%AF%AF%E7%82%B8%E6%B0%94%E4%BA%95%E8%87%B4%E5%A4%A7%E7%88%86%E7%82%B8"
             },
             {
-                "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83"
-            },
-            {
-                "title": "金鸡奖提名官宣,宋佳再入围",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367728&topic_name=%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%AE%98%E5%AE%A3%2C%E5%AE%8B%E4%BD%B3%E5%86%8D%E5%85%A5%E5%9B%B4"
+                "title": "夫妻在沙特寺庙造人被处决",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367691&topic_name=%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%B2%99%E7%89%B9%E5%AF%BA%E5%BA%99%E9%80%A0%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%86%B3"
             }
         ]
     },
     {
         "hot_name": "GitHub",
         "content": [
-            {
-                "title": "MadsLorentzen /\n\n      ai-job-search---The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-                "href": "https://github.com//MadsLorentzen/ai-job-search"
-            },
             {
                 "title": "cloudflare /\n\n      security-audit-skill---A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
                 "href": "https://github.com//cloudflare/security-audit-skill"
