@@ -1,154 +1,187 @@
 [
     {
+        "hot_name": "GitHub",
+        "content": [
+            {
+                "title": "php /\n\n      php-src---The PHP Interpreter",
+                "href": "https://github.com//php/php-src"
+            },
+            {
+                "title": "anthropics /\n\n      knowledge-work-plugins---Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+                "href": "https://github.com//anthropics/knowledge-work-plugins"
+            },
+            {
+                "title": "DietrichGebert /\n\n      ponytail---Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+                "href": "https://github.com//DietrichGebert/ponytail"
+            },
+            {
+                "title": "cloudflare /\n\n      security-audit-skill---A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+                "href": "https://github.com//cloudflare/security-audit-skill"
+            },
+            {
+                "title": "Graphify-Labs /\n\n      graphify---Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+                "href": "https://github.com//Graphify-Labs/graphify"
+            },
+            {
+                "title": "supabase /\n\n      supabase---The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+                "href": "https://github.com//supabase/supabase"
+            },
+            {
+                "title": "fastapi /\n\n      fastapi---FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+                "href": "https://github.com//fastapi/fastapi"
+            },
+            {
+                "title": "luongnv89 /\n\n      claude-howto---A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+                "href": "https://github.com//luongnv89/claude-howto"
+            },
+            {
+                "title": "Meloong-Git /\n\n      PCL---Minecraft 启动器 Plain Craft Launcher（PCL）。",
+                "href": "https://github.com//Meloong-Git/PCL"
+            }
+        ]
+    },
+    {
         "hot_name": "V2EX",
         "content": [
             {
                 "title": "00 后结婚 10 个月，老婆回娘家了，我该怎么处理，求各位帮助",
-                "href": "https://www.v2ex.com/t/1250834#reply395"
+                "href": "https://www.v2ex.com/t/1250834#reply508"
             },
             {
                 "title": "我的一个朋友（真的是一个朋友）目前深陷于一段感情骗局中，请 V 友们支招",
-                "href": "https://www.v2ex.com/t/1250830#reply84"
+                "href": "https://www.v2ex.com/t/1250830#reply104"
             },
             {
                 "title": "大 A 遥遥领先",
-                "href": "https://www.v2ex.com/t/1250819#reply78"
+                "href": "https://www.v2ex.com/t/1250819#reply97"
             },
             {
                 "title": "现在有多少人还在维护自建的博客的？",
-                "href": "https://www.v2ex.com/t/1250808#reply57"
+                "href": "https://www.v2ex.com/t/1250808#reply81"
+            },
+            {
+                "title": "老哥们，你们焦虑吗？未来的某天就会被突然失业，这几乎是必然，但自己别的什么也不会",
+                "href": "https://www.v2ex.com/t/1250940#reply71"
+            },
+            {
+                "title": "根管治疗过的聊聊",
+                "href": "https://www.v2ex.com/t/1250922#reply67"
             },
             {
                 "title": "SuperShot（爱截图）截图领域的缝合怪，欢迎评价体验",
-                "href": "https://www.v2ex.com/t/1250850#reply38"
-            },
-            {
-                "title": "说说现在你都有哪些 PTSD",
-                "href": "https://www.v2ex.com/t/1250812#reply32"
-            },
-            {
-                "title": "三种薪资结构该如何选择",
-                "href": "https://www.v2ex.com/t/1250843#reply31"
-            },
-            {
-                "title": "一年时间到了 兄弟们 “软件工程师”的职位 完蛋了没有",
-                "href": "https://www.v2ex.com/t/1250793#reply31"
-            },
-            {
-                "title": "今天只领取了 1 铜币，我的天啊",
-                "href": "https://www.v2ex.com/t/1250803#reply30"
-            },
-            {
-                "title": "在 V 站看到过很多感情不和婚姻不顺利的帖子，发现大多都有一个共同的特点",
-                "href": "https://www.v2ex.com/t/1250854#reply27"
+                "href": "https://www.v2ex.com/t/1250850#reply65"
             },
             {
                 "title": "关于手动剃刀，最近从吉列换成舒适了，消费降级，体验没降。",
-                "href": "https://www.v2ex.com/t/1250878#reply27"
+                "href": "https://www.v2ex.com/t/1250878#reply62"
+            },
+            {
+                "title": "说说现在你都有哪些 PTSD",
+                "href": "https://www.v2ex.com/t/1250812#reply61"
+            },
+            {
+                "title": "在 V 站看到过很多感情不和婚姻不顺利的帖子，发现大多都有一个共同的特点",
+                "href": "https://www.v2ex.com/t/1250854#reply47"
+            },
+            {
+                "title": "逆向了小丑牌为网页游戏",
+                "href": "https://www.v2ex.com/t/1250909#reply46"
+            },
+            {
+                "title": "今天只领取了 1 铜币，我的天啊",
+                "href": "https://www.v2ex.com/t/1250803#reply43"
+            },
+            {
+                "title": "三种薪资结构该如何选择",
+                "href": "https://www.v2ex.com/t/1250843#reply38"
+            },
+            {
+                "title": "十来年 Java 开发， 36 了，被裁后还有出路吗？",
+                "href": "https://www.v2ex.com/t/1250855#reply37"
+            },
+            {
+                "title": "tibo 又要重置了吗?",
+                "href": "https://www.v2ex.com/t/1250943#reply37"
+            },
+            {
+                "title": "一年时间到了 兄弟们 “软件工程师”的职位 完蛋了没有",
+                "href": "https://www.v2ex.com/t/1250793#reply34"
+            },
+            {
+                "title": "腾讯出了一个产品叫懂了鸭，可以给小朋友做科普动画、绘本",
+                "href": "https://www.v2ex.com/t/1250816#reply33"
+            },
+            {
+                "title": "V2ex 最精简的客户端上架，送码 Google play",
+                "href": "https://www.v2ex.com/t/1250845#reply32"
+            },
+            {
+                "title": "昨天各位 PHP 开发大佬，还好吗？",
+                "href": "https://www.v2ex.com/t/1250794#reply32"
+            },
+            {
+                "title": "老婆刚怀孕，请问各位有经验的大佬传授一下经验可以不？",
+                "href": "https://www.v2ex.com/t/1250989#reply31"
             },
             {
                 "title": "和大家同步一下宝塔面板关于 PHP 漏洞的发布进展",
-                "href": "https://www.v2ex.com/t/1250832#reply24"
+                "href": "https://www.v2ex.com/t/1250832#reply30"
+            },
+            {
+                "title": "现在 BT 下载全都变成私域了吗？",
+                "href": "https://www.v2ex.com/t/1250879#reply29"
+            },
+            {
+                "title": "A 股和港股破位下跌，日韩跌，这是要经济危机了吗？",
+                "href": "https://www.v2ex.com/t/1250903#reply28"
+            },
+            {
+                "title": "如果 gpt 有 claude 现在的水平，但是封号也看齐 claude 一样，大家能接受吗",
+                "href": "https://www.v2ex.com/t/1250967#reply27"
+            },
+            {
+                "title": "当前是不是真的在物质丰裕社会的前期了",
+                "href": "https://www.v2ex.com/t/1250910#reply25"
+            },
+            {
+                "title": "关于婚前婚后的两性关系，到底要怎么处理",
+                "href": "https://www.v2ex.com/t/1250870#reply24"
             },
             {
                 "title": "Claude 20 刀 5h/每周有多少额度？",
                 "href": "https://www.v2ex.com/t/1250796#reply24"
             },
             {
-                "title": "现在 BT 下载全都变成私域了吗？",
-                "href": "https://www.v2ex.com/t/1250879#reply23"
+                "title": "26 年 10 月，求推荐个路由器",
+                "href": "https://www.v2ex.com/t/1250994#reply23"
             },
             {
-                "title": "根管治疗过的聊聊",
-                "href": "https://www.v2ex.com/t/1250922#reply23"
+                "title": "40 岁程序员失业 10 个月 如何转型自雇的小生意人 大家有转型经验风险吗",
+                "href": "https://www.v2ex.com/t/1250824#reply21"
             },
             {
-                "title": "十来年 Java 开发， 36 了，被裁后还有出路吗？",
-                "href": "https://www.v2ex.com/t/1250855#reply22"
+                "title": "按上个帖子有人回复的来操作了一把，现在爽用中 😄，保佑不要被 ban 了 🙏",
+                "href": "https://www.v2ex.com/t/1250868#reply20"
             },
             {
-                "title": "A 股和港股破位下跌，日韩跌，这是要经济危机了吗？",
-                "href": "https://www.v2ex.com/t/1250903#reply21"
+                "title": "路亚第一天",
+                "href": "https://www.v2ex.com/t/1251015#reply20"
             },
             {
-                "title": "昨天各位 PHP 开发大佬，还好吗？",
-                "href": "https://www.v2ex.com/t/1250794#reply21"
+                "title": "想买个 apple tv，有没有类似安卓这边 tvbox 的应用？",
+                "href": "https://www.v2ex.com/t/1250806#reply20"
             },
             {
-                "title": "老哥们，你们焦虑吗？未来的某天就会被突然失业，这几乎是必然，但自己别的什么也不会",
-                "href": "https://www.v2ex.com/t/1250940#reply18"
+                "title": "大 A，感觉今天是机会，补哪个",
+                "href": "https://www.v2ex.com/t/1250917#reply19"
+            },
+            {
+                "title": "尽早找出路了，可能今后自己干是唯一办法",
+                "href": "https://www.v2ex.com/t/1250886#reply18"
             },
             {
                 "title": "分享下这次修复 PHP 的漏洞",
                 "href": "https://www.v2ex.com/t/1250792#reply18"
-            },
-            {
-                "title": "腾讯出了一个产品叫懂了鸭，可以给小朋友做科普动画、绘本",
-                "href": "https://www.v2ex.com/t/1250816#reply17"
-            },
-            {
-                "title": "刚接了反诈电话",
-                "href": "https://www.v2ex.com/t/1250860#reply17"
-            },
-            {
-                "title": "AI 发现的 PHP 严重安全漏洞，都上热搜了",
-                "href": "https://www.v2ex.com/t/1250795#reply17"
-            },
-            {
-                "title": "按上个帖子有人回复的来操作了一把，现在爽用中 😄，保佑不要被 ban 了 🙏",
-                "href": "https://www.v2ex.com/t/1250868#reply16"
-            },
-            {
-                "title": "逆向了小丑牌为网页游戏",
-                "href": "https://www.v2ex.com/t/1250909#reply16"
-            },
-            {
-                "title": "tibo 又要重置了吗?",
-                "href": "https://www.v2ex.com/t/1250943#reply16"
-            },
-            {
-                "title": "请问现在 supergrok 还值得继续续费吗",
-                "href": "https://www.v2ex.com/t/1250839#reply15"
-            },
-            {
-                "title": "关于婚前婚后的两性关系，到底要怎么处理",
-                "href": "https://www.v2ex.com/t/1250870#reply15"
-            },
-            {
-                "title": "尽早找出路了，可能今后自己干是唯一办法",
-                "href": "https://www.v2ex.com/t/1250886#reply15"
-            },
-            {
-                "title": "华氏速度系统",
-                "href": "https://www.v2ex.com/t/1250891#reply15"
-            },
-            {
-                "title": "想买个 apple tv，有没有类似安卓这边 tvbox 的应用？",
-                "href": "https://www.v2ex.com/t/1250806#reply15"
-            },
-            {
-                "title": "骑电动车通勤单程半小时，想跟 AI 语音聊天，有没有合适的产品",
-                "href": "https://www.v2ex.com/t/1250815#reply15"
-            },
-            {
-                "title": "V2ex 最精简的客户端上架，送码 Google play",
-                "href": "https://www.v2ex.com/t/1250845#reply13"
-            },
-            {
-                "title": "Rime+万象拼音对比 macOS 原生输入法强的有限",
-                "href": "https://www.v2ex.com/t/1250848#reply13"
-            },
-            {
-                "title": "当前是不是真的在物质丰裕社会的前期了",
-                "href": "https://www.v2ex.com/t/1250910#reply13"
-            },
-            {
-                "title": "断了 $200 Pro 的我现在居然还能订阅到 20x 的？？",
-                "href": "https://www.v2ex.com/t/1250818#reply12"
-            },
-            {
-                "title": "我的 token 溢出了",
-                "href": "https://www.v2ex.com/t/1250820#reply12"
             }
         ]
     },
@@ -164,12 +197,16 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367935&topic_name=%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91%2C%E8%A3%85%E6%9C%BA%E9%85%8D%E7%BD%AE%E4%B8%8D%E8%B8%A9%E5%9D%91"
             },
             {
-                "title": "解气!王八哥手撕无良商家",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367809&topic_name=%E8%A7%A3%E6%B0%94%21%E7%8E%8B%E5%85%AB%E5%93%A5%E6%89%8B%E6%92%95%E6%97%A0%E8%89%AF%E5%95%86%E5%AE%B6"
-            },
-            {
                 "title": "吧主出征!为吧宠级表情包站台",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367857&topic_name=%E5%90%A7%E4%B8%BB%E5%87%BA%E5%BE%81%21%E4%B8%BA%E5%90%A7%E5%AE%A0%E7%BA%A7%E8%A1%A8%E6%83%85%E5%8C%85%E7%AB%99%E5%8F%B0"
+            },
+            {
+                "title": "巴黎LV店玻璃太厚,暴徒砸不穿",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367947&topic_name=%E5%B7%B4%E9%BB%8ELV%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%8E%9A%2C%E6%9A%B4%E5%BE%92%E7%A0%B8%E4%B8%8D%E7%A9%BF"
+            },
+            {
+                "title": "原来还有这么可爱的表情包",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367953&topic_name=%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85"
             },
             {
                 "title": "大肥鱼遭群友霸凌后退群",
@@ -178,6 +215,10 @@
             {
                 "title": "炉石服务器频掉线,玩家暴怒",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367937&topic_name=%E7%82%89%E7%9F%B3%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%91%E6%8E%89%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9A%B4%E6%80%92"
+            },
+            {
+                "title": "星巴克国内施行消费入座",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367946&topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9B%BD%E5%86%85%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7"
             },
             {
                 "title": "AG遭TES淘汰,创年总最差战绩",
@@ -232,6 +273,10 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367933&topic_name=LPL%E5%9B%9B%E9%98%9F%E7%BE%8E%E6%9C%8DID%E9%81%AD%E6%9B%9D%2C%E5%90%A7%E5%8F%8B%E5%BC%80%E6%89%92"
             },
             {
+                "title": "解气!王八哥手撕无良商家",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367809&topic_name=%E8%A7%A3%E6%B0%94%21%E7%8E%8B%E5%85%AB%E5%93%A5%E6%89%8B%E6%92%95%E6%97%A0%E8%89%AF%E5%95%86%E5%AE%B6"
+            },
+            {
                 "title": "车企卖半成品,工信部出手严管",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367875&topic_name=%E8%BD%A6%E4%BC%81%E5%8D%96%E5%8D%8A%E6%88%90%E5%93%81%2C%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%87%BA%E6%89%8B%E4%B8%A5%E7%AE%A1"
             },
@@ -262,71 +307,6 @@
             {
                 "title": "谁才是表情包顶流",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367753&topic_name=%E8%B0%81%E6%89%8D%E6%98%AF%E8%A1%A8%E6%83%85%E5%8C%85%E9%A1%B6%E6%B5%81"
-            },
-            {
-                "title": "真圣人?马斯克撒钱送股票",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367825&topic_name=%E7%9C%9F%E5%9C%A3%E4%BA%BA%3F%E9%A9%AC%E6%96%AF%E5%85%8B%E6%92%92%E9%92%B1%E9%80%81%E8%82%A1%E7%A5%A8"
-            },
-            {
-                "title": "死神决战魔改,一护沦为路边",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367808&topic_name=%E6%AD%BB%E7%A5%9E%E5%86%B3%E6%88%98%E9%AD%94%E6%94%B9%2C%E4%B8%80%E6%8A%A4%E6%B2%A6%E4%B8%BA%E8%B7%AF%E8%BE%B9"
-            },
-            {
-                "title": "好活,CS战队化身诸子百家",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367776&topic_name=%E5%A5%BD%E6%B4%BB%2CCS%E6%88%98%E9%98%9F%E5%8C%96%E8%BA%AB%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6"
-            }
-        ]
-    },
-    {
-        "hot_name": "GitHub",
-        "content": [
-            {
-                "title": "cloudflare /\n\n      security-audit-skill---A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-                "href": "https://github.com//cloudflare/security-audit-skill"
-            },
-            {
-                "title": "vllm-project /\n\n      vllm---A high-throughput and memory-efficient inference and serving engine for LLMs",
-                "href": "https://github.com//vllm-project/vllm"
-            },
-            {
-                "title": "stablyai /\n\n      orca---Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-                "href": "https://github.com//stablyai/orca"
-            },
-            {
-                "title": "headroomlabs-ai /\n\n      headroom---Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-                "href": "https://github.com//headroomlabs-ai/headroom"
-            },
-            {
-                "title": "DietrichGebert /\n\n      ponytail---Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-                "href": "https://github.com//DietrichGebert/ponytail"
-            },
-            {
-                "title": "Comfy-Org /\n\n      ComfyUI---The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-                "href": "https://github.com//Comfy-Org/ComfyUI"
-            },
-            {
-                "title": "supabase /\n\n      supabase---The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-                "href": "https://github.com//supabase/supabase"
-            },
-            {
-                "title": "twentyhq /\n\n      twenty---The open alternative to Salesforce, designed for AI.",
-                "href": "https://github.com//twentyhq/twenty"
-            },
-            {
-                "title": "shiyu-coder /\n\n      Kronos---Kronos: A Foundation Model for the Language of Financial Markets",
-                "href": "https://github.com//shiyu-coder/Kronos"
-            },
-            {
-                "title": "strelov1 /\n\n      freehire---freehire — the open-source search engine for job seekers",
-                "href": "https://github.com//strelov1/freehire"
-            },
-            {
-                "title": "akitaonrails /\n\n      ai-memory---Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-                "href": "https://github.com//akitaonrails/ai-memory"
-            },
-            {
-                "title": "Graphify-Labs /\n\n      graphify---Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-                "href": "https://github.com//Graphify-Labs/graphify"
             }
         ]
     },
@@ -384,10 +364,6 @@
             {
                 "title": "沉迷法国食堂1欧餐无法自拔",
                 "href": "https://www.douban.com/group/topic/503043823/?_spm_id=MjkxNzIxMDM2"
-            },
-            {
-                "title": "已然晋北寒意深！",
-                "href": "https://www.douban.com/group/topic/503093885/?_spm_id=MTc4ODEwODM3"
             },
             {
                 "title": "小众野生库页岛国庆8天7夜人均7900",
@@ -452,12 +428,417 @@
             {
                 "title": "家的秋",
                 "href": "https://www.douban.com/group/topic/502767792/?_spm_id=MTczMTYzNTEw"
+            },
+            {
+                "title": "我在模拟人生游戏花3小时尝试了100种人生，竟然不再焦虑了",
+                "href": "https://www.douban.com/group/topic/502887273/?_spm_id=OTEwNTI0MzA"
             }
         ]
     },
     {
         "hot_name": "云音乐飙升榜",
-        "content": []
+        "content": [
+            {
+                "title": "宝船",
+                "href": "https://music.163.com/#/song?id=3451003254"
+            },
+            {
+                "title": "睡前别想太多",
+                "href": "https://music.163.com/#/song?id=3440961675"
+            },
+            {
+                "title": "学功夫练武术",
+                "href": "https://music.163.com/#/song?id=3372052257"
+            },
+            {
+                "title": "前路有光",
+                "href": "https://music.163.com/#/song?id=3451625898"
+            },
+            {
+                "title": "予君书",
+                "href": "https://music.163.com/#/song?id=3445412543"
+            },
+            {
+                "title": "谁的错",
+                "href": "https://music.163.com/#/song?id=2600746113"
+            },
+            {
+                "title": "轻轻",
+                "href": "https://music.163.com/#/song?id=3451494941"
+            },
+            {
+                "title": "Masterpiece",
+                "href": "https://music.163.com/#/song?id=3449273923"
+            },
+            {
+                "title": "遗憾总是贯穿人生始终",
+                "href": "https://music.163.com/#/song?id=2666627127"
+            },
+            {
+                "title": "Prima Oară",
+                "href": "https://music.163.com/#/song?id=1852788314"
+            },
+            {
+                "title": "恋慕 (연모)",
+                "href": "https://music.163.com/#/song?id=3445792656"
+            },
+            {
+                "title": "NADA NEAT(Frost Oath)",
+                "href": "https://music.163.com/#/song?id=3441361527"
+            },
+            {
+                "title": "FIRESTARTER",
+                "href": "https://music.163.com/#/song?id=3450569159"
+            },
+            {
+                "title": "Grey trails live on",
+                "href": "https://music.163.com/#/song?id=3443989683"
+            },
+            {
+                "title": "A Rusty Dream (from Cyberpunk: Edgerunners 2)",
+                "href": "https://music.163.com/#/song?id=3422762511"
+            },
+            {
+                "title": "不要说反话",
+                "href": "https://music.163.com/#/song?id=3447060146"
+            },
+            {
+                "title": "过渡期",
+                "href": "https://music.163.com/#/song?id=25780143"
+            },
+            {
+                "title": "无与伦比的美丽 (苏打绿版)",
+                "href": "https://music.163.com/#/song?id=2023994371"
+            },
+            {
+                "title": "何必相逢",
+                "href": "https://music.163.com/#/song?id=3448737289"
+            },
+            {
+                "title": "隔岸(女版)",
+                "href": "https://music.163.com/#/song?id=3445520471"
+            },
+            {
+                "title": "SXLENCE",
+                "href": "https://music.163.com/#/song?id=3442248748"
+            },
+            {
+                "title": "Una Mattina Slap House",
+                "href": "https://music.163.com/#/song?id=3428156635"
+            },
+            {
+                "title": "时过境迁",
+                "href": "https://music.163.com/#/song?id=2078101758"
+            },
+            {
+                "title": "陀飞轮",
+                "href": "https://music.163.com/#/song?id=64638"
+            },
+            {
+                "title": "Housewife",
+                "href": "https://music.163.com/#/song?id=3449064757"
+            },
+            {
+                "title": "神の名を",
+                "href": "https://music.163.com/#/song?id=3441819714"
+            },
+            {
+                "title": "我爱你",
+                "href": "https://music.163.com/#/song?id=191316"
+            },
+            {
+                "title": "眼泪比爱深刻",
+                "href": "https://music.163.com/#/song?id=3443782110"
+            },
+            {
+                "title": "左转灯 (1000 Times+1)",
+                "href": "https://music.163.com/#/song?id=3413209729"
+            },
+            {
+                "title": "Fever Pitch×热度顶峰",
+                "href": "https://music.163.com/#/song?id=3408624648"
+            },
+            {
+                "title": "我还在树下等一个人",
+                "href": "https://music.163.com/#/song?id=3450465096"
+            },
+            {
+                "title": "你是我的风景 (2025)",
+                "href": "https://music.163.com/#/song?id=2757264227"
+            },
+            {
+                "title": "拧巴式恋爱",
+                "href": "https://music.163.com/#/song?id=3431687338"
+            },
+            {
+                "title": "Call your name <Gv>",
+                "href": "https://music.163.com/#/song?id=1381723556"
+            },
+            {
+                "title": "Come Back To Me",
+                "href": "https://music.163.com/#/song?id=3440597644"
+            },
+            {
+                "title": "等你靠近",
+                "href": "https://music.163.com/#/song?id=3448080658"
+            },
+            {
+                "title": "过来人",
+                "href": "https://music.163.com/#/song?id=3448742535"
+            },
+            {
+                "title": "****in' Fearless (Outlaw Country Rap)",
+                "href": "https://music.163.com/#/song?id=3412813622"
+            },
+            {
+                "title": "BADDY BADDY",
+                "href": "https://music.163.com/#/song?id=3441819715"
+            },
+            {
+                "title": "晚安",
+                "href": "https://music.163.com/#/song?id=1359356908"
+            },
+            {
+                "title": "小胡同",
+                "href": "https://music.163.com/#/song?id=1926623288"
+            },
+            {
+                "title": "H. (Remix)",
+                "href": "https://music.163.com/#/song?id=1473690082"
+            },
+            {
+                "title": "Can't Give Up（你知道你不能放弃）",
+                "href": "https://music.163.com/#/song?id=3421864130"
+            },
+            {
+                "title": "红发女孩",
+                "href": "https://music.163.com/#/song?id=3450974922"
+            },
+            {
+                "title": "演员",
+                "href": "https://music.163.com/#/song?id=32507038"
+            },
+            {
+                "title": "Fallen Angels",
+                "href": "https://music.163.com/#/song?id=3425052803"
+            },
+            {
+                "title": "Watson",
+                "href": "https://music.163.com/#/song?id=3448934966"
+            },
+            {
+                "title": "无情画",
+                "href": "https://music.163.com/#/song?id=1311347661"
+            },
+            {
+                "title": "SLICK",
+                "href": "https://music.163.com/#/song?id=3400883425"
+            },
+            {
+                "title": "太阳与地球",
+                "href": "https://music.163.com/#/song?id=2745752426"
+            },
+            {
+                "title": "反复",
+                "href": "https://music.163.com/#/song?id=2127878684"
+            },
+            {
+                "title": "半个地球的距离",
+                "href": "https://music.163.com/#/song?id=3382310928"
+            },
+            {
+                "title": "千劫起，一念生",
+                "href": "https://music.163.com/#/song?id=3451599350"
+            },
+            {
+                "title": "趁早",
+                "href": "https://music.163.com/#/song?id=327367"
+            },
+            {
+                "title": "带我走",
+                "href": "https://music.163.com/#/song?id=5243408"
+            },
+            {
+                "title": "我怀念的",
+                "href": "https://music.163.com/#/song?id=287063"
+            },
+            {
+                "title": "99",
+                "href": "https://music.163.com/#/song?id=2741144144"
+            },
+            {
+                "title": "有我呢",
+                "href": "https://music.163.com/#/song?id=1400259397"
+            },
+            {
+                "title": "My Love Mine All Mine",
+                "href": "https://music.163.com/#/song?id=2082156813"
+            },
+            {
+                "title": "遐想",
+                "href": "https://music.163.com/#/song?id=2018733994"
+            },
+            {
+                "title": "万种失落",
+                "href": "https://music.163.com/#/song?id=3426213435"
+            },
+            {
+                "title": "总有一天等到你",
+                "href": "https://music.163.com/#/song?id=190438"
+            },
+            {
+                "title": "南屏晚钟 (Remastered)",
+                "href": "https://music.163.com/#/song?id=211637"
+            },
+            {
+                "title": "No Idea",
+                "href": "https://music.163.com/#/song?id=1367786494"
+            },
+            {
+                "title": "Watch",
+                "href": "https://music.163.com/#/song?id=2079892238"
+            },
+            {
+                "title": "普通朋友",
+                "href": "https://music.163.com/#/song?id=150623"
+            },
+            {
+                "title": "A Song Of Romance Pt.2",
+                "href": "https://music.163.com/#/song?id=3441821435"
+            },
+            {
+                "title": "同花顺",
+                "href": "https://music.163.com/#/song?id=4872687"
+            },
+            {
+                "title": "爱？唉（pt.2）",
+                "href": "https://music.163.com/#/song?id=3431697488"
+            },
+            {
+                "title": "名为你的雨季",
+                "href": "https://music.163.com/#/song?id=3431881323"
+            },
+            {
+                "title": "We Own Tonight",
+                "href": "https://music.163.com/#/song?id=3436780422"
+            },
+            {
+                "title": "deja vu",
+                "href": "https://music.163.com/#/song?id=1846473652"
+            },
+            {
+                "title": "일주일 (A Week)",
+                "href": "https://music.163.com/#/song?id=26512616"
+            },
+            {
+                "title": "Call You Tonight",
+                "href": "https://music.163.com/#/song?id=19827042"
+            },
+            {
+                "title": "夜车",
+                "href": "https://music.163.com/#/song?id=340376"
+            },
+            {
+                "title": "锈 (我们两个都拉过勾)",
+                "href": "https://music.163.com/#/song?id=2648204040"
+            },
+            {
+                "title": "无赖",
+                "href": "https://music.163.com/#/song?id=1958430831"
+            },
+            {
+                "title": "多余的解释",
+                "href": "https://music.163.com/#/song?id=167873"
+            },
+            {
+                "title": "为什么",
+                "href": "https://music.163.com/#/song?id=3410228013"
+            },
+            {
+                "title": "Follow Me",
+                "href": "https://music.163.com/#/song?id=3444720987"
+            },
+            {
+                "title": "연애의 조건",
+                "href": "https://music.163.com/#/song?id=28850832"
+            },
+            {
+                "title": "生死相随",
+                "href": "https://music.163.com/#/song?id=1913299856"
+            },
+            {
+                "title": "感官过载",
+                "href": "https://music.163.com/#/song?id=3381504830"
+            },
+            {
+                "title": "TOO CLOSE (feat. 수엔(SUEN))",
+                "href": "https://music.163.com/#/song?id=3344314156"
+            },
+            {
+                "title": "即兴",
+                "href": "https://music.163.com/#/song?id=2641911711"
+            },
+            {
+                "title": "Feeling",
+                "href": "https://music.163.com/#/song?id=3407913545"
+            },
+            {
+                "title": "星光下的梦想(《喜羊羊与灰太狼之兔年顶呱呱》动画电影插曲)",
+                "href": "https://music.163.com/#/song?id=2652412440"
+            },
+            {
+                "title": "幸福刑 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+                "href": "https://music.163.com/#/song?id=3449225307"
+            },
+            {
+                "title": "心墙",
+                "href": "https://music.163.com/#/song?id=108263"
+            },
+            {
+                "title": "BREGA DO LOVE (INSTRUMENTAL)",
+                "href": "https://music.163.com/#/song?id=3398163273"
+            },
+            {
+                "title": "In Love With Myself",
+                "href": "https://music.163.com/#/song?id=3448934969"
+            },
+            {
+                "title": "别哭了我爱你",
+                "href": "https://music.163.com/#/song?id=2663837607"
+            },
+            {
+                "title": "素颜",
+                "href": "https://music.163.com/#/song?id=167827"
+            },
+            {
+                "title": "幸运星星",
+                "href": "https://music.163.com/#/song?id=2610262472"
+            },
+            {
+                "title": "天还是阴",
+                "href": "https://music.163.com/#/song?id=3448658809"
+            },
+            {
+                "title": "偏爱",
+                "href": "https://music.163.com/#/song?id=471882132"
+            },
+            {
+                "title": "我做了个梦",
+                "href": "https://music.163.com/#/song?id=3435089416"
+            },
+            {
+                "title": "寻常岁月诗",
+                "href": "https://music.163.com/#/song?id=1415663223"
+            },
+            {
+                "title": "The truth that you leave",
+                "href": "https://music.163.com/#/song?id=139774"
+            },
+            {
+                "title": "离开我的依赖",
+                "href": "https://music.163.com/#/song?id=2731327610"
+            }
+        ]
     },
     {
         "hot_name": "知乎热榜",
