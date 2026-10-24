@@ -1,5 +1,162 @@
 [
     {
+        "hot_name": "V2EX",
+        "content": [
+            {
+                "title": "别说开发了, 这把运维真给干没了把",
+                "href": "https://www.v2ex.com/t/1251410#reply72"
+            },
+            {
+                "title": "用单位电脑开代理，如何逃避后台监测？",
+                "href": "https://www.v2ex.com/t/1251432#reply51"
+            },
+            {
+                "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
+                "href": "https://www.v2ex.com/t/1251551#reply36"
+            },
+            {
+                "title": "Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了",
+                "href": "https://www.v2ex.com/t/1251425#reply35"
+            },
+            {
+                "title": "月入零到月入百刀，自已没变，外人一直在变。",
+                "href": "https://www.v2ex.com/t/1251417#reply30"
+            },
+            {
+                "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
+                "href": "https://www.v2ex.com/t/1251415#reply29"
+            },
+            {
+                "title": "智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
+                "href": "https://www.v2ex.com/t/1251411#reply26"
+            },
+            {
+                "title": "国行 iPhone Duo 如何在境内写入境外 eSIM？",
+                "href": "https://www.v2ex.com/t/1251454#reply26"
+            },
+            {
+                "title": "现在新号订阅是不是必被 KYC",
+                "href": "https://www.v2ex.com/t/1251445#reply21"
+            },
+            {
+                "title": "有没有人知道这是什么面试套路",
+                "href": "https://www.v2ex.com/t/1251423#reply19"
+            },
+            {
+                "title": "大龄单身青年晚上都干啥",
+                "href": "https://www.v2ex.com/t/1251553#reply19"
+            },
+            {
+                "title": "做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
+                "href": "https://www.v2ex.com/t/1251413#reply18"
+            },
+            {
+                "title": "Pro 已掉，羊毛没了🤣",
+                "href": "https://www.v2ex.com/t/1251436#reply18"
+            },
+            {
+                "title": "目前 git 用起来让你最难受的一点是什么？",
+                "href": "https://www.v2ex.com/t/1251461#reply18"
+            },
+            {
+                "title": "微信会监控私聊记录吗？",
+                "href": "https://www.v2ex.com/t/1251555#reply18"
+            },
+            {
+                "title": "claude 支持中国了？",
+                "href": "https://www.v2ex.com/t/1251557#reply17"
+            },
+            {
+                "title": "1024 程序员节好",
+                "href": "https://www.v2ex.com/t/1251414#reply16"
+            },
+            {
+                "title": "香港做地铁公交可以用支付宝微信吗",
+                "href": "https://www.v2ex.com/t/1251479#reply16"
+            },
+            {
+                "title": "一个中年离职程序员的碎碎念&求职一份 AI 相关的工作",
+                "href": "https://www.v2ex.com/t/1251496#reply16"
+            },
+            {
+                "title": "为什么突然出现那么多类 ARC 浏览器",
+                "href": "https://www.v2ex.com/t/1251519#reply15"
+            },
+            {
+                "title": "XDM，在折腾 TZ，准备下单之前再来问问 v 友 还有没有更好的方案；",
+                "href": "https://www.v2ex.com/t/1251412#reply13"
+            },
+            {
+                "title": "大家现在上班每天早餐消费多少钱？",
+                "href": "https://www.v2ex.com/t/1251530#reply13"
+            },
+            {
+                "title": "之前加入等候名单的 MUSE，现在开通了",
+                "href": "https://www.v2ex.com/t/1251500#reply12"
+            },
+            {
+                "title": "入职某央企外包快崩不住了",
+                "href": "https://www.v2ex.com/t/1251513#reply12"
+            },
+            {
+                "title": "Wise 需要居留证明怎么处理？",
+                "href": "https://www.v2ex.com/t/1251420#reply11"
+            },
+            {
+                "title": "ChatGPT 大量写硬盘的问题真是没完没了",
+                "href": "https://www.v2ex.com/t/1251451#reply11"
+            },
+            {
+                "title": "1024 给大家说个乐子",
+                "href": "https://www.v2ex.com/t/1251456#reply11"
+            },
+            {
+                "title": "世界范围的历史上的今天，搭配可交互地图来看看这一天，世界各地发生过什么事",
+                "href": "https://www.v2ex.com/t/1251569#reply11"
+            },
+            {
+                "title": "DeepSeek 智谱 KIMI ，哪个有可能成为中国的巨无霸科技公司？",
+                "href": "https://www.v2ex.com/t/1251447#reply10"
+            },
+            {
+                "title": "1024 程序员节：为什么是这一天？",
+                "href": "https://www.v2ex.com/t/1251429#reply9"
+            },
+            {
+                "title": "Jio 18 个月的 Gemini Pro 慎买",
+                "href": "https://www.v2ex.com/t/1251453#reply9"
+            },
+            {
+                "title": "codex 的 vscode 插件又寄了啊",
+                "href": "https://www.v2ex.com/t/1251449#reply8"
+            },
+            {
+                "title": "这几天 CGPT 6.1 Sol 非常慢，有遇到吗？",
+                "href": "https://www.v2ex.com/t/1251478#reply8"
+            },
+            {
+                "title": "慢慢就不焦虑了金币了，甚至变得没那么想回贴了",
+                "href": "https://www.v2ex.com/t/1251514#reply8"
+            },
+            {
+                "title": "Mac OS 27 打开软件接近 5 秒",
+                "href": "https://www.v2ex.com/t/1251484#reply7"
+            },
+            {
+                "title": "招 1 名全栈工程师（AI 伴侣方向）",
+                "href": "https://www.v2ex.com/t/1251506#reply7"
+            },
+            {
+                "title": "新加坡或马来西亚手机号码办理漫游回国接码使用",
+                "href": "https://www.v2ex.com/t/1251518#reply7"
+            },
+            {
+                "title": "1024 领取智普 5 亿 token",
+                "href": "https://www.v2ex.com/t/1251540#reply7"
+            }
+        ]
+    },
+    {
         "hot_name": "GitHub",
         "content": [
             {
@@ -41,163 +198,6 @@
             {
                 "title": "makecindy /\n\n      cindy---Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
                 "href": "https://github.com//makecindy/cindy"
-            }
-        ]
-    },
-    {
-        "hot_name": "V2EX",
-        "content": [
-            {
-                "title": "别说开发了, 这把运维真给干没了把",
-                "href": "https://www.v2ex.com/t/1251410#reply71"
-            },
-            {
-                "title": "用单位电脑开代理，如何逃避后台监测？",
-                "href": "https://www.v2ex.com/t/1251432#reply51"
-            },
-            {
-                "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
-                "href": "https://www.v2ex.com/t/1251551#reply36"
-            },
-            {
-                "title": "Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了",
-                "href": "https://www.v2ex.com/t/1251425#reply35"
-            },
-            {
-                "title": "月入零到月入百刀，自已没变，外人一直在变。",
-                "href": "https://www.v2ex.com/t/1251417#reply30"
-            },
-            {
-                "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
-                "href": "https://www.v2ex.com/t/1251415#reply29"
-            },
-            {
-                "title": "智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
-                "href": "https://www.v2ex.com/t/1251411#reply25"
-            },
-            {
-                "title": "国行 iPhone Duo 如何在境内写入境外 eSIM？",
-                "href": "https://www.v2ex.com/t/1251454#reply25"
-            },
-            {
-                "title": "现在新号订阅是不是必被 KYC",
-                "href": "https://www.v2ex.com/t/1251445#reply21"
-            },
-            {
-                "title": "有没有人知道这是什么面试套路",
-                "href": "https://www.v2ex.com/t/1251423#reply19"
-            },
-            {
-                "title": "做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
-                "href": "https://www.v2ex.com/t/1251413#reply18"
-            },
-            {
-                "title": "Pro 已掉，羊毛没了🤣",
-                "href": "https://www.v2ex.com/t/1251436#reply18"
-            },
-            {
-                "title": "目前 git 用起来让你最难受的一点是什么？",
-                "href": "https://www.v2ex.com/t/1251461#reply18"
-            },
-            {
-                "title": "大龄单身青年晚上都干啥",
-                "href": "https://www.v2ex.com/t/1251553#reply18"
-            },
-            {
-                "title": "claude 支持中国了？",
-                "href": "https://www.v2ex.com/t/1251557#reply17"
-            },
-            {
-                "title": "1024 程序员节好",
-                "href": "https://www.v2ex.com/t/1251414#reply16"
-            },
-            {
-                "title": "香港做地铁公交可以用支付宝微信吗",
-                "href": "https://www.v2ex.com/t/1251479#reply16"
-            },
-            {
-                "title": "一个中年离职程序员的碎碎念&求职一份 AI 相关的工作",
-                "href": "https://www.v2ex.com/t/1251496#reply16"
-            },
-            {
-                "title": "微信会监控私聊记录吗？",
-                "href": "https://www.v2ex.com/t/1251555#reply16"
-            },
-            {
-                "title": "为什么突然出现那么多类 ARC 浏览器",
-                "href": "https://www.v2ex.com/t/1251519#reply15"
-            },
-            {
-                "title": "XDM，在折腾 TZ，准备下单之前再来问问 v 友 还有没有更好的方案；",
-                "href": "https://www.v2ex.com/t/1251412#reply13"
-            },
-            {
-                "title": "大家现在上班每天早餐消费多少钱？",
-                "href": "https://www.v2ex.com/t/1251530#reply13"
-            },
-            {
-                "title": "入职某央企外包快崩不住了",
-                "href": "https://www.v2ex.com/t/1251513#reply12"
-            },
-            {
-                "title": "Wise 需要居留证明怎么处理？",
-                "href": "https://www.v2ex.com/t/1251420#reply11"
-            },
-            {
-                "title": "1024 给大家说个乐子",
-                "href": "https://www.v2ex.com/t/1251456#reply11"
-            },
-            {
-                "title": "之前加入等候名单的 MUSE，现在开通了",
-                "href": "https://www.v2ex.com/t/1251500#reply11"
-            },
-            {
-                "title": "世界范围的历史上的今天，搭配可交互地图来看看这一天，世界各地发生过什么事",
-                "href": "https://www.v2ex.com/t/1251569#reply11"
-            },
-            {
-                "title": "DeepSeek 智谱 KIMI ，哪个有可能成为中国的巨无霸科技公司？",
-                "href": "https://www.v2ex.com/t/1251447#reply10"
-            },
-            {
-                "title": "ChatGPT 大量写硬盘的问题真是没完没了",
-                "href": "https://www.v2ex.com/t/1251451#reply10"
-            },
-            {
-                "title": "1024 程序员节：为什么是这一天？",
-                "href": "https://www.v2ex.com/t/1251429#reply9"
-            },
-            {
-                "title": "Jio 18 个月的 Gemini Pro 慎买",
-                "href": "https://www.v2ex.com/t/1251453#reply9"
-            },
-            {
-                "title": "codex 的 vscode 插件又寄了啊",
-                "href": "https://www.v2ex.com/t/1251449#reply8"
-            },
-            {
-                "title": "这几天 CGPT 6.1 Sol 非常慢，有遇到吗？",
-                "href": "https://www.v2ex.com/t/1251478#reply8"
-            },
-            {
-                "title": "慢慢就不焦虑了金币了，甚至变得没那么想回贴了",
-                "href": "https://www.v2ex.com/t/1251514#reply8"
-            },
-            {
-                "title": "Mac OS 27 打开软件接近 5 秒",
-                "href": "https://www.v2ex.com/t/1251484#reply7"
-            },
-            {
-                "title": "招 1 名全栈工程师（AI 伴侣方向）",
-                "href": "https://www.v2ex.com/t/1251506#reply7"
-            },
-            {
-                "title": "新加坡或马来西亚手机号码办理漫游回国接码使用",
-                "href": "https://www.v2ex.com/t/1251518#reply7"
-            },
-            {
-                "title": "1024 领取智普 5 亿 token",
-                "href": "https://www.v2ex.com/t/1251540#reply7"
             }
         ]
     },
