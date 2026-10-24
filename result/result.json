@@ -1,164 +1,56 @@
 [
     {
         "hot_name": "V2EX",
+        "content": []
+    },
+    {
+        "hot_name": "GitHub",
         "content": [
             {
-                "title": "V 友们，胡姓，帮忙取一个好听的名字",
-                "href": "https://www.v2ex.com/t/1251126#reply208"
+                "title": "cloudflare /\n\n      security-audit-skill---A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+                "href": "https://github.com//cloudflare/security-audit-skill"
             },
             {
-                "title": "上午刚给自己项目开源，下午就收到 hr 裁员，卧槽了，我还没发育完呢",
-                "href": "https://www.v2ex.com/t/1251200#reply170"
+                "title": "php /\n\n      php-src---The PHP Interpreter",
+                "href": "https://github.com//php/php-src"
             },
             {
-                "title": "如果，我是说如果，谈婚论嫁时，女方父母提出让男方婚后工资给女方管理，怎么破局。",
-                "href": "https://www.v2ex.com/t/1251151#reply133"
+                "title": "anthropics /\n\n      knowledge-work-plugins---Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+                "href": "https://github.com//anthropics/knowledge-work-plugins"
             },
             {
-                "title": "老实回答，你们硬要用 Claude 的人是不是有 M 倾向？",
-                "href": "https://www.v2ex.com/t/1251139#reply111"
+                "title": "NVIDIA /\n\n      OpenShell---OpenShell is the safe, private runtime for autonomous AI agents.",
+                "href": "https://github.com//NVIDIA/OpenShell"
             },
             {
-                "title": "大家会记得很久之前发生的事情吗？",
-                "href": "https://www.v2ex.com/t/1251119#reply104"
+                "title": "Renhuai123 /\n\n      ziwei-doushu---紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+                "href": "https://github.com//Renhuai123/ziwei-doushu"
             },
             {
-                "title": "远程收入 如何优雅的避税",
-                "href": "https://www.v2ex.com/t/1251173#reply80"
+                "title": "SnailSploit /\n\n      Claude-Red---claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+                "href": "https://github.com//SnailSploit/Claude-Red"
             },
             {
-                "title": "求助，刚结婚一百多天，老婆生气不见我怎么办",
-                "href": "https://www.v2ex.com/t/1251212#reply79"
+                "title": "OpenBMB /\n\n      VoxCPM---VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+                "href": "https://github.com//OpenBMB/VoxCPM"
             },
             {
-                "title": "忍辱负重还是勇敢跳槽",
-                "href": "https://www.v2ex.com/t/1251190#reply78"
-            },
-            {
-                "title": "京东提供的 4 年只换不修你们会买吗",
-                "href": "https://www.v2ex.com/t/1251142#reply73"
-            },
-            {
-                "title": "1024 节日快乐",
-                "href": "https://www.v2ex.com/t/1251110#reply70"
-            },
-            {
-                "title": "为了不浪费 token，写了个 IDEA 平替（开源）",
-                "href": "https://www.v2ex.com/t/1251116#reply67"
-            },
-            {
-                "title": "DeepSeek 融资 1000 亿人民币",
-                "href": "https://www.v2ex.com/t/1251184#reply61"
-            },
-            {
-                "title": "去了趟既熟悉又陌生的台湾",
-                "href": "https://www.v2ex.com/t/1251258#reply55"
-            },
-            {
-                "title": "电动剃须刀有没有推荐的。。。",
-                "href": "https://www.v2ex.com/t/1251194#reply53"
-            },
-            {
-                "title": "换手机的心情达到了顶峰，双十一安卓手机推荐？",
-                "href": "https://www.v2ex.com/t/1251203#reply51"
-            },
-            {
-                "title": "做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度",
-                "href": "https://www.v2ex.com/t/1251299#reply46"
-            },
-            {
-                "title": "Arc 浏览器将在 2026 年 12 月 22 日退役",
-                "href": "https://www.v2ex.com/t/1251107#reply43"
-            },
-            {
-                "title": "原来 iPhone Duo 内屏就是贴了个磨砂膜",
-                "href": "https://www.v2ex.com/t/1251201#reply43"
-            },
-            {
-                "title": "经过这次 PHP 漏洞的事情，猛然发现技术圈进步的并没有那么快",
-                "href": "https://www.v2ex.com/t/1251242#reply38"
-            },
-            {
-                "title": "大家在为下一次失业做准备吗",
-                "href": "https://www.v2ex.com/t/1251287#reply36"
-            },
-            {
-                "title": "以前说程序员是青春饭,实际上淘汰的是把写程序当体力活干的人吧",
-                "href": "https://www.v2ex.com/t/1251106#reply33"
-            },
-            {
-                "title": "[限时内购限免] 免费领取 永久会员",
-                "href": "https://www.v2ex.com/t/1251115#reply33"
-            },
-            {
-                "title": "吗的，消费焦虑全来自比价",
-                "href": "https://www.v2ex.com/t/1251176#reply33"
-            },
-            {
-                "title": "不是我说，成都这地方当码农简直是灾难级别，成都的程序员真能顶啊？",
-                "href": "https://www.v2ex.com/t/1251263#reply33"
-            },
-            {
-                "title": "有大佬或者家里人做过腰椎相关的手术吗？",
-                "href": "https://www.v2ex.com/t/1251131#reply32"
-            },
-            {
-                "title": "大灾变来了，该贪婪起来了吗？",
-                "href": "https://www.v2ex.com/t/1251154#reply32"
-            },
-            {
-                "title": "锐评 v 站热门节点",
-                "href": "https://www.v2ex.com/t/1251217#reply32"
-            },
-            {
-                "title": "大龄后端程序员出路讨论",
-                "href": "https://www.v2ex.com/t/1251316#reply32"
-            },
-            {
-                "title": "iOS 第三方微博客户端引发的感慨",
-                "href": "https://www.v2ex.com/t/1251206#reply30"
-            },
-            {
-                "title": "Ubuntu 等 Linux 发行版一发布，就锁定 PHP 版本号的原因是什么？",
-                "href": "https://www.v2ex.com/t/1251125#reply23"
-            },
-            {
-                "title": "你们都只看到了恐慌",
-                "href": "https://www.v2ex.com/t/1251183#reply23"
-            },
-            {
-                "title": "antigravity 的 pro 会员现在可以用 Gemini 4 了",
-                "href": "https://www.v2ex.com/t/1251189#reply23"
-            },
-            {
-                "title": "用开源项目自建了个影视站，免费、无广告",
-                "href": "https://www.v2ex.com/t/1251191#reply22"
-            },
-            {
-                "title": "鼠须管用了半年，还是换回了 macos 自带的简体拼音",
-                "href": "https://www.v2ex.com/t/1251177#reply20"
-            },
-            {
-                "title": "v2ex 你们每天逛的最多的是哪些节点？",
-                "href": "https://www.v2ex.com/t/1251208#reply20"
-            },
-            {
-                "title": "软件工程不会消失",
-                "href": "https://www.v2ex.com/t/1251245#reply20"
-            },
-            {
-                "title": "为了不被优化，现在应该学点啥",
-                "href": "https://www.v2ex.com/t/1251315#reply20"
-            },
-            {
-                "title": "mac 台前调度正确使用姿势到底是什么？",
-                "href": "https://www.v2ex.com/t/1251162#reply19"
+                "title": "nodejs /\n\n      node---Node.js JavaScript runtime ✨🐢🚀✨",
+                "href": "https://github.com//nodejs/node"
             }
         ]
     },
     {
         "hot_name": "贴吧",
         "content": [
+            {
+                "title": "16连胜,HLE仅用24分钟速通TES",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367991&topic_name=16%E8%BF%9E%E8%83%9C%2CHLE%E4%BB%85%E7%94%A824%E5%88%86%E9%92%9F%E9%80%9F%E9%80%9ATES"
+            },
+            {
+                "title": "优势局翻车,IG葬送天胡开局",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367989&topic_name=%E4%BC%98%E5%8A%BF%E5%B1%80%E7%BF%BB%E8%BD%A6%2CIG%E8%91%AC%E9%80%81%E5%A4%A9%E8%83%A1%E5%BC%80%E5%B1%80"
+            },
             {
                 "title": "孙笑川成中土大战最大受害者",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367981&topic_name=%E5%AD%99%E7%AC%91%E5%B7%9D%E6%88%90%E4%B8%AD%E5%9C%9F%E5%A4%A7%E6%88%98%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85"
@@ -258,59 +150,6 @@
             {
                 "title": "10届广大老学长,跟吧友唠唠",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367931&topic_name=10%E5%B1%8A%E5%B9%BF%E5%A4%A7%E8%80%81%E5%AD%A6%E9%95%BF%2C%E8%B7%9F%E5%90%A7%E5%8F%8B%E5%94%A0%E5%94%A0"
-            },
-            {
-                "title": "泽连斯基松口:留75%领土换和平",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367925&topic_name=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%9D%BE%E5%8F%A3%3A%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8D%A2%E5%92%8C%E5%B9%B3"
-            },
-            {
-                "title": "霓虹12岁女生抢劫86岁店主",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB"
-            },
-            {
-                "title": "湿剃两年半,吧友盘点良心皂",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367874&topic_name=%E6%B9%BF%E5%89%83%E4%B8%A4%E5%B9%B4%E5%8D%8A%2C%E5%90%A7%E5%8F%8B%E7%9B%98%E7%82%B9%E8%89%AF%E5%BF%83%E7%9A%82"
-            },
-            {
-                "title": "两游客误闯法国暴乱,淡定拖箱",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367920&topic_name=%E4%B8%A4%E6%B8%B8%E5%AE%A2%E8%AF%AF%E9%97%AF%E6%B3%95%E5%9B%BD%E6%9A%B4%E4%B9%B1%2C%E6%B7%A1%E5%AE%9A%E6%8B%96%E7%AE%B1"
-            }
-        ]
-    },
-    {
-        "hot_name": "GitHub",
-        "content": [
-            {
-                "title": "cloudflare /\n\n      security-audit-skill---A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-                "href": "https://github.com//cloudflare/security-audit-skill"
-            },
-            {
-                "title": "php /\n\n      php-src---The PHP Interpreter",
-                "href": "https://github.com//php/php-src"
-            },
-            {
-                "title": "anthropics /\n\n      knowledge-work-plugins---Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-                "href": "https://github.com//anthropics/knowledge-work-plugins"
-            },
-            {
-                "title": "NVIDIA /\n\n      OpenShell---OpenShell is the safe, private runtime for autonomous AI agents.",
-                "href": "https://github.com//NVIDIA/OpenShell"
-            },
-            {
-                "title": "Renhuai123 /\n\n      ziwei-doushu---紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-                "href": "https://github.com//Renhuai123/ziwei-doushu"
-            },
-            {
-                "title": "SnailSploit /\n\n      Claude-Red---claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-                "href": "https://github.com//SnailSploit/Claude-Red"
-            },
-            {
-                "title": "OpenBMB /\n\n      VoxCPM---VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-                "href": "https://github.com//OpenBMB/VoxCPM"
-            },
-            {
-                "title": "nodejs /\n\n      node---Node.js JavaScript runtime ✨🐢🚀✨",
-                "href": "https://github.com//nodejs/node"
             }
         ]
     },
@@ -443,404 +282,404 @@
         "hot_name": "云音乐飙升榜",
         "content": [
             {
-                "title": "时过境迁",
-                "href": "https://music.163.com/#/song?id=2078101758"
+                "title": "MISS ME",
+                "href": "https://music.163.com/#/song?id=3452608305"
             },
             {
-                "title": "停机前的独白",
-                "href": "https://music.163.com/#/song?id=3451437046"
+                "title": "宝船",
+                "href": "https://music.163.com/#/song?id=3451003254"
             },
             {
-                "title": "99",
-                "href": "https://music.163.com/#/song?id=2741144144"
+                "title": "升本后醒来",
+                "href": "https://music.163.com/#/song?id=3442747167"
             },
             {
-                "title": "甲乙丙丁",
-                "href": "https://music.163.com/#/song?id=2067844613"
+                "title": "你不要那样看着我的眼睛",
+                "href": "https://music.163.com/#/song?id=211520"
             },
             {
-                "title": "骰子人生",
-                "href": "https://music.163.com/#/song?id=3450878202"
+                "title": "皇家蓝(ft. Rapeter)",
+                "href": "https://music.163.com/#/song?id=2633757005"
             },
             {
-                "title": "林宛瑜",
-                "href": "https://music.163.com/#/song?id=2075593054"
+                "title": "我不难过",
+                "href": "https://music.163.com/#/song?id=287398"
+            },
+            {
+                "title": "SLICK X A Keeper",
+                "href": "https://music.163.com/#/song?id=3452489868"
             },
             {
                 "title": "睡前别想太多",
                 "href": "https://music.163.com/#/song?id=3440961675"
             },
             {
-                "title": "过渡期",
-                "href": "https://music.163.com/#/song?id=25780143"
+                "title": "选择失忆",
+                "href": "https://music.163.com/#/song?id=3410751520"
             },
             {
-                "title": "Stay",
-                "href": "https://music.163.com/#/song?id=3448554597"
-            },
-            {
-                "title": "Masterpiece",
-                "href": "https://music.163.com/#/song?id=3449273923"
-            },
-            {
-                "title": "互删 (我走以后)",
-                "href": "https://music.163.com/#/song?id=3425638996"
-            },
-            {
-                "title": "Just Give Me a Reason",
-                "href": "https://music.163.com/#/song?id=21373645"
-            },
-            {
-                "title": "永不失联的爱 (Live)",
-                "href": "https://music.163.com/#/song?id=1479507262"
-            },
-            {
-                "title": "别来我梦里",
-                "href": "https://music.163.com/#/song?id=3449297745"
-            },
-            {
-                "title": "隔岸(女版)",
-                "href": "https://music.163.com/#/song?id=3445520471"
-            },
-            {
-                "title": "Take Me Away",
-                "href": "https://music.163.com/#/song?id=3451884406"
-            },
-            {
-                "title": "NEVER GOING BACK",
-                "href": "https://music.163.com/#/song?id=3451247176"
-            },
-            {
-                "title": "太阳与地球",
-                "href": "https://music.163.com/#/song?id=2745752426"
-            },
-            {
-                "title": "MONTAGEM PARA",
-                "href": "https://music.163.com/#/song?id=3428044078"
-            },
-            {
-                "title": "Lost Control",
-                "href": "https://music.163.com/#/song?id=3397456576"
-            },
-            {
-                "title": "动物医院",
-                "href": "https://music.163.com/#/song?id=3442255024"
-            },
-            {
-                "title": "失忆 (Live版)",
-                "href": "https://music.163.com/#/song?id=3431614646"
-            },
-            {
-                "title": "Liquor Whisper (Live)",
-                "href": "https://music.163.com/#/song?id=3450964267"
-            },
-            {
-                "title": "鳥の詩",
-                "href": "https://music.163.com/#/song?id=28151022"
-            },
-            {
-                "title": "FIRESTARTER",
-                "href": "https://music.163.com/#/song?id=3451247173"
-            },
-            {
-                "title": "It's You",
-                "href": "https://music.163.com/#/song?id=3437520894"
-            },
-            {
-                "title": "是你给我爱上你的理由",
-                "href": "https://music.163.com/#/song?id=3373929405"
-            },
-            {
-                "title": "前路有光",
-                "href": "https://music.163.com/#/song?id=3451625898"
-            },
-            {
-                "title": "面目全非",
-                "href": "https://music.163.com/#/song?id=3449083016"
-            },
-            {
-                "title": "Young And Beautiful",
-                "href": "https://music.163.com/#/song?id=26243686"
-            },
-            {
-                "title": "有些",
-                "href": "https://music.163.com/#/song?id=2700285280"
-            },
-            {
-                "title": "GIRLS",
-                "href": "https://music.163.com/#/song?id=3451247789"
-            },
-            {
-                "title": "我爱你",
-                "href": "https://music.163.com/#/song?id=191316"
-            },
-            {
-                "title": "WATCH ME",
-                "href": "https://music.163.com/#/song?id=3451247787"
-            },
-            {
-                "title": "Crimson Sky",
-                "href": "https://music.163.com/#/song?id=3450368441"
-            },
-            {
-                "title": "共赴",
-                "href": "https://music.163.com/#/song?id=3451975341"
-            },
-            {
-                "title": "SLICK",
-                "href": "https://music.163.com/#/song?id=3400883425"
-            },
-            {
-                "title": "天龙八部之宿敌",
-                "href": "https://music.163.com/#/song?id=167691"
-            },
-            {
-                "title": "还是分开（Acoustic Version）",
-                "href": "https://music.163.com/#/song?id=2140448835"
-            },
-            {
-                "title": "学不会",
-                "href": "https://music.163.com/#/song?id=108134"
-            },
-            {
-                "title": "谁的错",
-                "href": "https://music.163.com/#/song?id=2600746113"
-            },
-            {
-                "title": "一样的月光",
-                "href": "https://music.163.com/#/song?id=306665"
+                "title": "Town/Blunt (Extended Intro Remix)",
+                "href": "https://music.163.com/#/song?id=3444459725"
             },
             {
                 "title": "时过境迁",
-                "href": "https://music.163.com/#/song?id=3447077863"
+                "href": "https://music.163.com/#/song?id=2078101758"
             },
             {
-                "title": "芥兰",
-                "href": "https://music.163.com/#/song?id=3447463699"
-            },
-            {
-                "title": "过渡期 (再一次Live concert)",
-                "href": "https://music.163.com/#/song?id=25780145"
-            },
-            {
-                "title": "My Voice, My Life",
-                "href": "https://music.163.com/#/song?id=3447437003"
-            },
-            {
-                "title": "If I Ain't Got You",
-                "href": "https://music.163.com/#/song?id=16434100"
-            },
-            {
-                "title": "写不完的温柔",
-                "href": "https://music.163.com/#/song?id=234014"
-            },
-            {
-                "title": "循环在",
-                "href": "https://music.163.com/#/song?id=3440164807"
-            },
-            {
-                "title": "Something to Hope For",
-                "href": "https://music.163.com/#/song?id=3364673447"
-            },
-            {
-                "title": "如果的事",
-                "href": "https://music.163.com/#/song?id=229372"
-            },
-            {
-                "title": "后来",
-                "href": "https://music.163.com/#/song?id=254574"
-            },
-            {
-                "title": "茉茉",
-                "href": "https://music.163.com/#/song?id=3448039922"
-            },
-            {
-                "title": "翻风",
-                "href": "https://music.163.com/#/song?id=3450940114"
-            },
-            {
-                "title": "记忆嗅觉",
-                "href": "https://music.163.com/#/song?id=2628269917"
-            },
-            {
-                "title": "富士山下",
-                "href": "https://music.163.com/#/song?id=65766"
-            },
-            {
-                "title": "阿司匹林 (Live)",
-                "href": "https://music.163.com/#/song?id=3450964927"
-            },
-            {
-                "title": "恨海情天",
-                "href": "https://music.163.com/#/song?id=3420800155"
-            },
-            {
-                "title": "Touch My Body",
-                "href": "https://music.163.com/#/song?id=21233922"
-            },
-            {
-                "title": "不称职的天才 (Live)",
-                "href": "https://music.163.com/#/song?id=3450964268"
-            },
-            {
-                "title": "嗜好（LIVE）",
-                "href": "https://music.163.com/#/song?id=1841222307"
-            },
-            {
-                "title": "NADA NEAT(Frost Oath)",
-                "href": "https://music.163.com/#/song?id=3441361527"
-            },
-            {
-                "title": "忽远忽近",
-                "href": "https://music.163.com/#/song?id=2045111116"
-            },
-            {
-                "title": "渡我",
-                "href": "https://music.163.com/#/song?id=3450940722"
-            },
-            {
-                "title": "Time To Be A Man (Live)",
-                "href": "https://music.163.com/#/song?id=3450964925"
+                "title": "渡口",
+                "href": "https://music.163.com/#/song?id=3452345410"
             },
             {
                 "title": "淡想（Memories）",
                 "href": "https://music.163.com/#/song?id=1405598377"
             },
             {
-                "title": "潮汐 (Natural)",
-                "href": "https://music.163.com/#/song?id=3445410136"
+                "title": "one life",
+                "href": "https://music.163.com/#/song?id=3434926469"
             },
             {
-                "title": "Angel Of My Dreams",
-                "href": "https://music.163.com/#/song?id=2744817359"
+                "title": "天龙八部之宿敌",
+                "href": "https://music.163.com/#/song?id=167691"
             },
             {
-                "title": "POP OUT",
-                "href": "https://music.163.com/#/song?id=2615391223"
+                "title": "Montagem Nada Funk",
+                "href": "https://music.163.com/#/song?id=3444402860"
             },
             {
-                "title": "你瞒我瞒",
-                "href": "https://music.163.com/#/song?id=27511488"
+                "title": "黑键嬉游",
+                "href": "https://music.163.com/#/song?id=3430350403"
             },
             {
-                "title": "到此为止",
-                "href": "https://music.163.com/#/song?id=526081111"
+                "title": "Ooh I Like It",
+                "href": "https://music.163.com/#/song?id=2700183537"
             },
             {
-                "title": "杀破狼",
-                "href": "https://music.163.com/#/song?id=3434661034"
+                "title": "99",
+                "href": "https://music.163.com/#/song?id=2741144144"
             },
             {
-                "title": "Sea Mistt Beat",
-                "href": "https://music.163.com/#/song?id=3392959216"
+                "title": "仲夏夜的海鸥颂",
+                "href": "https://music.163.com/#/song?id=3447525373"
             },
             {
-                "title": "暮海（twilight coast）",
-                "href": "https://music.163.com/#/song?id=3452185924"
+                "title": "会对我愧疚吗",
+                "href": "https://music.163.com/#/song?id=3438037701"
             },
             {
-                "title": "相片",
-                "href": "https://music.163.com/#/song?id=3447082320"
+                "title": "Prima Oară",
+                "href": "https://music.163.com/#/song?id=1852788314"
             },
             {
-                "title": "过来人",
-                "href": "https://music.163.com/#/song?id=3448742535"
+                "title": "self doubt (Prod.Robin Cause)",
+                "href": "https://music.163.com/#/song?id=3434600677"
             },
             {
-                "title": "刻在我心底的名字",
-                "href": "https://music.163.com/#/song?id=3447017233"
+                "title": "妒恨 Beat",
+                "href": "https://music.163.com/#/song?id=2718538860"
             },
             {
-                "title": "童话",
-                "href": "https://music.163.com/#/song?id=2629004781"
+                "title": "今夜让我带你高飞远走",
+                "href": "https://music.163.com/#/song?id=3452487604"
             },
             {
-                "title": "遇见",
-                "href": "https://music.163.com/#/song?id=287319"
+                "title": "思念若是一首诗",
+                "href": "https://music.163.com/#/song?id=3439389416"
             },
             {
-                "title": "光落",
-                "href": "https://music.163.com/#/song?id=3450953721"
+                "title": "偏执的风",
+                "href": "https://music.163.com/#/song?id=2754417759"
+            },
+            {
+                "title": "互删 (我走以后)",
+                "href": "https://music.163.com/#/song?id=3425638996"
+            },
+            {
+                "title": "忧郁幻昼 (Abyss Mix)",
+                "href": "https://music.163.com/#/song?id=3436263360"
+            },
+            {
+                "title": "天还是阴",
+                "href": "https://music.163.com/#/song?id=3448658809"
+            },
+            {
+                "title": "脉搏",
+                "href": "https://music.163.com/#/song?id=3447072754"
+            },
+            {
+                "title": "Stay Awake",
+                "href": "https://music.163.com/#/song?id=3444736220"
+            },
+            {
+                "title": "GGEZ",
+                "href": "https://music.163.com/#/song?id=3425832887"
+            },
+            {
+                "title": "雨终曲",
+                "href": "https://music.163.com/#/song?id=3439395749"
             },
             {
                 "title": "背对背 (feat. scarletchoir)",
                 "href": "https://music.163.com/#/song?id=3339257959"
             },
             {
-                "title": "Keep Real",
-                "href": "https://music.163.com/#/song?id=3398318025"
+                "title": "隔岸(女版)",
+                "href": "https://music.163.com/#/song?id=3445520471"
             },
             {
-                "title": "仰望",
-                "href": "https://music.163.com/#/song?id=25884677"
+                "title": "童话地图",
+                "href": "https://music.163.com/#/song?id=3448678049"
             },
             {
-                "title": "D.N.D",
-                "href": "https://music.163.com/#/song?id=3354187572"
+                "title": "其实",
+                "href": "https://music.163.com/#/song?id=27955654"
             },
             {
-                "title": "棉花糖",
-                "href": "https://music.163.com/#/song?id=394748"
+                "title": "我爱你",
+                "href": "https://music.163.com/#/song?id=191316"
             },
             {
-                "title": "拆穿",
-                "href": "https://music.163.com/#/song?id=399343373"
+                "title": "趁早",
+                "href": "https://music.163.com/#/song?id=327367"
             },
             {
-                "title": "大桥 (Live)",
-                "href": "https://music.163.com/#/song?id=3450964928"
+                "title": "不要说话",
+                "href": "https://music.163.com/#/song?id=25906124"
             },
             {
-                "title": "I'm Waiting slowly",
-                "href": "https://music.163.com/#/song?id=3385346264"
+                "title": "过渡期",
+                "href": "https://music.163.com/#/song?id=25780143"
             },
             {
-                "title": "我还在树下等一个人",
-                "href": "https://music.163.com/#/song?id=3450465096"
+                "title": "富士山下",
+                "href": "https://music.163.com/#/song?id=65766"
             },
             {
-                "title": "再度重相逢",
-                "href": "https://music.163.com/#/song?id=156772"
+                "title": "演员",
+                "href": "https://music.163.com/#/song?id=32507038"
             },
             {
-                "title": "一半",
-                "href": "https://music.163.com/#/song?id=35528482"
+                "title": "光落",
+                "href": "https://music.163.com/#/song?id=3450953721"
             },
             {
-                "title": "SPECTER",
-                "href": "https://music.163.com/#/song?id=3410227909"
+                "title": "kiss kiss（拥吻）",
+                "href": "https://music.163.com/#/song?id=3444775814"
             },
             {
-                "title": "走马",
-                "href": "https://music.163.com/#/song?id=29431068"
+                "title": "半个地球的距离",
+                "href": "https://music.163.com/#/song?id=3382310928"
             },
             {
-                "title": "天下",
-                "href": "https://music.163.com/#/song?id=27588748"
+                "title": "素颜",
+                "href": "https://music.163.com/#/song?id=167827"
             },
             {
-                "title": "我知道你",
-                "href": "https://music.163.com/#/song?id=41462017"
+                "title": "是你给我爱上你的理由",
+                "href": "https://music.163.com/#/song?id=3373929405"
             },
             {
-                "title": "眼前的歌 (Live)",
-                "href": "https://music.163.com/#/song?id=3450964265"
+                "title": "雨爱",
+                "href": "https://music.163.com/#/song?id=316100"
+            },
+            {
+                "title": "メドレーの観察",
+                "href": "https://music.163.com/#/song?id=3438048323"
+            },
+            {
+                "title": "最佳损友",
+                "href": "https://music.163.com/#/song?id=65800"
+            },
+            {
+                "title": "Always Online",
+                "href": "https://music.163.com/#/song?id=108485"
+            },
+            {
+                "title": "茉茉",
+                "href": "https://music.163.com/#/song?id=3448039922"
+            },
+            {
+                "title": "星光下的梦想(《喜羊羊与灰太狼之兔年顶呱呱》动画电影插曲)",
+                "href": "https://music.163.com/#/song?id=2652412440"
+            },
+            {
+                "title": "毫无代价唱我自己的歌",
+                "href": "https://music.163.com/#/song?id=3447435448"
+            },
+            {
+                "title": "像风一样",
+                "href": "https://music.163.com/#/song?id=516657051"
+            },
+            {
+                "title": "白日梦羊",
+                "href": "https://music.163.com/#/song?id=3401108000"
+            },
+            {
+                "title": "葛藤花语",
+                "href": "https://music.163.com/#/song?id=3446607699"
+            },
+            {
+                "title": "会开花的云",
+                "href": "https://music.163.com/#/song?id=2680631340"
+            },
+            {
+                "title": "番茄花",
+                "href": "https://music.163.com/#/song?id=3448777182"
+            },
+            {
+                "title": "文字活着，所以文明活着",
+                "href": "https://music.163.com/#/song?id=3451591003"
+            },
+            {
+                "title": "我好想你 (苏打绿版)",
+                "href": "https://music.163.com/#/song?id=2652647276"
+            },
+            {
+                "title": "Dance With Me",
+                "href": "https://music.163.com/#/song?id=3441839203"
+            },
+            {
+                "title": "认真的雪",
+                "href": "https://music.163.com/#/song?id=169185"
+            },
+            {
+                "title": "SLICK",
+                "href": "https://music.163.com/#/song?id=3400883425"
+            },
+            {
+                "title": "下完这场雨",
+                "href": "https://music.163.com/#/song?id=2702346537"
+            },
+            {
+                "title": "桔梗花般的她",
+                "href": "https://music.163.com/#/song?id=3450402022"
+            },
+            {
+                "title": "锈 (我们两个都拉过勾)",
+                "href": "https://music.163.com/#/song?id=2648204040"
+            },
+            {
+                "title": "爱是痛觉",
+                "href": "https://music.163.com/#/song?id=3451980222"
+            },
+            {
+                "title": "Follow Me",
+                "href": "https://music.163.com/#/song?id=3444720987"
+            },
+            {
+                "title": "FIRESTARTER",
+                "href": "https://music.163.com/#/song?id=3450569159"
             },
             {
                 "title": "保留关系",
                 "href": "https://music.163.com/#/song?id=3446384412"
             },
             {
-                "title": "今夜茉莉开 (Jasmine Season)",
-                "href": "https://music.163.com/#/song?id=3331986779"
+                "title": "暗恋过 结局呢",
+                "href": "https://music.163.com/#/song?id=2146702461"
             },
             {
-                "title": "Endless Sky",
-                "href": "https://music.163.com/#/song?id=3405994770"
+                "title": "痕迹",
+                "href": "https://music.163.com/#/song?id=2647519888"
             },
             {
-                "title": "晨星与海",
-                "href": "https://music.163.com/#/song?id=3448735428"
+                "title": "别哭了我爱你",
+                "href": "https://music.163.com/#/song?id=2663837607"
+            },
+            {
+                "title": "请别惊扰我的爱人",
+                "href": "https://music.163.com/#/song?id=3439843023"
+            },
+            {
+                "title": "前路有光",
+                "href": "https://music.163.com/#/song?id=3451625898"
+            },
+            {
+                "title": "会呼吸的痛",
+                "href": "https://music.163.com/#/song?id=254132"
+            },
+            {
+                "title": "Lost Control",
+                "href": "https://music.163.com/#/song?id=3397456576"
+            },
+            {
+                "title": "好坏",
+                "href": "https://music.163.com/#/song?id=3439808319"
+            },
+            {
+                "title": "Bitten Love（deep house）",
+                "href": "https://music.163.com/#/song?id=3446254413"
+            },
+            {
+                "title": "沦陷",
+                "href": "https://music.163.com/#/song?id=2161222939"
+            },
+            {
+                "title": "Tarantino",
+                "href": "https://music.163.com/#/song?id=3452178513"
+            },
+            {
+                "title": "H. (Remix)",
+                "href": "https://music.163.com/#/song?id=1473690082"
+            },
+            {
+                "title": "多余的解释",
+                "href": "https://music.163.com/#/song?id=167873"
+            },
+            {
+                "title": "玻璃",
+                "href": "https://music.163.com/#/song?id=3395949712"
+            },
+            {
+                "title": "又三郎",
+                "href": "https://music.163.com/#/song?id=3439827934"
+            },
+            {
+                "title": "Violet",
+                "href": "https://music.163.com/#/song?id=1881426227"
+            },
+            {
+                "title": "写不完的温柔",
+                "href": "https://music.163.com/#/song?id=234014"
+            },
+            {
+                "title": "足够",
+                "href": "https://music.163.com/#/song?id=557667045"
+            },
+            {
+                "title": "情非得已",
+                "href": "https://music.163.com/#/song?id=176999"
+            },
+            {
+                "title": "不知道说什么",
+                "href": "https://music.163.com/#/song?id=3451980672"
+            },
+            {
+                "title": "学不会",
+                "href": "https://music.163.com/#/song?id=108134"
+            },
+            {
+                "title": "如果爱忘了",
+                "href": "https://music.163.com/#/song?id=285321"
+            },
+            {
+                "title": "你瞒我瞒",
+                "href": "https://music.163.com/#/song?id=27511488"
+            },
+            {
+                "title": "万种失落",
+                "href": "https://music.163.com/#/song?id=3426213435"
+            },
+            {
+                "title": "不解",
+                "href": "https://music.163.com/#/song?id=2749112567"
+            },
+            {
+                "title": "刻在我心底的名字",
+                "href": "https://music.163.com/#/song?id=3447017233"
+            },
+            {
+                "title": "雨天",
+                "href": "https://music.163.com/#/song?id=287083"
             }
         ]
     },
