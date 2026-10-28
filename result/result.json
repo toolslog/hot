@@ -4,27 +4,27 @@
         "content": [
             {
                 "title": "面对重大医疗决策， AI 和医生意见不同，我该信谁？",
-                "href": "https://www.v2ex.com/t/1252479#reply163"
+                "href": "https://www.v2ex.com/t/1252479#reply179"
             },
             {
                 "title": "男人为啥非要结婚？给你再选一次的机会",
-                "href": "https://www.v2ex.com/t/1252451#reply143"
+                "href": "https://www.v2ex.com/t/1252451#reply151"
             },
             {
                 "title": "免费帮你设计一块电路板，你最想做什么？",
-                "href": "https://www.v2ex.com/t/1252431#reply113"
+                "href": "https://www.v2ex.com/t/1252431#reply130"
             },
             {
                 "title": "Jetbrains 在经历 Fleet 和 Air 的失败之后再次发布一款的轻量级编辑器 Thinkrail",
-                "href": "https://www.v2ex.com/t/1252393#reply106"
+                "href": "https://www.v2ex.com/t/1252393#reply112"
             },
             {
                 "title": "码农恶习之：抽烟、喝酒、熬夜、奶茶甜品、脏外卖；在这几种合法的小市民生活习惯中，哪种对血条的伤害最大？",
-                "href": "https://www.v2ex.com/t/1252506#reply97"
+                "href": "https://www.v2ex.com/t/1252506#reply104"
             },
             {
                 "title": "已经焦虑到躯体化了",
-                "href": "https://www.v2ex.com/t/1252444#reply80"
+                "href": "https://www.v2ex.com/t/1252444#reply84"
             },
             {
                 "title": "MacBook Pro M6 14 寸来袭，值不值？",
@@ -36,111 +36,115 @@
             },
             {
                 "title": "现在的双十一，是不是已经没什么好价了？",
-                "href": "https://www.v2ex.com/t/1252414#reply66"
+                "href": "https://www.v2ex.com/t/1252414#reply68"
             },
             {
                 "title": "是我太感情淡漠吗？",
-                "href": "https://www.v2ex.com/t/1252584#reply56"
+                "href": "https://www.v2ex.com/t/1252584#reply57"
             },
             {
                 "title": "小米智能门锁， 5 号电池总是很快用没电",
-                "href": "https://www.v2ex.com/t/1252446#reply53"
+                "href": "https://www.v2ex.com/t/1252446#reply56"
             },
             {
                 "title": "人在大陆，只有国内银行的 VISA 卡，如何搞定 Claude 会员支付？",
-                "href": "https://www.v2ex.com/t/1252487#reply47"
+                "href": "https://www.v2ex.com/t/1252487#reply54"
+            },
+            {
+                "title": "拿到华为 od 口头 offer 了，值不值得去",
+                "href": "https://www.v2ex.com/t/1252542#reply44"
             },
             {
                 "title": "day 22 - 今天 tibo 又重置",
                 "href": "https://www.v2ex.com/t/1252459#reply42"
             },
             {
-                "title": "拿到华为 od 口头 offer 了，值不值得去",
-                "href": "https://www.v2ex.com/t/1252542#reply41"
+                "title": "过了 30 真的是……",
+                "href": "https://www.v2ex.com/t/1252450#reply41"
             },
             {
-                "title": "过了 30 真的是……",
-                "href": "https://www.v2ex.com/t/1252450#reply40"
+                "title": "[满血不降智] 一个真正一目了然的自建 Codex 中转站",
+                "href": "https://www.v2ex.com/t/1252521#reply37"
+            },
+            {
+                "title": "我写了一个开源工具，想让 AI 像 Java 开发一样工作",
+                "href": "https://www.v2ex.com/t/1252535#reply33"
             },
             {
                 "title": "做了个 LLM 塔防小游戏, 喜欢塔防的朋友可以看看🙂",
                 "href": "https://www.v2ex.com/t/1252432#reply32"
             },
             {
-                "title": "[满血不降智] 一个真正一目了然的自建 Codex 中转站",
-                "href": "https://www.v2ex.com/t/1252521#reply31"
+                "title": "DeepSeek V4.1 Flash 1017 一周跑了 35 万亿 token 登顶 OpenRouter，你们 agent 默认模型换了吗？",
+                "href": "https://www.v2ex.com/t/1252413#reply29"
             },
             {
                 "title": "折腾许久，也算上架了一个 Mac 下的应用。",
-                "href": "https://www.v2ex.com/t/1252409#reply27"
-            },
-            {
-                "title": "DeepSeek V4.1 Flash 1017 一周跑了 35 万亿 token 登顶 OpenRouter，你们 agent 默认模型换了吗？",
-                "href": "https://www.v2ex.com/t/1252413#reply27"
+                "href": "https://www.v2ex.com/t/1252409#reply28"
             },
             {
                 "title": "《献丑了，贴一下自己的简历，求 V 友帮忙看看问题在哪》",
-                "href": "https://www.v2ex.com/t/1252461#reply27"
+                "href": "https://www.v2ex.com/t/1252461#reply28"
+            },
+            {
+                "title": "哎 涨的莫名其妙跌的也莫名其妙，我真的好奇哈为啥国内股市要跟着美股走，这是什么原理和逻辑啊",
+                "href": "https://www.v2ex.com/t/1252467#reply27"
+            },
+            {
+                "title": "又坠机了，修改端口暂时好了。大概 9 点-10 点，昨天也是这个点。",
+                "href": "https://www.v2ex.com/t/1252481#reply27"
+            },
+            {
+                "title": "有没有人觉得这个新版本的 apple music 的黑白图标很难看",
+                "href": "https://www.v2ex.com/t/1252522#reply27"
             },
             {
                 "title": "订阅了一年多的 Max 号昨晚终于被封了",
                 "href": "https://www.v2ex.com/t/1252408#reply26"
             },
             {
-                "title": "又坠机了，修改端口暂时好了。大概 9 点-10 点，昨天也是这个点。",
-                "href": "https://www.v2ex.com/t/1252481#reply26"
-            },
-            {
-                "title": "有没有人觉得这个新版本的 apple music 的黑白图标很难看",
-                "href": "https://www.v2ex.com/t/1252522#reply25"
-            },
-            {
                 "title": "deepseek-v4.1-flash-1017 经常陷入死循环，有人有类似经历么",
                 "href": "https://www.v2ex.com/t/1252539#reply25"
             },
             {
-                "title": "哎 涨的莫名其妙跌的也莫名其妙，我真的好奇哈为啥国内股市要跟着美股走，这是什么原理和逻辑啊",
-                "href": "https://www.v2ex.com/t/1252467#reply24"
-            },
-            {
-                "title": "我写了一个开源工具，想让 AI 像 Java 开发一样工作",
-                "href": "https://www.v2ex.com/t/1252535#reply24"
-            },
-            {
                 "title": "做了三年 ProseMirror 后，我用四个月自研排版引擎实现 WPS / Google Docs 替代品，整套框架 MIT 开源",
-                "href": "https://www.v2ex.com/t/1252425#reply23"
+                "href": "https://www.v2ex.com/t/1252425#reply24"
+            },
+            {
+                "title": "美股连续 2 天大涨",
+                "href": "https://www.v2ex.com/t/1252396#reply22"
             },
             {
                 "title": "为什么大冰和郭律的直播间连线的都是女性？",
                 "href": "https://www.v2ex.com/t/1252482#reply22"
             },
             {
-                "title": "美股连续 2 天大涨",
-                "href": "https://www.v2ex.com/t/1252396#reply21"
+                "title": "求推荐好用的 VPS",
+                "href": "https://www.v2ex.com/t/1252548#reply22"
+            },
+            {
+                "title": "项目开发多设备同步的问题",
+                "href": "https://www.v2ex.com/t/1252607#reply22"
+            },
+            {
+                "title": "[跃点 AI] 发福利啦，回帖留 ID 送 3$（全分组可用），满智商高缓存 GPT 0.2x CCMax 1.0x",
+                "href": "https://www.v2ex.com/t/1252489#reply21"
+            },
+            {
+                "title": "部门最近发了 400 必须用于买书，请问大家现在 AI 相关的书籍有什么推荐的吗？",
+                "href": "https://www.v2ex.com/t/1252569#reply21"
             },
             {
                 "title": "公司内使用 ai 的人多了, 是否会导致办公上网网络卡顿?",
                 "href": "https://www.v2ex.com/t/1252399#reply20"
             },
             {
-                "title": "求推荐好用的 VPS",
-                "href": "https://www.v2ex.com/t/1252548#reply20"
+                "title": "78 年，没结婚、没工作、负债、没女朋友",
+                "href": "https://www.v2ex.com/t/1252580#reply20"
             },
             {
-                "title": "部门最近发了 400 必须用于买书，请问大家现在 AI 相关的书籍有什么推荐的吗？",
-                "href": "https://www.v2ex.com/t/1252569#reply20"
-            },
-            {
-                "title": "[跃点 AI] 发福利啦，回帖留 ID 送 3$（全分组可用），满智商高缓存 GPT 0.2x CCMax 1.0x",
-                "href": "https://www.v2ex.com/t/1252489#reply19"
-            },
-            {
-                "title": "项目开发多设备同步的问题",
-                "href": "https://www.v2ex.com/t/1252607#reply18"
-            },
-            {
-                "title": "我要来给 GPT-6.1 Terra 平反！",
-                "href": "https://www.v2ex.com/t/1252437#reply17"
+                "title": "复刻 JetBrains 的 Git 客户端做成 VS Code 插件发布到插件市场了",
+                "href": "https://www.v2ex.com/t/1252622#reply18"
             }
         ]
     },
@@ -225,12 +229,20 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368228&topic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E4%B8%8A%E7%BA%BF%2C%E5%90%A7%E5%8F%8B%E5%86%99%E4%BA%86%E9%A6%96%E5%90%A7%E6%AD%8C"
             },
             {
+                "title": "吧友玩梗毛不易,死神真有NTR",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368308&topic_name=%E5%90%A7%E5%8F%8B%E7%8E%A9%E6%A2%97%E6%AF%9B%E4%B8%8D%E6%98%93%2C%E6%AD%BB%E7%A5%9E%E7%9C%9F%E6%9C%89NTR"
+            },
+            {
                 "title": "皇马等30个吧发布抵制声明",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368164&topic_name=%E7%9A%87%E9%A9%AC%E7%AD%8930%E4%B8%AA%E5%90%A7%E5%8F%91%E5%B8%83%E6%8A%B5%E5%88%B6%E5%A3%B0%E6%98%8E"
             },
             {
-                "title": "不道歉!皇马甩锅姆巴佩",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368196&topic_name=%E4%B8%8D%E9%81%93%E6%AD%89%21%E7%9A%87%E9%A9%AC%E7%94%A9%E9%94%85%E5%A7%86%E5%B7%B4%E4%BD%A9"
+                "title": "吧友神P图,塔露拉喜提假肢",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368309&topic_name=%E5%90%A7%E5%8F%8B%E7%A5%9EP%E5%9B%BE%2C%E5%A1%94%E9%9C%B2%E6%8B%89%E5%96%9C%E6%8F%90%E5%81%87%E8%82%A2"
+            },
+            {
+                "title": "皇马甩锅姆巴佩",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368196&topic_name=%E7%9A%87%E9%A9%AC%E7%94%A9%E9%94%85%E5%A7%86%E5%B7%B4%E4%BD%A9"
             },
             {
                 "title": "没收手机,吧友体验救助站生活",
@@ -315,18 +327,6 @@
             {
                 "title": "表情包大赛,滑稽出征寸草不生",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368171&topic_name=%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E8%B5%9B%2C%E6%BB%91%E7%A8%BD%E5%87%BA%E5%BE%81%E5%AF%B8%E8%8D%89%E4%B8%8D%E7%94%9F"
-            },
-            {
-                "title": "冤家路窄,TES生死战BLG",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368147&topic_name=%E5%86%A4%E5%AE%B6%E8%B7%AF%E7%AA%84%2CTES%E7%94%9F%E6%AD%BB%E6%88%98BLG"
-            },
-            {
-                "title": "耻辱!AL全败告别S16",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368137&topic_name=%E8%80%BB%E8%BE%B1%21AL%E5%85%A8%E8%B4%A5%E5%91%8A%E5%88%ABS16"
-            },
-            {
-                "title": "图吧垃圾佬",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367998&topic_name=%E5%9B%BE%E5%90%A7%E5%9E%83%E5%9C%BE%E4%BD%AC"
             }
         ]
     },
