@@ -4,11 +4,11 @@
         "content": [
             {
                 "title": "面对重大医疗决策， AI 和医生意见不同，我该信谁？",
-                "href": "https://www.v2ex.com/t/1252479#reply179"
+                "href": "https://www.v2ex.com/t/1252479#reply183"
             },
             {
                 "title": "男人为啥非要结婚？给你再选一次的机会",
-                "href": "https://www.v2ex.com/t/1252451#reply151"
+                "href": "https://www.v2ex.com/t/1252451#reply152"
             },
             {
                 "title": "免费帮你设计一块电路板，你最想做什么？",
@@ -20,11 +20,11 @@
             },
             {
                 "title": "码农恶习之：抽烟、喝酒、熬夜、奶茶甜品、脏外卖；在这几种合法的小市民生活习惯中，哪种对血条的伤害最大？",
-                "href": "https://www.v2ex.com/t/1252506#reply104"
+                "href": "https://www.v2ex.com/t/1252506#reply106"
             },
             {
                 "title": "已经焦虑到躯体化了",
-                "href": "https://www.v2ex.com/t/1252444#reply84"
+                "href": "https://www.v2ex.com/t/1252444#reply86"
             },
             {
                 "title": "MacBook Pro M6 14 寸来袭，值不值？",
@@ -39,16 +39,16 @@
                 "href": "https://www.v2ex.com/t/1252414#reply68"
             },
             {
+                "title": "人在大陆，只有国内银行的 VISA 卡，如何搞定 Claude 会员支付？",
+                "href": "https://www.v2ex.com/t/1252487#reply59"
+            },
+            {
                 "title": "是我太感情淡漠吗？",
                 "href": "https://www.v2ex.com/t/1252584#reply57"
             },
             {
                 "title": "小米智能门锁， 5 号电池总是很快用没电",
                 "href": "https://www.v2ex.com/t/1252446#reply56"
-            },
-            {
-                "title": "人在大陆，只有国内银行的 VISA 卡，如何搞定 Claude 会员支付？",
-                "href": "https://www.v2ex.com/t/1252487#reply54"
             },
             {
                 "title": "拿到华为 od 口头 offer 了，值不值得去",
@@ -68,7 +68,7 @@
             },
             {
                 "title": "我写了一个开源工具，想让 AI 像 Java 开发一样工作",
-                "href": "https://www.v2ex.com/t/1252535#reply33"
+                "href": "https://www.v2ex.com/t/1252535#reply34"
             },
             {
                 "title": "做了个 LLM 塔防小游戏, 喜欢塔防的朋友可以看看🙂",
@@ -88,15 +88,15 @@
             },
             {
                 "title": "哎 涨的莫名其妙跌的也莫名其妙，我真的好奇哈为啥国内股市要跟着美股走，这是什么原理和逻辑啊",
-                "href": "https://www.v2ex.com/t/1252467#reply27"
+                "href": "https://www.v2ex.com/t/1252467#reply28"
+            },
+            {
+                "title": "有没有人觉得这个新版本的 apple music 的黑白图标很难看",
+                "href": "https://www.v2ex.com/t/1252522#reply28"
             },
             {
                 "title": "又坠机了，修改端口暂时好了。大概 9 点-10 点，昨天也是这个点。",
                 "href": "https://www.v2ex.com/t/1252481#reply27"
-            },
-            {
-                "title": "有没有人觉得这个新版本的 apple music 的黑白图标很难看",
-                "href": "https://www.v2ex.com/t/1252522#reply27"
             },
             {
                 "title": "订阅了一年多的 Max 号昨晚终于被封了",
@@ -111,16 +111,20 @@
                 "href": "https://www.v2ex.com/t/1252425#reply24"
             },
             {
+                "title": "求推荐好用的 VPS",
+                "href": "https://www.v2ex.com/t/1252548#reply23"
+            },
+            {
+                "title": "部门最近发了 400 必须用于买书，请问大家现在 AI 相关的书籍有什么推荐的吗？",
+                "href": "https://www.v2ex.com/t/1252569#reply23"
+            },
+            {
                 "title": "美股连续 2 天大涨",
                 "href": "https://www.v2ex.com/t/1252396#reply22"
             },
             {
                 "title": "为什么大冰和郭律的直播间连线的都是女性？",
                 "href": "https://www.v2ex.com/t/1252482#reply22"
-            },
-            {
-                "title": "求推荐好用的 VPS",
-                "href": "https://www.v2ex.com/t/1252548#reply22"
             },
             {
                 "title": "项目开发多设备同步的问题",
@@ -131,10 +135,6 @@
                 "href": "https://www.v2ex.com/t/1252489#reply21"
             },
             {
-                "title": "部门最近发了 400 必须用于买书，请问大家现在 AI 相关的书籍有什么推荐的吗？",
-                "href": "https://www.v2ex.com/t/1252569#reply21"
-            },
-            {
                 "title": "公司内使用 ai 的人多了, 是否会导致办公上网网络卡顿?",
                 "href": "https://www.v2ex.com/t/1252399#reply20"
             },
@@ -143,8 +143,8 @@
                 "href": "https://www.v2ex.com/t/1252580#reply20"
             },
             {
-                "title": "复刻 JetBrains 的 Git 客户端做成 VS Code 插件发布到插件市场了",
-                "href": "https://www.v2ex.com/t/1252622#reply18"
+                "title": "我要来给 GPT-6.1 Terra 平反！",
+                "href": "https://www.v2ex.com/t/1252437#reply19"
             }
         ]
     },
