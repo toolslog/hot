@@ -4,15 +4,15 @@
         "content": [
             {
                 "title": "求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制",
-                "href": "https://www.v2ex.com/t/1253376#reply88"
-            },
-            {
-                "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
-                "href": "https://www.v2ex.com/t/1253343#reply74"
+                "href": "https://www.v2ex.com/t/1253376#reply91"
             },
             {
                 "title": "现在教育真的太卷了，一年级上学期期中测验趣事",
-                "href": "https://www.v2ex.com/t/1253357#reply44"
+                "href": "https://www.v2ex.com/t/1253357#reply45"
+            },
+            {
+                "title": "[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows",
+                "href": "https://www.v2ex.com/t/1253453#reply37"
             },
             {
                 "title": "台湾 Claude 号生意有搞头吗",
@@ -27,16 +27,20 @@
                 "href": "https://www.v2ex.com/t/1253421#reply29"
             },
             {
-                "title": "[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows",
-                "href": "https://www.v2ex.com/t/1253453#reply27"
-            },
-            {
                 "title": "[补送码] Navidrome 最佳播放器： Mu3ic",
                 "href": "https://www.v2ex.com/t/1253338#reply25"
             },
             {
                 "title": "LockSticky 喜提大陆 App Store 下架",
                 "href": "https://www.v2ex.com/t/1253370#reply25"
+            },
+            {
+                "title": "周六/周日还会有重置吗？",
+                "href": "https://www.v2ex.com/t/1253361#reply24"
+            },
+            {
+                "title": "Blob0 更新： Mac 上的 R2 / S3 客户端现在单连接永久免费[送 Pro 码]",
+                "href": "https://www.v2ex.com/t/1253369#reply24"
             },
             {
                 "title": "Apple 智能即将登陆中国",
@@ -47,24 +51,16 @@
                 "href": "https://www.v2ex.com/t/1253354#reply23"
             },
             {
-                "title": "周六/周日还会有重置吗？",
-                "href": "https://www.v2ex.com/t/1253361#reply23"
-            },
-            {
-                "title": "Blob0 更新： Mac 上的 R2 / S3 客户端现在单连接永久免费[送 Pro 码]",
-                "href": "https://www.v2ex.com/t/1253369#reply23"
-            },
-            {
                 "title": "看到很多相亲的帖子，对于大龄单身无孩的，是不是不结婚也比较好？",
-                "href": "https://www.v2ex.com/t/1253387#reply20"
+                "href": "https://www.v2ex.com/t/1253387#reply22"
             },
             {
                 "title": "给大家分享一下四款 ios 梯子软件的使用体验，我主要看哪个更省电",
-                "href": "https://www.v2ex.com/t/1253420#reply20"
+                "href": "https://www.v2ex.com/t/1253420#reply22"
             },
             {
                 "title": "claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？",
-                "href": "https://www.v2ex.com/t/1253446#reply20"
+                "href": "https://www.v2ex.com/t/1253446#reply21"
             },
             {
                 "title": "我常用的几个工具软件都让 AI 替代了",
@@ -92,7 +88,7 @@
             },
             {
                 "title": "把 Surge 换成 FlClash 了，实在用不起了～ 老铁们你们都用哪个客户端？",
-                "href": "https://www.v2ex.com/t/1253435#reply12"
+                "href": "https://www.v2ex.com/t/1253435#reply13"
             },
             {
                 "title": "未来软件代码运行的方式会不会也被 ai 彻底改写？",
@@ -101,6 +97,10 @@
             {
                 "title": "看到最近群晖被黑，想给 NAS 里的数据做个备份，大家用的什么方案？",
                 "href": "https://www.v2ex.com/t/1253451#reply11"
+            },
+            {
+                "title": "有没有 claude 至今没跳 kyc 没封的 V 友，来讲讲做法？",
+                "href": "https://www.v2ex.com/t/1253466#reply11"
             },
             {
                 "title": "避雷 API 中转站 wkele.kukuai.fyi：计费陷阱：前端低价引流，实际暗藏 10 倍扣费倍率",
@@ -131,12 +131,12 @@
                 "href": "https://www.v2ex.com/t/1253405#reply7"
             },
             {
-                "title": "做了个 Sublime Text 的 Swift 语法高亮插件，没想到被官方安排接管了用户量最多的老插件",
-                "href": "https://www.v2ex.com/t/1253424#reply7"
+                "title": "手机实现公网对讲机的好方法",
+                "href": "https://www.v2ex.com/t/1253423#reply7"
             },
             {
-                "title": "有没有 claude 至今没跳 kyc 没封的 V 友，来讲讲做法？",
-                "href": "https://www.v2ex.com/t/1253466#reply7"
+                "title": "做了个 Sublime Text 的 Swift 语法高亮插件，没想到被官方安排接管了用户量最多的老插件",
+                "href": "https://www.v2ex.com/t/1253424#reply7"
             },
             {
                 "title": "一边感叹 AI 发展的速度，一边看着自己用心做的小项目被时代抛下…",
@@ -149,10 +149,6 @@
             {
                 "title": "移除了 5h 限制是被标记了吗",
                 "href": "https://www.v2ex.com/t/1253363#reply7"
-            },
-            {
-                "title": "MAC 触摸屏幕使用之后",
-                "href": "https://www.v2ex.com/t/1253372#reply7"
             }
         ]
     },
@@ -214,6 +210,127 @@
             {
                 "title": "vorssaint /\n\n      vorssaint-utils---Free and open-source macOS menu bar toolkit.",
                 "href": "https://github.com//vorssaint/vorssaint-utils"
+            }
+        ]
+    },
+    {
+        "hot_name": "豆瓣",
+        "content": [
+            {
+                "title": "胰岛素抵抗经验贴，症状+检查前+日常饮食和运动",
+                "href": "https://www.douban.com/group/topic/503853420/?_spm_id=MTY1NTI0NjE4"
+            },
+            {
+                "title": "历时半年，自装47平小公寓～快来参观我的家呀。",
+                "href": "https://www.douban.com/group/topic/503777312/?_spm_id=MjI3NzQ4ODc0"
+            },
+            {
+                "title": "小麻雀的秋天3",
+                "href": "https://www.douban.com/group/topic/503745803/?_spm_id=MzM4OTExMg"
+            },
+            {
+                "title": "🎞胶片记录 | 玉龙雪山",
+                "href": "https://www.douban.com/group/topic/503755875/?_spm_id=NTUzNjE1ODU"
+            },
+            {
+                "title": "“一年后的我应该在巴塞罗那” ——我会反复回想起 一年前巴塞罗那的阳光 温柔地亲吻每个人的脸颊",
+                "href": "https://www.douban.com/group/topic/503758900/?_spm_id=MjM4MTgwNTY0"
+            },
+            {
+                "title": "秋日限定|杏运菊气饺🍂🌼🥟",
+                "href": "https://www.douban.com/group/topic/503692751/?_spm_id=MjY2MjA5NjQx"
+            },
+            {
+                "title": "北京看展 | 尼古拉·费欣——列宾心中的天才",
+                "href": "https://www.douban.com/group/topic/503777373/?_spm_id=MTg3MTMwODQw"
+            },
+            {
+                "title": "逢人便想说帕米尔高原的秋天有多美",
+                "href": "https://www.douban.com/group/topic/503670185/?_spm_id=NDAzNTk4NjE"
+            },
+            {
+                "title": "不花钱居家锻炼4年，骨盆前倾勒骨外翻脖子前伸全！好！啦！（含课程推荐",
+                "href": "https://www.douban.com/group/topic/503762641/?_spm_id=Nzg2MzY4ODk"
+            },
+            {
+                "title": "19天爽玩云南7个城市的懒人旅游攻略。。你也来试试吧。。（建设完毕🔚）",
+                "href": "https://www.douban.com/group/topic/503328210/?_spm_id=MTgxNTkyMjcz"
+            },
+            {
+                "title": "我的巴黎探索日记-像狗一样好奇探索大自然",
+                "href": "https://www.douban.com/group/topic/503471175/?_spm_id=MjM4MTgwNTY0"
+            },
+            {
+                "title": "穷人懒人如何补充蛋白质",
+                "href": "https://www.douban.com/group/topic/503615395/?_spm_id=MjAyMjQwNzY0"
+            },
+            {
+                "title": "30天下厨灵感",
+                "href": "https://www.douban.com/group/topic/503496164/?_spm_id=Nzc3ODAwNzE"
+            },
+            {
+                "title": "昙花一现",
+                "href": "https://www.douban.com/group/topic/503713344/?_spm_id=MjI1MDY2NDIw"
+            },
+            {
+                "title": "听一个56岁的保安大叔，讲他“随时跑路”的生存智慧",
+                "href": "https://www.douban.com/group/topic/503576219/?_spm_id=MjkzODQyMDg2"
+            },
+            {
+                "title": "一些小韩购物分享",
+                "href": "https://www.douban.com/group/topic/503369381/?_spm_id=Mjk0NTE0MjU5"
+            },
+            {
+                "title": "如果你总怀疑自己抗压能力不强，可以看看这篇",
+                "href": "https://www.douban.com/group/topic/503581010/?_spm_id=MTM4NjEzMjM3"
+            },
+            {
+                "title": "没来暖气的这一个月，懒人保暖小窍门，亲测有效",
+                "href": "https://www.douban.com/group/topic/503077552/?_spm_id=MTgzMzk4Njkw"
+            },
+            {
+                "title": "环京房子105平20万出手",
+                "href": "https://www.douban.com/group/topic/503372423/?_spm_id=MjgzMzc4MTkx"
+            },
+            {
+                "title": "我好像渐渐喜欢上了低熵的生活",
+                "href": "https://www.douban.com/group/topic/503500169/?_spm_id=MjgwMzgzMTMz"
+            },
+            {
+                "title": "东北人御寒，还得是家乡菜。",
+                "href": "https://www.douban.com/group/topic/503344640/?_spm_id=OTExMDI2MjE"
+            },
+            {
+                "title": "我和小狗一起生活的家",
+                "href": "https://www.douban.com/group/topic/503445502/?_spm_id=MTM2Njc1Mjc0"
+            },
+            {
+                "title": "我的小狗13岁啦",
+                "href": "https://www.douban.com/group/topic/503383466/?_spm_id=MTczODUzODk3"
+            },
+            {
+                "title": "每到这个季节就很忙",
+                "href": "https://www.douban.com/group/topic/503385627/?_spm_id=MTg5NzMwMjIz"
+            },
+            {
+                "title": "淡季的大连 沿着海岸线漫步 让我感觉自己是世界上最幸福的人",
+                "href": "https://www.douban.com/group/topic/503344526/?_spm_id=MjM4MTgwNTY0"
+            },
+            {
+                "title": "古法手搓简历回不去了",
+                "href": "https://www.douban.com/group/topic/503507996/?_spm_id=MjE1ODcxMzc5"
+            },
+            {
+                "title": "不徒步也可以在尼泊尔有超多体验！（多字多图）",
+                "href": "https://www.douban.com/group/topic/503094059/?_spm_id=NDU4MTE3MzU"
+            },
+            {
+                "title": "过日子人连木头边角料都能变成花",
+                "href": "https://www.douban.com/group/topic/503216129/?_spm_id=MjE0NTIxMTU5"
+            },
+            {
+                "title": "小房子也可以丰富多彩",
+                "href": "https://www.douban.com/group/topic/503277829/?_spm_id=MTgxMDQwMDQ5"
             }
         ]
     },
@@ -339,127 +456,6 @@
             {
                 "title": "吧友预测S赛八强格局",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368535&topic_name=%E5%90%A7%E5%8F%8B%E9%A2%84%E6%B5%8BS%E8%B5%9B%E5%85%AB%E5%BC%BA%E6%A0%BC%E5%B1%80"
-            }
-        ]
-    },
-    {
-        "hot_name": "豆瓣",
-        "content": [
-            {
-                "title": "胰岛素抵抗经验贴，症状+检查前+日常饮食和运动",
-                "href": "https://www.douban.com/group/topic/503853420/?_spm_id=MTY1NTI0NjE4"
-            },
-            {
-                "title": "历时半年，自装47平小公寓～快来参观我的家呀。",
-                "href": "https://www.douban.com/group/topic/503777312/?_spm_id=MjI3NzQ4ODc0"
-            },
-            {
-                "title": "小麻雀的秋天3",
-                "href": "https://www.douban.com/group/topic/503745803/?_spm_id=MzM4OTExMg"
-            },
-            {
-                "title": "🎞胶片记录 | 玉龙雪山",
-                "href": "https://www.douban.com/group/topic/503755875/?_spm_id=NTUzNjE1ODU"
-            },
-            {
-                "title": "“一年后的我应该在巴塞罗那” ——我会反复回想起 一年前巴塞罗那的阳光 温柔地亲吻每个人的脸颊",
-                "href": "https://www.douban.com/group/topic/503758900/?_spm_id=MjM4MTgwNTY0"
-            },
-            {
-                "title": "秋日限定|杏运菊气饺🍂🌼🥟",
-                "href": "https://www.douban.com/group/topic/503692751/?_spm_id=MjY2MjA5NjQx"
-            },
-            {
-                "title": "北京看展 | 尼古拉·费欣——列宾心中的天才",
-                "href": "https://www.douban.com/group/topic/503777373/?_spm_id=MTg3MTMwODQw"
-            },
-            {
-                "title": "逢人便想说帕米尔高原的秋天有多美",
-                "href": "https://www.douban.com/group/topic/503670185/?_spm_id=NDAzNTk4NjE"
-            },
-            {
-                "title": "不花钱居家锻炼4年，骨盆前倾勒骨外翻脖子前伸全！好！啦！（含课程推荐",
-                "href": "https://www.douban.com/group/topic/503762641/?_spm_id=Nzg2MzY4ODk"
-            },
-            {
-                "title": "19天爽玩云南7个城市的懒人旅游攻略。。你也来试试吧。。（建设完毕🔚）",
-                "href": "https://www.douban.com/group/topic/503328210/?_spm_id=MTgxNTkyMjcz"
-            },
-            {
-                "title": "我的巴黎探索日记-像狗一样好奇探索大自然",
-                "href": "https://www.douban.com/group/topic/503471175/?_spm_id=MjM4MTgwNTY0"
-            },
-            {
-                "title": "穷人懒人如何补充蛋白质",
-                "href": "https://www.douban.com/group/topic/503615395/?_spm_id=MjAyMjQwNzY0"
-            },
-            {
-                "title": "30天下厨灵感",
-                "href": "https://www.douban.com/group/topic/503496164/?_spm_id=Nzc3ODAwNzE"
-            },
-            {
-                "title": "昙花一现",
-                "href": "https://www.douban.com/group/topic/503713344/?_spm_id=MjI1MDY2NDIw"
-            },
-            {
-                "title": "听一个56岁的保安大叔，讲他“随时跑路”的生存智慧",
-                "href": "https://www.douban.com/group/topic/503576219/?_spm_id=MjkzODQyMDg2"
-            },
-            {
-                "title": "一些小韩购物分享",
-                "href": "https://www.douban.com/group/topic/503369381/?_spm_id=Mjk0NTE0MjU5"
-            },
-            {
-                "title": "如果你总怀疑自己抗压能力不强，可以看看这篇",
-                "href": "https://www.douban.com/group/topic/503581010/?_spm_id=MTM4NjEzMjM3"
-            },
-            {
-                "title": "没来暖气的这一个月，懒人保暖小窍门，亲测有效",
-                "href": "https://www.douban.com/group/topic/503077552/?_spm_id=MTgzMzk4Njkw"
-            },
-            {
-                "title": "环京房子105平20万出手",
-                "href": "https://www.douban.com/group/topic/503372423/?_spm_id=MjgzMzc4MTkx"
-            },
-            {
-                "title": "我好像渐渐喜欢上了低熵的生活",
-                "href": "https://www.douban.com/group/topic/503500169/?_spm_id=MjgwMzgzMTMz"
-            },
-            {
-                "title": "东北人御寒，还得是家乡菜。",
-                "href": "https://www.douban.com/group/topic/503344640/?_spm_id=OTExMDI2MjE"
-            },
-            {
-                "title": "我和小狗一起生活的家",
-                "href": "https://www.douban.com/group/topic/503445502/?_spm_id=MTM2Njc1Mjc0"
-            },
-            {
-                "title": "我的小狗13岁啦",
-                "href": "https://www.douban.com/group/topic/503383466/?_spm_id=MTczODUzODk3"
-            },
-            {
-                "title": "每到这个季节就很忙",
-                "href": "https://www.douban.com/group/topic/503385627/?_spm_id=MTg5NzMwMjIz"
-            },
-            {
-                "title": "淡季的大连 沿着海岸线漫步 让我感觉自己是世界上最幸福的人",
-                "href": "https://www.douban.com/group/topic/503344526/?_spm_id=MjM4MTgwNTY0"
-            },
-            {
-                "title": "古法手搓简历回不去了",
-                "href": "https://www.douban.com/group/topic/503507996/?_spm_id=MjE1ODcxMzc5"
-            },
-            {
-                "title": "不徒步也可以在尼泊尔有超多体验！（多字多图）",
-                "href": "https://www.douban.com/group/topic/503094059/?_spm_id=NDU4MTE3MzU"
-            },
-            {
-                "title": "过日子人连木头边角料都能变成花",
-                "href": "https://www.douban.com/group/topic/503216129/?_spm_id=MjE0NTIxMTU5"
-            },
-            {
-                "title": "小房子也可以丰富多彩",
-                "href": "https://www.douban.com/group/topic/503277829/?_spm_id=MTgxMDQwMDQ5"
             }
         ]
     },
