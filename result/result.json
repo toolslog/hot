@@ -1,30 +1,5 @@
 [
     {
-        "hot_name": "V2EX",
-        "content": [
-            {
-                "title": "关于广州公交扫码成功率的体感",
-                "href": "https://www.v2ex.com/t/1253634#reply4"
-            },
-            {
-                "title": "Tibo 的 28 天挑战结束了，来回顾一下他的战绩",
-                "href": "https://www.v2ex.com/t/1253633#reply2"
-            },
-            {
-                "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
-                "href": "https://www.v2ex.com/t/1253635#reply2"
-            },
-            {
-                "title": "请推荐 Windows 下的翻译软件，现在用 pot 不更新了",
-                "href": "https://www.v2ex.com/t/1253636#reply0"
-            },
-            {
-                "title": "miniqmt 免 5 还能开，需要的滴滴～",
-                "href": "https://www.v2ex.com/t/1253637#reply0"
-            }
-        ]
-    },
-    {
         "hot_name": "GitHub",
         "content": [
             {
@@ -98,23 +73,216 @@
         ]
     },
     {
+        "hot_name": "V2EX",
+        "content": [
+            {
+                "title": "没有人讨论影之刃零吗？",
+                "href": "https://www.v2ex.com/t/1253638#reply143"
+            },
+            {
+                "title": "你们除了上班 娱乐方式有哪些",
+                "href": "https://www.v2ex.com/t/1253690#reply120"
+            },
+            {
+                "title": "大家现在每天早餐消费多少钱？",
+                "href": "https://www.v2ex.com/t/1253673#reply97"
+            },
+            {
+                "title": "agent 的代码到底审不审核",
+                "href": "https://www.v2ex.com/t/1253699#reply94"
+            },
+            {
+                "title": "兄弟们这辈子买过的最贵的东西是什么？",
+                "href": "https://www.v2ex.com/t/1253707#reply90"
+            },
+            {
+                "title": "现在的行情真的很冷",
+                "href": "https://www.v2ex.com/t/1253652#reply80"
+            },
+            {
+                "title": "[HyperAPI 中转站]的新老用户来领鸡蛋了，评论留 ID，送$10 体验额度",
+                "href": "https://www.v2ex.com/t/1253677#reply64"
+            },
+            {
+                "title": "朋友一家定期献血，我看着矿泉水瓶陷入了沉思",
+                "href": "https://www.v2ex.com/t/1253782#reply52"
+            },
+            {
+                "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
+                "href": "https://www.v2ex.com/t/1253635#reply46"
+            },
+            {
+                "title": "挂着日本节点，网站一眼就看出我是中国人。所以我写了个工具， 看谁卖了我",
+                "href": "https://www.v2ex.com/t/1253711#reply45"
+            },
+            {
+                "title": "claude 弹出 kyc 已经通过，是更稳定还是距离封禁不远了？",
+                "href": "https://www.v2ex.com/t/1253660#reply35"
+            },
+            {
+                "title": "周末刷到抖音，都是 35 岁失业送外卖。只有程序员这么惨么？",
+                "href": "https://www.v2ex.com/t/1253686#reply35"
+            },
+            {
+                "title": "最近几个月感到心脏不适，周末去做了个检查，发现高血脂了...",
+                "href": "https://www.v2ex.com/t/1253678#reply30"
+            },
+            {
+                "title": "没有在体制内工作的各位，你们还在继续交纳党费吗？",
+                "href": "https://www.v2ex.com/t/1253734#reply27"
+            },
+            {
+                "title": "AI 普及之后，应该把所有 Electron 重写为 native",
+                "href": "https://www.v2ex.com/t/1253744#reply26"
+            },
+            {
+                "title": "为什么 rust 这么难学",
+                "href": "https://www.v2ex.com/t/1253665#reply24"
+            },
+            {
+                "title": "万一 token 全部涨价，我们怎么办？",
+                "href": "https://www.v2ex.com/t/1253791#reply23"
+            },
+            {
+                "title": "关于广州公交扫码成功率的体感",
+                "href": "https://www.v2ex.com/t/1253634#reply22"
+            },
+            {
+                "title": "部门裁了 20%多了",
+                "href": "https://www.v2ex.com/t/1253701#reply19"
+            },
+            {
+                "title": "被控端的 ToDesk 精简版本，要控制端开会员才能远程了",
+                "href": "https://www.v2ex.com/t/1253654#reply18"
+            },
+            {
+                "title": "周末被 4S 忽悠了，真 TMD 恶心！",
+                "href": "https://www.v2ex.com/t/1253727#reply18"
+            },
+            {
+                "title": "大佬们帮忙选选几个域名",
+                "href": "https://www.v2ex.com/t/1253663#reply17"
+            },
+            {
+                "title": "安卓开发机推荐",
+                "href": "https://www.v2ex.com/t/1253664#reply17"
+            },
+            {
+                "title": "大龄程序员，备考研究生学 AI",
+                "href": "https://www.v2ex.com/t/1253746#reply17"
+            },
+            {
+                "title": "在京东外卖点了一份鸡公煲，难吃到想提醒大家避坑",
+                "href": "https://www.v2ex.com/t/1253760#reply17"
+            },
+            {
+                "title": "pi agent 太费 token 了！",
+                "href": "https://www.v2ex.com/t/1253745#reply16"
+            },
+            {
+                "title": "前公司老板找我回去救场，情况比较特殊，想听听各位的建议",
+                "href": "https://www.v2ex.com/t/1253836#reply16"
+            },
+            {
+                "title": "chatgptPro 订阅如何开票报销",
+                "href": "https://www.v2ex.com/t/1253640#reply15"
+            },
+            {
+                "title": "给小宇宙做了个网页版，带评论热力图和逐字文稿",
+                "href": "https://www.v2ex.com/t/1253728#reply15"
+            },
+            {
+                "title": "国行安卓机器全方位无死角监控是默认的事情了？",
+                "href": "https://www.v2ex.com/t/1253799#reply15"
+            },
+            {
+                "title": "Tibo 的 28 天挑战结束了，来回顾一下他的战绩",
+                "href": "https://www.v2ex.com/t/1253633#reply14"
+            },
+            {
+                "title": "上头的联谊会",
+                "href": "https://www.v2ex.com/t/1253726#reply14"
+            },
+            {
+                "title": "11 月份网易云音乐黑胶会员领取，天数随机",
+                "href": "https://www.v2ex.com/t/1253648#reply12"
+            },
+            {
+                "title": "看公司 360 绩效评价系统 6 个月有感",
+                "href": "https://www.v2ex.com/t/1253712#reply12"
+            },
+            {
+                "title": "Codex Pro 100$续费订阅额度会重置吗？",
+                "href": "https://www.v2ex.com/t/1253674#reply11"
+            },
+            {
+                "title": "送一些 ImgURL 图床兑换码，已运营超过 8 年，需要博客、文档、论坛贴图的自取",
+                "href": "https://www.v2ex.com/t/1253725#reply11"
+            },
+            {
+                "title": "飞书桌面端相当令人不快的设计",
+                "href": "https://www.v2ex.com/t/1253768#reply11"
+            },
+            {
+                "title": "公司搬迁到新地点，味道很大，我的防毒成本每月增加 500+",
+                "href": "https://www.v2ex.com/t/1253793#reply11"
+            }
+        ]
+    },
+    {
         "hot_name": "贴吧",
         "content": [
             {
-                "title": "普通人不配?AI巨头嫌内存浪费",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9"
+                "title": "吧友举报留学生遭学校开盒",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368833&topic_name=%E5%90%A7%E5%8F%8B%E4%B8%BE%E6%8A%A5%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%AD%E5%AD%A6%E6%A0%A1%E5%BC%80%E7%9B%92"
+            },
+            {
+                "title": "81岁硬核吧友月饼盒造收音机",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368837&topic_name=81%E5%B2%81%E7%A1%AC%E6%A0%B8%E5%90%A7%E5%8F%8B%E6%9C%88%E9%A5%BC%E7%9B%92%E9%80%A0%E6%94%B6%E9%9F%B3%E6%9C%BA"
+            },
+            {
+                "title": "罗技再骂顾客是狗,吧友开炮",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368861&topic_name=%E7%BD%97%E6%8A%80%E5%86%8D%E9%AA%82%E9%A1%BE%E5%AE%A2%E6%98%AF%E7%8B%97%2C%E5%90%A7%E5%8F%8B%E5%BC%80%E7%82%AE"
+            },
+            {
+                "title": "微软裁员6万,全怪印度人摸鱼",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368856&topic_name=%E5%BE%AE%E8%BD%AF%E8%A3%81%E5%91%986%E4%B8%87%2C%E5%85%A8%E6%80%AA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%91%B8%E9%B1%BC"
+            },
+            {
+                "title": "美女声优cos小羊肖恩遭炎上",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368858&topic_name=%E7%BE%8E%E5%A5%B3%E5%A3%B0%E4%BC%98cos%E5%B0%8F%E7%BE%8A%E8%82%96%E6%81%A9%E9%81%AD%E7%82%8E%E4%B8%8A"
+            },
+            {
+                "title": "宙斯疑回T1,十六强太扎心",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368844&topic_name=%E5%AE%99%E6%96%AF%E7%96%91%E5%9B%9ET1%2C%E5%8D%81%E5%85%AD%E5%BC%BA%E5%A4%AA%E6%89%8E%E5%BF%83"
             },
             {
                 "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7"
             },
             {
-                "title": "岁月史书?大体老师事件被篡改",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368804&topic_name=%E5%B2%81%E6%9C%88%E5%8F%B2%E4%B9%A6%3F%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%BA%8B%E4%BB%B6%E8%A2%AB%E7%AF%A1%E6%94%B9"
+                "title": "泪目,许哥带队搜刮免费食物",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368836&topic_name=%E6%B3%AA%E7%9B%AE%2C%E8%AE%B8%E5%93%A5%E5%B8%A6%E9%98%9F%E6%90%9C%E5%88%AE%E5%85%8D%E8%B4%B9%E9%A3%9F%E7%89%A9"
+            },
+            {
+                "title": "美邮轮停航,乘客海上养老梦碎",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368828&topic_name=%E7%BE%8E%E9%82%AE%E8%BD%AE%E5%81%9C%E8%88%AA%2C%E4%B9%98%E5%AE%A2%E6%B5%B7%E4%B8%8A%E5%85%BB%E8%80%81%E6%A2%A6%E7%A2%8E"
+            },
+            {
+                "title": "给力!吧友自建邮票目录网站",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368843&topic_name=%E7%BB%99%E5%8A%9B%21%E5%90%A7%E5%8F%8B%E8%87%AA%E5%BB%BA%E9%82%AE%E7%A5%A8%E7%9B%AE%E5%BD%95%E7%BD%91%E7%AB%99"
             },
             {
                 "title": "网约车误入万圣节人流遭围攻",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368816&topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%AF%AF%E5%85%A5%E4%B8%87%E5%9C%A3%E8%8A%82%E4%BA%BA%E6%B5%81%E9%81%AD%E5%9B%B4%E6%94%BB"
+            },
+            {
+                "title": "普通人不配?AI巨头嫌内存浪费",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9"
+            },
+            {
+                "title": "岁月史书?大体老师事件被篡改",
+                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368804&topic_name=%E5%B2%81%E6%9C%88%E5%8F%B2%E4%B9%A6%3F%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%BA%8B%E4%BB%B6%E8%A2%AB%E7%AF%A1%E6%94%B9"
             },
             {
                 "title": "Bin放话取代Zeus做世一上",
@@ -173,10 +341,6 @@
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368640&topic_name=%E5%85%AD%E5%A7%90%E5%A6%B9%E9%BD%90%E5%AB%81%E6%9D%83%E8%B4%B5%2C%E5%A5%B3%E9%A2%91%E6%9D%83%E8%B0%8B%E5%A4%AA%E5%84%BF%E6%88%8F"
             },
             {
-                "title": "宿命对决!BLG生死局撞上HLE",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368618&topic_name=%E5%AE%BF%E5%91%BD%E5%AF%B9%E5%86%B3%21BLG%E7%94%9F%E6%AD%BB%E5%B1%80%E6%92%9E%E4%B8%8AHLE"
-            },
-            {
                 "title": "医学生辱大体老师仅被处分",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368628&topic_name=%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%BE%B1%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%BB%85%E8%A2%AB%E5%A4%84%E5%88%86"
             },
@@ -187,44 +351,36 @@
             {
                 "title": "亲妈蹭流量,张雪翻脸拉黑",
                 "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368627&topic_name=%E4%BA%B2%E5%A6%88%E8%B9%AD%E6%B5%81%E9%87%8F%2C%E5%BC%A0%E9%9B%AA%E7%BF%BB%E8%84%B8%E6%8B%89%E9%BB%91"
-            },
-            {
-                "title": "反诈斗士惨死,凶手死缓惹议",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368631&topic_name=%E5%8F%8D%E8%AF%88%E6%96%97%E5%A3%AB%E6%83%A8%E6%AD%BB%2C%E5%87%B6%E6%89%8B%E6%AD%BB%E7%BC%93%E6%83%B9%E8%AE%AE"
-            },
-            {
-                "title": "抗吧批瑞士轮赛制:抽签游戏",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368632&topic_name=%E6%8A%97%E5%90%A7%E6%89%B9%E7%91%9E%E5%A3%AB%E8%BD%AE%E8%B5%9B%E5%88%B6%3A%E6%8A%BD%E7%AD%BE%E6%B8%B8%E6%88%8F"
-            },
-            {
-                "title": "卖电脑遇豆包人,吧友笑疯",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368622&topic_name=%E5%8D%96%E7%94%B5%E8%84%91%E9%81%87%E8%B1%86%E5%8C%85%E4%BA%BA%2C%E5%90%A7%E5%8F%8B%E7%AC%91%E7%96%AF"
-            },
-            {
-                "title": "国产剧抄韩国文物?小韩倒反天罡",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368624&topic_name=%E5%9B%BD%E4%BA%A7%E5%89%A7%E6%8A%84%E9%9F%A9%E5%9B%BD%E6%96%87%E7%89%A9%3F%E5%B0%8F%E9%9F%A9%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1"
-            },
-            {
-                "title": "369打瓦悟道,抗吧怒赞Bin严父",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368623&topic_name=369%E6%89%93%E7%93%A6%E6%82%9F%E9%81%93%2C%E6%8A%97%E5%90%A7%E6%80%92%E8%B5%9EBin%E4%B8%A5%E7%88%B6"
-            },
-            {
-                "title": "完美小编被曝夹带私货嘲载物",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368621&topic_name=%E5%AE%8C%E7%BE%8E%E5%B0%8F%E7%BC%96%E8%A2%AB%E6%9B%9D%E5%A4%B9%E5%B8%A6%E7%A7%81%E8%B4%A7%E5%98%B2%E8%BD%BD%E7%89%A9"
-            },
-            {
-                "title": "16强开打,谁是最靓表情包",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368582&topic_name=16%E5%BC%BA%E5%BC%80%E6%89%93%2C%E8%B0%81%E6%98%AF%E6%9C%80%E9%9D%93%E8%A1%A8%E6%83%85%E5%8C%85"
-            },
-            {
-                "title": "吧友炼声线做单曲,带飞嘉然二创",
-                "href": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368615&topic_name=%E5%90%A7%E5%8F%8B%E7%82%BC%E5%A3%B0%E7%BA%BF%E5%81%9A%E5%8D%95%E6%9B%B2%2C%E5%B8%A6%E9%A3%9E%E5%98%89%E7%84%B6%E4%BA%8C%E5%88%9B"
             }
         ]
     },
     {
         "hot_name": "豆瓣",
         "content": [
+            {
+                "title": "爸妈千里迢迢来看我，于是我给他们煮了坨大的",
+                "href": "https://www.douban.com/group/topic/504108531/?_spm_id=MTUxNjQ1MDMz"
+            },
+            {
+                "title": "云南三城·芒市 腾冲 昆明",
+                "href": "https://www.douban.com/group/topic/504306189/?_spm_id=MTg5Nzg5Njk0"
+            },
+            {
+                "title": "喜欢的家",
+                "href": "https://www.douban.com/group/topic/504324554/?_spm_id=MTkxNjAzMTM4"
+            },
+            {
+                "title": "使把劲儿呀🐦",
+                "href": "https://www.douban.com/group/topic/504152152/?_spm_id=MTU1NjAwMzg"
+            },
+            {
+                "title": "十月总结",
+                "href": "https://www.douban.com/group/topic/504072102/?_spm_id=Mjk1MzUyMzAz"
+            },
+            {
+                "title": "分享几条非常好穿不挑身材的韩系裤子",
+                "href": "https://www.douban.com/group/topic/504243009/?_spm_id=MTY0ODM0NjIx"
+            },
             {
                 "title": "胰岛素抵抗经验贴，症状+检查前+日常饮食和运动",
                 "href": "https://www.douban.com/group/topic/503853420/?_spm_id=MTY1NTI0NjE4"
@@ -316,30 +472,6 @@
             {
                 "title": "我的小狗13岁啦",
                 "href": "https://www.douban.com/group/topic/503383466/?_spm_id=MTczODUzODk3"
-            },
-            {
-                "title": "每到这个季节就很忙",
-                "href": "https://www.douban.com/group/topic/503385627/?_spm_id=MTg5NzMwMjIz"
-            },
-            {
-                "title": "淡季的大连 沿着海岸线漫步 让我感觉自己是世界上最幸福的人",
-                "href": "https://www.douban.com/group/topic/503344526/?_spm_id=MjM4MTgwNTY0"
-            },
-            {
-                "title": "古法手搓简历回不去了",
-                "href": "https://www.douban.com/group/topic/503507996/?_spm_id=MjE1ODcxMzc5"
-            },
-            {
-                "title": "不徒步也可以在尼泊尔有超多体验！（多字多图）",
-                "href": "https://www.douban.com/group/topic/503094059/?_spm_id=NDU4MTE3MzU"
-            },
-            {
-                "title": "过日子人连木头边角料都能变成花",
-                "href": "https://www.douban.com/group/topic/503216129/?_spm_id=MjE0NTIxMTU5"
-            },
-            {
-                "title": "小房子也可以丰富多彩",
-                "href": "https://www.douban.com/group/topic/503277829/?_spm_id=MTgxMDQwMDQ5"
             }
         ]
     },
@@ -451,10 +583,6 @@
                 "href": "https://music.163.com/#/song?id=3453962065"
             },
             {
-                "title": "Acura Integurl X Sins Of The Father",
-                "href": "https://music.163.com/#/song?id=3433791771"
-            },
-            {
                 "title": "Call your name (DeepHouse)",
                 "href": "https://music.163.com/#/song?id=3451106402"
             },
@@ -559,10 +687,6 @@
                 "href": "https://music.163.com/#/song?id=1372762575"
             },
             {
-                "title": "焦虑型依恋",
-                "href": "https://music.163.com/#/song?id=3452463861"
-            },
-            {
                 "title": "Тысячу лет спустя",
                 "href": "https://music.163.com/#/song?id=3455607602"
             },
@@ -617,10 +741,6 @@
             {
                 "title": "One Of The Girls",
                 "href": "https://music.163.com/#/song?id=2058139099"
-            },
-            {
-                "title": "罗马议事会（永玄）",
-                "href": "https://music.163.com/#/song?id=3454720413"
             },
             {
                 "title": "千千阙歌",
@@ -745,6 +865,18 @@
             {
                 "title": "为你我受冷风吹",
                 "href": "https://music.163.com/#/song?id=257098"
+            },
+            {
+                "title": "在流水平静之前",
+                "href": "https://music.163.com/#/song?id=3454919966"
+            },
+            {
+                "title": "寻常岁月诗",
+                "href": "https://music.163.com/#/song?id=1415663223"
+            },
+            {
+                "title": "你的姑娘 (Live)",
+                "href": "https://music.163.com/#/song?id=3455557992"
             }
         ]
     },
